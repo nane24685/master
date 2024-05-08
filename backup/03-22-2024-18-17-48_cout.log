@@ -1,0 +1,567 @@
+[22:55:00.8713382][INFO/main.cpp:159] Yim's Menu Initializing
+[22:55:00.8722660][INFO/main.cpp:160] Git Info
+	Branch:	master
+	Hash:	d737c01b333f349ff9d4803784fee1051ee93cb9
+	Date:	Tue Feb 20 18:29:02 2024
+[22:55:00.8724378][INFO/main.cpp:172] Windows 10 Home Version 22H2 (OS Build 19045.4170)
+[22:55:00.8774112][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[22:55:00.8776314][INFO/main.cpp:180] Thread pool initialized.
+[22:55:00.8922287][INFO/main.cpp:183] Settings Loaded.
+[22:55:00.8922346][DEBUG/thread_pool.cpp:96] Thread 17068 executing settings.cpp:12
+[22:55:00.9024106][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[22:55:00.9024361][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[22:55:00.9024383][INFO/pointers.cpp:1821] Pointers cache: Loading 215 fields from the cache
+[22:55:00.9024582][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[22:55:00.9086897][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[22:55:00.9087090][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[22:55:00.9087132][INFO/pointers.cpp:1821] Pointers cache: Loading 5 fields from the cache
+[22:55:00.9087789][INFO/main.cpp:186] Pointers initialized.
+[22:55:00.9087880][INFO/main.cpp:193] Disabled anticheat gameskeleton.
+[22:55:00.9091602][INFO/main.cpp:196] Byte Patch Manager initialized.
+[22:55:01.5537314][INFO/main.cpp:199] Renderer initialized.
+[22:55:01.8060653][INFO/main.cpp:203] Fiber pool initialized.
+[22:55:01.8147904][INFO/main.cpp:206] HTTP Client initialized.
+[22:55:02.0942868][INFO/main.cpp:209] Translation Service initialized.
+[22:55:02.1345203][INFO/main.cpp:212] Hooking initialized.
+[22:55:02.1706102][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[22:55:02.1706265][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[22:55:02.1710466][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[22:55:02.1714336][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[22:55:02.1714416][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[22:55:02.1714564][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[22:55:02.1894797][DEBUG/thread_pool.cpp:96] Thread 888 executing player_database_service.cpp:285
+[22:55:02.1901545][INFO/main.cpp:233] Registered service instances...
+[22:55:02.1904333][INFO/main.cpp:254] Scripts registered.
+[22:55:02.3054259][INFO/main.cpp:257] Hooking enabled.
+[22:55:02.3095879][INFO/main.cpp:260] Dynamic native hooker initialized.
+[22:55:02.3107420][INFO/main.cpp:264] Lua manager initialized.
+[22:55:02.4374326][INFO/backend.cpp:53] Starting script: Self
+[22:55:02.4374571][INFO/backend.cpp:78] Starting script: Weapons
+[22:55:02.4374720][INFO/backend.cpp:101] Starting script: Vehicles
+[22:55:02.4374828][INFO/backend.cpp:117] Starting script: Miscellaneous
+[22:55:02.4375459][INFO/backend.cpp:138] Starting script: Remote
+[22:55:02.4375713][INFO/backend.cpp:153] Starting script: Ls customs
+[22:55:02.4375763][INFO/backend.cpp:165] Starting script: Rainbow paint
+[22:55:02.4375792][INFO/backend.cpp:177] Starting script: Disable Control Action
+[22:55:02.4375823][INFO/backend.cpp:190] Starting script: World
+[22:55:02.4778570][INFO/tunables_service.cpp:36] Loading tunables from cache
+[22:55:13.6553416][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[22:55:13.6568501][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[22:55:13.6574809][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[22:55:13.6575057][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[22:55:13.6789590][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[22:55:13.6790051][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[22:55:13.6790482][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[22:55:13.6790607][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[22:55:13.6901549][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[22:55:13.6901875][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[22:55:13.6902440][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[22:55:29.6571481][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[22:55:29.6572061][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[22:55:55.3538681][WARN/reaction.cpp:60] Received Modder Detection from rehansofye (244350231)
+[22:58:43.7988099][WARN/reaction.cpp:60] Received Modder Detection from Djole_PlayZ (247967612)
+[22:59:00.9028791][WARN/reaction.cpp:60] Received Modder Detection from Dajuma-18 (236465522)
+[22:59:00.9135412][WARN/reaction.cpp:60] Received Modder Detection from Dajuma-18 (236465522)
+[23:05:11.0678005][WARN/reaction.cpp:60] Received Modder Detection from Ayrton_1 (248528171)
+[23:13:57.1086014][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3888813966,"slot":0
+[23:18:25.1842813][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3889080452,"slot":0
+[23:22:27.6071786][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3889293607,"slot":0
+[23:23:53.9529013][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":33,"char":{"slot":0,"cash":46246,"bank":131305576,"evc":131351822,"pvc":0,"pxr":0.00000,"nonce":638467466269633071},"c":[2522.75073,-279.96594,-70.71581],"pt":3889374044,"vct":0,"vcp":0,"mid":344912972528619461,"action":"PICKUP","cat":"PICKED_UP"
+[23:23:53.9529743][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":33,"char":{"slot":0,"cash":46246,"bank":131305576,"evc":131351822,"pvc":0,"pxr":0.00000,"nonce":638467466269633071},"c":[2522.75073,-279.96594,-70.71581],"pt":3889374044,"vct":0,"vcp":0,"mid":344912972528619461,"action":"PICKUP","cat":"PICKED_UP"
+[23:25:35.3844055][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3889313663,"slot":0
+[23:25:35.3844998][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3889323716,"slot":0
+[23:25:35.3845067][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3889353891,"slot":0
+[23:25:35.3845116][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3889353891,"slot":0
+[23:25:35.3846573][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[2517.73,-278.89,-58.72],"wantedlvl":5
+[23:25:35.3846677][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3889414179,"slot":0
+[23:25:35.3846732][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3889424220,"slot":0
+[23:25:35.3846780][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3889434232,"slot":0
+[23:25:35.3846827][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3889434232,"slot":0
+[23:25:35.3846873][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3889444245,"slot":0
+[23:25:35.3847242][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3889477957,"slot":0
+[23:27:28.2338974][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[835.94,8.68,79.82],"wantedlvl":0
+[23:27:28.2340118][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[982.64,21.44,80.99],"wantedlvl":5
+[23:27:28.2340550][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[968.84,-14.09,80.47],"name":353883353,"cd":[968,-14],"wlvl":5
+[23:27:28.2340636][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[968.74,-14.19,80.45],"name":353883353,"cd":[968,-14],"wlvl":5
+[23:27:28.2341029][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2892279813,"cat":1924582434,"pt":3889543877,"slot":0
+[23:27:28.2341423][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[959.43,-52.85,78.11],"name":353883353,"cd":[959,-52],"wlvl":5
+[23:27:28.2341613][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[959.45,-52.97,78.09],"wantedlvl":4
+[23:27:28.2341801][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[959.45,-52.97,78.09],"wantedlvl":5
+[23:27:36.1260346][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[959.45,-52.97,78.09],"wantedlvl":0
+[23:28:02.3935091][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[23:28:02.3937560][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14587282,"type":3136273443,"cat":654913086,"pt":3889593972,"slot":0
+[23:29:17.9800040][WARN/reaction.cpp:60] Received Modder Detection from MoppeMannen (31143658)
+[23:29:49.3214480][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":38800,"char":{"slot":0,"cash":85046,"bank":131305576,"evc":131390622,"pvc":0,"pxr":0.00000,"nonce":638467469873985286},"c":[814.74841,-278.80850,66.46250],"pt":3889694192,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":2
+[23:29:49.3215131][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":38800,"char":{"slot":0,"cash":85046,"bank":131305576,"evc":131390622,"pvc":0,"pxr":0.00000,"nonce":638467469873985286},"c":[814.74841,-278.80850,66.46250],"pt":3889694192,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":2
+[23:29:57.1105159][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":17300,"char":{"slot":0,"cash":102346,"bank":131305576,"evc":131407922,"pvc":0,"pxr":0.00000,"nonce":638467469905889031},"c":[814.74841,-278.80850,66.46250],"pt":3889704209,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[23:29:57.1105651][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":17300,"char":{"slot":0,"cash":102346,"bank":131305576,"evc":131407922,"pvc":0,"pxr":0.00000,"nonce":638467469905889031},"c":[814.74841,-278.80850,66.46250],"pt":3889704209,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[23:30:02.6770743][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":14850,"char":{"slot":0,"cash":132496,"bank":131305576,"evc":131438072,"pvc":0,"pxr":0.00000,"nonce":638467469959732714},"c":[814.74841,-278.80850,66.46250],"pt":3889704209,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[23:30:02.6771277][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":14850,"char":{"slot":0,"cash":132496,"bank":131305576,"evc":131438072,"pvc":0,"pxr":0.00000,"nonce":638467469959732714},"c":[814.74841,-278.80850,66.46250],"pt":3889704209,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[23:31:03.4924181][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[23:40:15.3453371][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 171778267","b":959275690,"c":401263359,"d":[101.67,-313.69,45.29],"e":[1145.61,6477.36,-50.00],"f":7436662366574329814,"g":1635053384696789810,"h":-726383499,"i":1104331669,"n":1012,"op":[105.92,-385.73,131.91],"or":[0.91,-0.31,0.27],"os":[1.00
+[23:40:15.3454024][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 171778267","b":959275690,"c":401263359,"d":[101.67,-313.69,45.29],"e":[1145.61,6477.36,-50.00],"f":7436662366574329814,"g":1635053384696789810,"h":-726383499,"i":1104331669,"n":1014,"op":[107.43,-382.88,131.74],"or":[0.00,0.00,0.00],"os":[1.00
+[23:40:15.3454390][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 201782332","b":959275690,"c":401263359,"d":[114.68,-318.30,44.90],"e":[-73.73,-823.74,-50.00],"f":7436662366574329814,"g":1635053384696789810,"h":-726383499,"i":1104331669,"n":1015,"op":[103.25,-386.20,41.60],"or":[-0.01,-0.05,0.98],"os":[1.00
+[23:46:48.6344930][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3890596344,"slot":0
+[23:50:58.9146809][WARN/reaction.cpp:60] Received Modder Detection from GirICream (197491134)
+[23:52:56.1851159][WARN/reaction.cpp:60] Received Modder Detection from MoppeMannen (31143658)
+[23:54:21.4829579][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:21.6675505][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:21.9046134][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:22.0863878][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:25.2849591][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:25.4759470][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:25.6571393][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:25.8249368][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:25.9953425][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:26.1643534][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:26.3301552][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:27.2358205][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:27.4419889][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:54:37.7070341][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3891123205,"slot":0
+[23:54:37.7074552][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14589282,"type":3136273443,"cat":654913086,"pt":3891139798,"slot":0
+[23:56:34.8317802][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:34.9647015][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:35.1804634][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:35.3857633][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:35.5933473][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:35.7963480][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:36.0034030][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:36.1698342][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:36.3326844][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:36.5183731][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:36.6694573][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:36.8726388][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:37.0233720][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:37.1829426][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:37.3466732][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:37.6433259][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:37.7744662][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:37.9537992][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:38.1433944][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:38.3422711][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:38.5432276][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:38.7161107][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:38.9057253][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:39.0989136][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:39.2886445][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:39.4787477][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:39.6679802][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:39.8447144][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:40.0251417][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:40.1672218][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:56:40.3512790][WARN/reaction.cpp:60] Received Request Control Event from GirICream (197491134)
+[23:57:54.1503808][WARN/notify.hpp:67] Blocked sound spam crash from PinkCommunist (179037630)
+[00:01:15.8411277][WARN/reaction.cpp:60] Received Modder Detection from Loks350z (157251504)
+[00:04:08.0741142][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3891648814,"slot":0
+[00:05:25.3142889][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":82675,"char":{"slot":0,"cash":214671,"bank":131305547,"evc":131520218,"pvc":0,"pxr":0.00000,"nonce":638467491187151791},"c":[-336.96143,-137.39352,38.73474],"pt":3891764993,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[00:05:25.3143559][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":82675,"char":{"slot":0,"cash":214671,"bank":131305547,"evc":131520218,"pvc":0,"pxr":0.00000,"nonce":638467491187151791},"c":[-336.96143,-137.39352,38.73474],"pt":3891764993,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[00:06:12.8553720][WARN/reaction.cpp:60] Received Modder Detection from katzen115 (246880052)
+[00:08:56.1167451][WARN/interloper_reaction.cpp:30] Received Spectate Others from II-GoAirport-II (244440277), victim is BwanaKitoko
+[00:08:59.1608198][WARN/interloper_reaction.cpp:30] Received Spectate Others from II-GoAirport-II (244440277), victim is Danik_sv
+[00:09:06.8843705][WARN/interloper_reaction.cpp:30] Received Spectate Others from II-GoAirport-II (244440277), victim is Gamer4LB
+[00:09:16.2185245][WARN/interloper_reaction.cpp:30] Received Spectate Others from II-GoAirport-II (244440277), victim is GirICream
+[00:09:22.2696122][WARN/interloper_reaction.cpp:30] Received Spectate Others from II-GoAirport-II (244440277), victim is GirICream
+[00:13:20.3699471][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[450.42,-983.28,30.69],"wantedlvl":2
+[00:13:20.3703054][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[614.43,-1037.25,36.84],"wantedlvl":0
+[00:13:20.3703471][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14590282,"type":3136273443,"cat":654913086,"pt":3892207488,"slot":0
+[00:14:37.1791159][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":150,"type":2435321038,"cat":4036300758,"pt":3892224382,"slot":0
+[00:15:41.1222700][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":150,"type":2435321038,"cat":4036300758,"pt":3892284523,"slot":0
+[00:17:48.4863271][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":95000,"char":{"slot":0,"cash":309171,"bank":131296582,"evc":131605753,"pvc":0,"pxr":0.00000,"nonce":638467498618378115},"c":[-1615.72180,-3015.76392,-75.20506],"pt":3892458248,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[00:17:48.4863732][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":95000,"char":{"slot":0,"cash":309171,"bank":131296582,"evc":131605753,"pvc":0,"pxr":0.00000,"nonce":638467498618378115},"c":[-1615.72180,-3015.76392,-75.20506],"pt":3892458248,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[00:21:29.1318974][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":11500,"char":{"slot":0,"cash":309171,"bank":131308082,"evc":131617253,"pvc":0,"pxr":0.00000,"nonce":638467500825361030},"c":[-167.32335,973.30640,226.18100],"pt":3892677931,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NONE
+[00:21:29.1319571][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":11500,"char":{"slot":0,"cash":309171,"bank":131308082,"evc":131617253,"pvc":0,"pxr":0.00000,"nonce":638467500825361030},"c":[-167.32335,973.30640,226.18100],"pt":3892677931,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NONE
+[00:21:44.7555779][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1300,"type":2658791846,"cat":1037279541,"pt":3892677931,"slot":0
+[00:25:07.0197376][WARN/reaction.cpp:60] Received Modder Detection from GodOfHellfire1 (243393185)
+[00:25:08.3321943][WARN/reaction.cpp:60] Received Modder Detection from ibos013 (171354931)
+[00:25:44.1841132][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:25:44.1841871][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14591882,"type":3136273443,"cat":654913086,"pt":3892886622,"slot":0
+[00:28:03.7564615][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1923.88,3027.21,33.68],"wantedlvl":2
+[00:30:23.9791331][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1298.44,493.30,685.37],"wantedlvl":0
+[00:31:24.0174727][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[123.78,1669.42,273.27],"wantedlvl":1
+[00:31:24.0178978][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[143.67,1259.33,251.30],"wantedlvl":0
+[00:31:24.0179324][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14591882,"type":3136273443,"cat":654913086,"pt":3893202020,"slot":0
+[00:38:03.5808262][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[103.94,-170.58,54.70],"wantedlvl":1
+[00:39:31.9991375][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-181.00,1489.56,288.74],"wantedlvl":2
+[00:39:31.9993698][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-405.28,1170.99,325.78],"wantedlvl":3
+[00:39:31.9994187][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-405.71,1160.80,325.91],"wantedlvl":4
+[00:39:31.9995142][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-456.53,1088.56,327.68],"wantedlvl":0
+[00:39:31.9995393][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14591882,"type":3136273443,"cat":654913086,"pt":3893683979,"slot":0
+[00:42:29.0906217][WARN/reaction.cpp:60] Received Modder Detection from 1QAYAQ1 (200587004)
+[00:42:40.6709457][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":5000,"char":{"slot":0,"cash":303171,"bank":131288082,"evc":131591253,"pvc":0,"pxr":0.00000,"nonce":638467513541716125},"c":[-514.53131,1183.91992,324.93112],"pt":3893864400,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"AM_HU
+[00:42:40.6709954][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":5000,"char":{"slot":0,"cash":303171,"bank":131288082,"evc":131591253,"pvc":0,"pxr":0.00000,"nonce":638467513541716125},"c":[-514.53131,1183.91992,324.93112],"pt":3893864400,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"AM_HU
+[00:43:01.4723243][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":3041509490,"pt":3893864400,"slot":0
+[00:43:23.2359770][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:23.4361497][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:23.5854594][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:23.7324147][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:23.8799380][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:24.0283850][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:24.1788761][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:24.3283994][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:24.4761447][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:24.6243537][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:24.7737068][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:25.0192562][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:25.2185461][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:25.4194841][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:25.6249568][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:25.8259956][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:26.0232027][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:26.2200475][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:26.4173979][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:26.6148305][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:26.8001607][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:26.9450525][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:27.1474716][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:27.3445766][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:27.5434980][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:27.7448166][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:27.9405694][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:28.1319137][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:28.3196656][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:28.4624270][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:28.6071635][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:28.8044764][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:28.9836478][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:29.1743854][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:29.3639388][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:29.5543949][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:29.7456549][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:29.9808404][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:30.1700952][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:30.3592811][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:30.5016725][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:30.7360772][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:30.8786110][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:31.0205859][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:31.1624654][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:31.3541662][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:31.5899191][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:31.7793531][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:31.9688732][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:32.2046925][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:32.3932777][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:32.5819417][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:32.7251458][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:32.9124801][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:33.0561311][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:33.1967515][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:33.3385929][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:33.4808860][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:33.6702437][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:33.8122098][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:33.9555835][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:34.0966543][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:34.2876300][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:34.4973750][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:34.6826332][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:34.8224008][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:34.9640819][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:35.1037962][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:35.2902641][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:35.4301202][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:35.5713002][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:35.7121724][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:35.8985174][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:36.0401886][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:36.1801223][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:36.3204979][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:36.5070705][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:36.6937904][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:36.8350252][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:37.0206988][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:37.2079650][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:37.3488359][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:37.4884507][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:37.6289900][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:37.8173079][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:37.9579292][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:38.0971370][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:38.2378644][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:38.4266698][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:38.5662887][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:38.7065616][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:38.8934918][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:39.0802084][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:39.2198566][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:39.3631548][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:39.5031745][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:39.6889194][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:39.8292656][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:39.9704027][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:40.1114492][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:40.2973946][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:40.4384552][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:40.5786496][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:40.7193754][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:40.9061578][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:41.0949638][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:41.2357532][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:41.3746569][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:41.5615745][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:41.7485736][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:41.8897376][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:42.0292377][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:42.2169532][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:42.4041530][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:42.5424155][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:42.6835040][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:42.8694184][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:43.0567545][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:43.1970006][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:43.3846506][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:43.5716302][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:43.7122489][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:43.8523522][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:44.0386556][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:44.2303945][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:44.3289181][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:44.4739486][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:44.6212569][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:44.7698967][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:44.9175208][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:45.0673511][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:45.2154129][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:45.3666932][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:45.5621596][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:45.7584735][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:45.9562875][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:46.1551487][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:46.3001816][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:46.4421120][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:46.5881122][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:46.7334948][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:46.8837556][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:47.0400658][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:47.1909542][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:47.3448859][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:47.4994988][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:47.6505927][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:47.7963626][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:47.9434231][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:48.0934009][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:48.2757324][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:48.4007065][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:48.5678826][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:48.7315350][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:48.9392758][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:49.1062824][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:49.2710229][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:49.4435206][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:49.5777397][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:49.7160765][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:49.9004815][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:50.0343139][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:50.1758330][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:50.3304464][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:50.4811057][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:50.6323838][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:50.7798495][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:51.0149498][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:51.1609567][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:51.3563677][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:51.5049694][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:51.7026626][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:51.8495010][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:51.9963083][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:52.2389503][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:52.4304968][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:52.4789667][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:52.6699505][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:52.8606501][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:53.0011349][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:53.2328882][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:43:53.4190635][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:14.2212872][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:14.4159009][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:14.6135547][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:14.8078664][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:15.0034838][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:15.1500538][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:15.2971576][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:15.4909529][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:15.6879153][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:15.8824046][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:16.0777179][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:16.2738946][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:16.4683719][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:16.6158693][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:16.7633821][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:16.9580120][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:17.1540098][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:17.3521288][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:17.5458033][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:17.7417290][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:17.9374406][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:18.0841350][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:18.2330377][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:18.3781205][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:18.5743764][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:18.7703371][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:18.9661675][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:19.1631785][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:19.3661636][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:19.5738214][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:19.7798666][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:19.9819604][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:20.1781047][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:20.3844193][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:20.5884878][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:20.7926853][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:20.9973029][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:21.2000143][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:21.4028466][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:21.6066280][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:21.8085790][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:21.9993958][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:22.1913087][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:22.3823839][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:22.5254496][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:22.7172960][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:22.9084265][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:23.0985107][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:23.2415590][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:23.3826836][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:23.5729752][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:23.7641600][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:23.9551722][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:24.0984489][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:24.2425186][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:24.4356127][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:24.6245051][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:24.8173832][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:24.9623769][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:25.1421621][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:25.3228733][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:25.4139505][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:25.5938494][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:25.7757367][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:25.8660810][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:26.0470203][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:26.2731012][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:26.4529787][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:26.6345581][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:26.8603445][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:27.0411476][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:27.2657196][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:27.4518498][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:27.6637856][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:27.8594563][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:27.8967471][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:28.1610918][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:28.3583947][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:28.5585713][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:28.7200111][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:28.9209117][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:29.1250820][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:29.3159090][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:29.4688227][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:29.6237387][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:29.7817620][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:29.9810683][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:30.1817740][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:30.3815840][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:30.5473319][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:30.7498746][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:30.9560089][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:31.1275298][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:31.2980452][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:31.4969565][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:31.6958359][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:31.8525516][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:32.0863907][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:32.2833626][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:32.4422954][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:32.6031327][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:32.7614576][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:32.9259105][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:33.0979982][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:33.2673510][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:33.3980389][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:33.5747764][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:33.7584330][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:33.9451308][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:34.1370591][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:34.3522613][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:34.5467009][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:34.7420247][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:34.9401306][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:35.1389140][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:35.2875251][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:35.4347679][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:35.5834360][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:35.7251516][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:35.9151518][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:36.1079304][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:36.3005923][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:36.4932829][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:36.6674211][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:36.9122829][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:37.0975847][WARN/reaction.cpp:60] Received Request Control Event from 1QAYAQ1 (200587004)
+[00:44:51.3042141][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-507.07,1178.90,324.10],"wantedlvl":1
+[00:44:51.3042659][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-413.33,1266.00,336.83],"wantedlvl":0
+[00:44:51.3043123][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14592882,"type":3136273443,"cat":654913086,"pt":3893991347,"slot":0
+[00:45:15.6269297][DEBUG/script_function.cpp:35] Found pattern RSD in script PauseMenu_Multiplayer
+[00:49:24.9013758][WARN/reaction.cpp:60] Received Modder Detection from Boombasticana (217101183)
+[00:49:25.5926686][WARN/reaction.cpp:60] Received Modder Detection from canceryebola (225133109)
+[00:50:01.1419802][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:50:17.6660166][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14592882,"type":3136273443,"cat":654913086,"pt":3894036659,"slot":0
+[00:51:16.6229854][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:51:24.7549943][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14592882,"type":3136273443,"cat":654913086,"pt":3894106307,"slot":0
+[00:53:40.3028620][WARN/reaction.cpp:60] Received Modder Detection from ALP2024 (238732568)
+[00:53:48.4637211][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:53:48.4638344][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14592882,"type":3136273443,"cat":654913086,"pt":3894250129,"slot":0
+[00:53:59.3980781][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: DIG; DATA: "gamer":"SC 243393185","action":"SCRIPT","data":{"a":5,"b":0},"id":7932624843002952833
+[00:54:12.5723596][WARN/reaction.cpp:60] Received Modder Detection from Boombasticana (217101183)
+[01:00:26.2524664][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[01:00:41.9138162][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14592882,"type":3136273443,"cat":654913086,"pt":3894517249,"slot":0
+[01:00:47.2121533][WARN/reaction.cpp:60] Received Modder Detection from GengisPong (167073155)
+[01:07:55.4242578][WARN/reaction.cpp:60] Received Modder Detection from Akela0108 (244900102)
+[01:07:59.1294323][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-233.78,-580.44,33.92],"wantedlvl":1
+[01:09:54.5843661][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-950.60,-436.07,37.29],"wantedlvl":0
+[01:09:54.5844111][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":100,"type":2892279813,"cat":3893038019,"pt":3895048339,"slot":0
+[01:09:54.5844422][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1114.73,-761.41,19.00],"wantedlvl":1
+[01:11:17.8303087][WARN/reaction.cpp:60] Received Modder Detection from canceryebola (225133109)
+[01:11:49.8963780][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1123.33,-723.24,20.02],"wantedlvl":2
+[01:13:57.7273341][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[605.42,-312.48,37.53],"wantedlvl":0
+[01:13:57.7273706][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3895218798,"slot":0
+[01:13:57.7274213][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[740.19,-90.54,54.82],"wantedlvl":1
+[01:13:57.7274520][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[803.48,38.31,64.89],"wantedlvl":2
+[01:13:57.7276688][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[22.35,-554.90,35.76],"wantedlvl":0
+[01:13:57.7276805][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3895278918,"slot":0
+[01:15:13.2411251][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[01:15:13.2412582][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14593382,"type":3136273443,"cat":654913086,"pt":3895401671,"slot":0
+[01:17:47.9022575][INFO/main.cpp:272] Scripts unregistered.
+[01:17:47.9027948][INFO/main.cpp:275] Lua manager uninitialized.
+[01:17:47.9647912][INFO/main.cpp:278] Hooking disabled.
+[01:17:47.9649207][INFO/main.cpp:281] Dynamic native hooker uninitialized.
+[01:17:47.9653398][DEBUG/thread_pool.cpp:109] Thread 17068 exiting...
+[01:17:47.9653930][DEBUG/thread_pool.cpp:109] Thread 7100 exiting...
+[01:17:47.9654019][DEBUG/thread_pool.cpp:109] Thread 1564 exiting...
+[01:17:48.0373685][DEBUG/thread_pool.cpp:109] Thread 888 exiting...
+[01:17:48.0389364][INFO/main.cpp:286] Destroyed thread pool.
+[01:17:48.0392448][INFO/main.cpp:289] Script Connection Service reset.
+[01:17:48.0416308][INFO/main.cpp:291] Tunables Service reset.
+[01:17:48.0419602][INFO/main.cpp:293] Hotkey Service reset.
+[01:17:48.0419658][INFO/main.cpp:295] Matchmaking Service reset.
+[01:17:48.0422069][INFO/main.cpp:297] Player Database Service reset.
+[01:17:48.0425159][INFO/main.cpp:299] API Service reset.
+[01:17:48.0686710][INFO/main.cpp:301] Script Patcher Service reset.
+[01:17:48.0687078][INFO/main.cpp:303] Gui Service reset.
+[01:17:48.0719515][INFO/main.cpp:305] GTA Data Service reset.
+[01:17:48.0719830][INFO/main.cpp:307] Vehicle Service reset.
+[01:17:48.0723711][INFO/main.cpp:309] Model Preview Service reset.
+[01:17:48.0723820][INFO/main.cpp:311] Mobile Service reset.
+[01:17:48.0723898][INFO/main.cpp:313] Player Service reset.
+[01:17:48.0723938][INFO/main.cpp:315] Pickup Service reset.
+[01:17:48.0727153][INFO/main.cpp:317] Custom Text Service reset.
+[01:17:48.0727903][INFO/main.cpp:319] Context Service reset.
+[01:17:48.0730766][INFO/main.cpp:321] Xml Vehicles Service reset.
+[01:17:48.0730817][INFO/main.cpp:322] Services uninitialized.
+[01:17:48.0731458][INFO/main.cpp:325] Hooking uninitialized.
+[01:17:48.0731539][INFO/main.cpp:328] Fiber pool uninitialized.
+[01:17:48.1039119][INFO/main.cpp:331] Renderer uninitialized.
+[01:17:48.1046520][INFO/main.cpp:334] Byte Patch Manager uninitialized.
+[01:17:48.1046749][INFO/main.cpp:337] Pointers uninitialized.
+[01:17:48.1046819][INFO/main.cpp:340] Thread pool uninitialized.
+[01:17:48.1046843][INFO/main.cpp:342] Farewell!

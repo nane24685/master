@@ -1,0 +1,3253 @@
+[20:59:51.3512730][INFO/main.cpp:104] Yim's Menu Initializing
+[20:59:51.3516557][INFO/main.cpp:105] Git Info
+	Branch:	master
+	Hash:	e005640c7515cf4c396fbaecc9fc9b0e3001c4f0
+	Date:	Wed Jan 17 11:08:35 2024
+[20:59:51.3520255][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[20:59:51.3525525][INFO/main.cpp:108] Thread pool initialized.
+[20:59:51.3678414][INFO/main.cpp:111] Settings Loaded.
+[20:59:51.3678523][DEBUG/thread_pool.cpp:96] Thread 15648 executing settings.cpp:12
+[20:59:51.3780473][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[20:59:51.3780793][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[20:59:51.3780823][INFO/pointers.cpp:1813] Pointers cache: Loading 215 fields from the cache
+[20:59:51.3781003][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[20:59:51.3837731][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[20:59:51.3838046][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[20:59:51.3838095][INFO/pointers.cpp:1813] Pointers cache: Loading 5 fields from the cache
+[20:59:51.3838666][INFO/main.cpp:114] Pointers initialized.
+[20:59:51.3838956][INFO/main.cpp:121] Disabled anticheat gameskeleton.
+[20:59:51.3843078][INFO/main.cpp:124] Byte Patch Manager initialized.
+[20:59:51.9929114][INFO/main.cpp:127] Renderer initialized.
+[20:59:52.2583367][INFO/main.cpp:131] Fiber pool initialized.
+[20:59:52.2658678][INFO/main.cpp:134] HTTP Client initialized.
+[20:59:52.6013014][INFO/main.cpp:137] Translation Service initialized.
+[20:59:52.6450872][INFO/main.cpp:140] Hooking initialized.
+[20:59:52.6850540][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[20:59:52.6850730][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[20:59:52.6863295][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[20:59:52.6871150][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[20:59:52.6871311][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[20:59:52.6871595][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[20:59:52.7013912][DEBUG/thread_pool.cpp:96] Thread 1440 executing player_database_service.cpp:285
+[20:59:52.7020275][INFO/main.cpp:161] Registered service instances...
+[20:59:52.7024482][INFO/main.cpp:182] Scripts registered.
+[20:59:52.8029457][INFO/main.cpp:185] Hooking enabled.
+[20:59:52.8063095][INFO/main.cpp:188] Dynamic native hooker initialized.
+[20:59:52.8074240][INFO/main.cpp:192] Lua manager initialized.
+[21:00:00.5122921][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[21:00:00.5123529][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[21:00:00.5132173][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[21:00:00.5132493][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[21:00:01.8984418][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF62D1C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFD8E310000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFD8CB80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFD8BEF0000 Size: 1255936
+USER32.dll Base Address: 0x7FFD8C4B0000 Size: 584704
+win32u.dll Base Address: 0x7FFD8BAF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFD8E2A0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFD8B9D0000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFD8BB50000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFD8BCB0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFD8C400000 Size: 2048
+WS2_32.dll Base Address: 0x7FFD8CCC0000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFD8CEF0000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFD8C1F0000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFD8BBF0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFD8E0E0000 Size: 477184
+IMM32.dll Base Address: 0x7FFD8E080000 Size: 125440
+VERSION.dll Base Address: 0x7FFD85F70000 Size: 10752
+bcrypt.dll Base Address: 0x7FFD8BB20000 Size: 102912
+DSOUND.dll Base Address: 0x7FFD1E160000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFD8C650000 Size: 182784
+advapi32.dll Base Address: 0x7FFD8DF00000 Size: 438784
+SHELL32.dll Base Address: 0x7FFD8D1E0000 Size: 5806592
+sechost.dll Base Address: 0x7FFD8C410000 Size: 421888
+combase.dll Base Address: 0x7FFD8D9C0000 Size: 2328064
+ole32.dll Base Address: 0x7FFD8DDD0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFD8CE20000 Size: 608768
+WININET.dll Base Address: 0x7FFD606B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFD83050000 Size: 81408
+MF.dll Base Address: 0x7FFD51BE0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFD51220000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFD8BC60000 Size: 219136
+shcore.dll Base Address: 0x7FFD8DD20000 Size: 476672
+msdmo.dll Base Address: 0x7FFD706E0000 Size: 13312
+PROPSYS.dll Base Address: 0x7FFD872D0000 Size: 631296
+MFReadWrite.dll Base Address: 0x7FFD1B3B0000 Size: 918016
+WTSAPI32.dll Base Address: 0x7FFD87660000 Size: 37888
+d3d9.dll Base Address: 0x7FFD5D590000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFD133A0000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFD54380000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFD8C6B0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFD8ADA0000 Size: 166400
+powrprof.dll Base Address: 0x7FFD8B120000 Size: 70656
+winmmbase.dll Base Address: 0x7FFD525B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFD89860000 Size: 16384
+dwmapi.dll Base Address: 0x7FFD89570000 Size: 98816
+windows.storage.dll Base Address: 0x7FFD89A60000 Size: 5845504
+Wldp.dll Base Address: 0x7FFD8B320000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFD6D2E0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFD31040000 Size: 909312
+GLU32.dll Base Address: 0x7FFD30AE0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFD12FD0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFD12D60000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFD1AB20000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFD00EA0000 Size: 3960320
+ksuser.dll Base Address: 0x7FFD16BE0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFD8B290000 Size: 10752
+UMPDC.dll Base Address: 0x7FFD8B100000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFD8BDB0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFD51BA0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFD8B740000 Size: 34816
+inputhost.dll Base Address: 0x7FFD7F7E0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFD88E90000 Size: 607744
+wintypes.dll Base Address: 0x7FFD877D0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFD88B30000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFD8AAA0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFD851B0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFD78F80000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFD8B6B0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFD8A980000 Size: 142336
+uxtheme.dll Base Address: 0x7FFD89310000 Size: 382976
+clbcatq.dll Base Address: 0x7FFD8C350000 Size: 437760
+amsi.dll Base Address: 0x7FFD6FD30000 Size: 62464
+USERENV.dll Base Address: 0x7FFD8B8C0000 Size: 108032
+profapi.dll Base Address: 0x7FFD8B900000 Size: 88064
+MpOav.dll Base Address: 0x7FFD6FCB0000 Size: 204800
+dxcore.dll Base Address: 0x7FFD83240000 Size: 150016
+apphelp.dll Base Address: 0x7FFD891B0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFD87930000 Size: 1853440
+dxgi.dll Base Address: 0x7FFD8A240000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFD8B760000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFD67B40000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFD6D2D0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFD8E180000 Size: 864256
+textinputframework.dll Base Address: 0x7FFD7F940000 Size: 722944
+WINSTA.dll Base Address: 0x7FFD8ACB0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFD83080000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFD83010000 Size: 190464
+atidxx64.dll Base Address: 0x7FFD81050000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFD7FFC0000 Size: 117248
+HID.DLL Base Address: 0x7FFD8A200000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFD84B90000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFD01B90000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFD84CA0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFD89470000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFD7FA70000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFD85100000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFD84ED0000 Size: 1456640
+avrt.dll Base Address: 0x7FFD86660000 Size: 5632
+napinsp.dll Base Address: 0x7FFD7CB30000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFD77480000 Size: 66048
+wshbth.dll Base Address: 0x7FFD77460000 Size: 43008
+NLAapi.dll Base Address: 0x7FFD87470000 Size: 68608
+mswsock.dll Base Address: 0x7FFD8B090000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFD8ADE0000 Size: 595456
+NSI.dll Base Address: 0x7FFD8D1D0000 Size: 7680
+winrnr.dll Base Address: 0x7FFD6E990000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFD80B20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFD80AA0000 Size: 7168
+imagehlp.dll Base Address: 0x7FFD8E0C0000 Size: 45056
+gpapi.dll Base Address: 0x7FFD8A210000 Size: 69120
+cryptnet.dll Base Address: 0x7FFD728E0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFD86650000 Size: 11776
+SspiCli.dll Base Address: 0x7FFD8B880000 Size: 123904
+socialclub.dll Base Address: 0x7FFD13A40000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFD4B240000 Size: 676864
+libcef.dll Base Address: 0x7FFCECFC0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFD8CD30000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFD5BC40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFD5B670000 Size: 260608
+Secur32.dll Base Address: 0x7FFD70FA0000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFD7A910000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFD67CF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFD7D770000 Size: 1601024
+USP10.dll Base Address: 0x7FFD31010000 Size: 512
+WINSPOOL.DRV Base Address: 0x7FFD627C0000 Size: 389632
+dxva2.dll Base Address: 0x7FFD51B70000 Size: 96256
+credui.dll Base Address: 0x7FFD53AB0000 Size: 55808
+urlmon.dll Base Address: 0x7FFD7D9F0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFD84750000 Size: 845312
+ncrypt.dll Base Address: 0x7FFD8B390000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFD67300000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFD86380000 Size: 61440
+wevtapi.dll Base Address: 0x7FFD86BD0000 Size: 296960
+ESENT.dll Base Address: 0x7FFD738F0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFD7DF50000 Size: 551424
+srvcli.dll Base Address: 0x7FFD7F510000 Size: 54272
+netutils.dll Base Address: 0x7FFD8AF00000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFD8AAE0000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFD78110000 Size: 61440
+NTASN1.dll Base Address: 0x7FFD8B350000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFD8A5A0000 Size: 329728
+fwbase.dll Base Address: 0x7FFD8A530000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFD7BED0000 Size: 205824
+wdmaud.drv Base Address: 0x7FFD01A80000 Size: 193024
+msacm32.drv Base Address: 0x7FFD6B770000 Size: 17920
+MSACM32.dll Base Address: 0x7FFD69B00000 Size: 74240
+midimap.dll Base Address: 0x7FFD677E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFD59610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFD863A0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFD485F0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFD5C410000 Size: 340480
+D3DCOMPILER_47.dll Base Address: 0x7FFD88160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFD59410000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFD59240000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFD70FE0000 Size: 30208
+schannel.DLL Base Address: 0x7FFD8A890000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFD72CD0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFD73770000 Size: 78848
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1750 0x7FF62D1C1750
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[21:00:01.8991954][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF62D1C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFD8E310000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFD8CB80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFD8BEF0000 Size: 1255936
+USER32.dll Base Address: 0x7FFD8C4B0000 Size: 584704
+win32u.dll Base Address: 0x7FFD8BAF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFD8E2A0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFD8B9D0000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFD8BB50000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFD8BCB0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFD8C400000 Size: 2048
+WS2_32.dll Base Address: 0x7FFD8CCC0000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFD8CEF0000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFD8C1F0000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFD8BBF0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFD8E0E0000 Size: 477184
+IMM32.dll Base Address: 0x7FFD8E080000 Size: 125440
+VERSION.dll Base Address: 0x7FFD85F70000 Size: 10752
+bcrypt.dll Base Address: 0x7FFD8BB20000 Size: 102912
+DSOUND.dll Base Address: 0x7FFD1E160000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFD8C650000 Size: 182784
+advapi32.dll Base Address: 0x7FFD8DF00000 Size: 438784
+SHELL32.dll Base Address: 0x7FFD8D1E0000 Size: 5806592
+sechost.dll Base Address: 0x7FFD8C410000 Size: 421888
+combase.dll Base Address: 0x7FFD8D9C0000 Size: 2328064
+ole32.dll Base Address: 0x7FFD8DDD0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFD8CE20000 Size: 608768
+WININET.dll Base Address: 0x7FFD606B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFD83050000 Size: 81408
+MF.dll Base Address: 0x7FFD51BE0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFD51220000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFD8BC60000 Size: 219136
+shcore.dll Base Address: 0x7FFD8DD20000 Size: 476672
+msdmo.dll Base Address: 0x7FFD706E0000 Size: 13312
+PROPSYS.dll Base Address: 0x7FFD872D0000 Size: 631296
+MFReadWrite.dll Base Address: 0x7FFD1B3B0000 Size: 918016
+WTSAPI32.dll Base Address: 0x7FFD87660000 Size: 37888
+d3d9.dll Base Address: 0x7FFD5D590000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFD133A0000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFD54380000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFD8C6B0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFD8ADA0000 Size: 166400
+powrprof.dll Base Address: 0x7FFD8B120000 Size: 70656
+winmmbase.dll Base Address: 0x7FFD525B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFD89860000 Size: 16384
+dwmapi.dll Base Address: 0x7FFD89570000 Size: 98816
+windows.storage.dll Base Address: 0x7FFD89A60000 Size: 5845504
+Wldp.dll Base Address: 0x7FFD8B320000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFD6D2E0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFD31040000 Size: 909312
+GLU32.dll Base Address: 0x7FFD30AE0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFD12FD0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFD12D60000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFD1AB20000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFD00EA0000 Size: 3960320
+ksuser.dll Base Address: 0x7FFD16BE0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFD8B290000 Size: 10752
+UMPDC.dll Base Address: 0x7FFD8B100000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFD8BDB0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFD51BA0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFD8B740000 Size: 34816
+inputhost.dll Base Address: 0x7FFD7F7E0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFD88E90000 Size: 607744
+wintypes.dll Base Address: 0x7FFD877D0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFD88B30000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFD8AAA0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFD851B0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFD78F80000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFD8B6B0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFD8A980000 Size: 142336
+uxtheme.dll Base Address: 0x7FFD89310000 Size: 382976
+clbcatq.dll Base Address: 0x7FFD8C350000 Size: 437760
+amsi.dll Base Address: 0x7FFD6FD30000 Size: 62464
+USERENV.dll Base Address: 0x7FFD8B8C0000 Size: 108032
+profapi.dll Base Address: 0x7FFD8B900000 Size: 88064
+MpOav.dll Base Address: 0x7FFD6FCB0000 Size: 204800
+dxcore.dll Base Address: 0x7FFD83240000 Size: 150016
+apphelp.dll Base Address: 0x7FFD891B0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFD87930000 Size: 1853440
+dxgi.dll Base Address: 0x7FFD8A240000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFD8B760000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFD67B40000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFD6D2D0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFD8E180000 Size: 864256
+textinputframework.dll Base Address: 0x7FFD7F940000 Size: 722944
+WINSTA.dll Base Address: 0x7FFD8ACB0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFD83080000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFD83010000 Size: 190464
+atidxx64.dll Base Address: 0x7FFD81050000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFD7FFC0000 Size: 117248
+HID.DLL Base Address: 0x7FFD8A200000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFD84B90000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFD01B90000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFD84CA0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFD89470000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFD7FA70000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFD85100000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFD84ED0000 Size: 1456640
+avrt.dll Base Address: 0x7FFD86660000 Size: 5632
+napinsp.dll Base Address: 0x7FFD7CB30000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFD77480000 Size: 66048
+wshbth.dll Base Address: 0x7FFD77460000 Size: 43008
+NLAapi.dll Base Address: 0x7FFD87470000 Size: 68608
+mswsock.dll Base Address: 0x7FFD8B090000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFD8ADE0000 Size: 595456
+NSI.dll Base Address: 0x7FFD8D1D0000 Size: 7680
+winrnr.dll Base Address: 0x7FFD6E990000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFD80B20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFD80AA0000 Size: 7168
+imagehlp.dll Base Address: 0x7FFD8E0C0000 Size: 45056
+gpapi.dll Base Address: 0x7FFD8A210000 Size: 69120
+cryptnet.dll Base Address: 0x7FFD728E0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFD86650000 Size: 11776
+SspiCli.dll Base Address: 0x7FFD8B880000 Size: 123904
+socialclub.dll Base Address: 0x7FFD13A40000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFD4B240000 Size: 676864
+libcef.dll Base Address: 0x7FFCECFC0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFD8CD30000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFD5BC40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFD5B670000 Size: 260608
+Secur32.dll Base Address: 0x7FFD70FA0000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFD7A910000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFD67CF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFD7D770000 Size: 1601024
+USP10.dll Base Address: 0x7FFD31010000 Size: 512
+WINSPOOL.DRV Base Address: 0x7FFD627C0000 Size: 389632
+dxva2.dll Base Address: 0x7FFD51B70000 Size: 96256
+credui.dll Base Address: 0x7FFD53AB0000 Size: 55808
+urlmon.dll Base Address: 0x7FFD7D9F0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFD84750000 Size: 845312
+ncrypt.dll Base Address: 0x7FFD8B390000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFD67300000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFD86380000 Size: 61440
+wevtapi.dll Base Address: 0x7FFD86BD0000 Size: 296960
+ESENT.dll Base Address: 0x7FFD738F0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFD7DF50000 Size: 551424
+srvcli.dll Base Address: 0x7FFD7F510000 Size: 54272
+netutils.dll Base Address: 0x7FFD8AF00000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFD8AAE0000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFD78110000 Size: 61440
+NTASN1.dll Base Address: 0x7FFD8B350000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFD8A5A0000 Size: 329728
+fwbase.dll Base Address: 0x7FFD8A530000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFD7BED0000 Size: 205824
+wdmaud.drv Base Address: 0x7FFD01A80000 Size: 193024
+msacm32.drv Base Address: 0x7FFD6B770000 Size: 17920
+MSACM32.dll Base Address: 0x7FFD69B00000 Size: 74240
+midimap.dll Base Address: 0x7FFD677E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFD59610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFD863A0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFD485F0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFD5C410000 Size: 340480
+D3DCOMPILER_47.dll Base Address: 0x7FFD88160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFD59410000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFD59240000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFD70FE0000 Size: 30208
+schannel.DLL Base Address: 0x7FFD8A890000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFD72CD0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFD73770000 Size: 78848
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1750 0x7FF62D1C1750
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1000 0x7FF62D1C1000
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[21:00:01.9050844][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF62D1C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFD8E310000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFD8CB80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFD8BEF0000 Size: 1255936
+USER32.dll Base Address: 0x7FFD8C4B0000 Size: 584704
+win32u.dll Base Address: 0x7FFD8BAF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFD8E2A0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFD8B9D0000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFD8BB50000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFD8BCB0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFD8C400000 Size: 2048
+WS2_32.dll Base Address: 0x7FFD8CCC0000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFD8CEF0000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFD8C1F0000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFD8BBF0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFD8E0E0000 Size: 477184
+IMM32.dll Base Address: 0x7FFD8E080000 Size: 125440
+VERSION.dll Base Address: 0x7FFD85F70000 Size: 10752
+bcrypt.dll Base Address: 0x7FFD8BB20000 Size: 102912
+DSOUND.dll Base Address: 0x7FFD1E160000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFD8C650000 Size: 182784
+advapi32.dll Base Address: 0x7FFD8DF00000 Size: 438784
+SHELL32.dll Base Address: 0x7FFD8D1E0000 Size: 5806592
+sechost.dll Base Address: 0x7FFD8C410000 Size: 421888
+combase.dll Base Address: 0x7FFD8D9C0000 Size: 2328064
+ole32.dll Base Address: 0x7FFD8DDD0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFD8CE20000 Size: 608768
+WININET.dll Base Address: 0x7FFD606B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFD83050000 Size: 81408
+MF.dll Base Address: 0x7FFD51BE0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFD51220000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFD8BC60000 Size: 219136
+shcore.dll Base Address: 0x7FFD8DD20000 Size: 476672
+msdmo.dll Base Address: 0x7FFD706E0000 Size: 13312
+PROPSYS.dll Base Address: 0x7FFD872D0000 Size: 631296
+MFReadWrite.dll Base Address: 0x7FFD1B3B0000 Size: 918016
+WTSAPI32.dll Base Address: 0x7FFD87660000 Size: 37888
+d3d9.dll Base Address: 0x7FFD5D590000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFD133A0000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFD54380000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFD8C6B0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFD8ADA0000 Size: 166400
+powrprof.dll Base Address: 0x7FFD8B120000 Size: 70656
+winmmbase.dll Base Address: 0x7FFD525B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFD89860000 Size: 16384
+dwmapi.dll Base Address: 0x7FFD89570000 Size: 98816
+windows.storage.dll Base Address: 0x7FFD89A60000 Size: 5845504
+Wldp.dll Base Address: 0x7FFD8B320000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFD6D2E0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFD31040000 Size: 909312
+GLU32.dll Base Address: 0x7FFD30AE0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFD12FD0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFD12D60000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFD1AB20000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFD00EA0000 Size: 3960320
+ksuser.dll Base Address: 0x7FFD16BE0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFD8B290000 Size: 10752
+UMPDC.dll Base Address: 0x7FFD8B100000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFD8BDB0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFD51BA0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFD8B740000 Size: 34816
+inputhost.dll Base Address: 0x7FFD7F7E0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFD88E90000 Size: 607744
+wintypes.dll Base Address: 0x7FFD877D0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFD88B30000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFD8AAA0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFD851B0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFD78F80000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFD8B6B0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFD8A980000 Size: 142336
+uxtheme.dll Base Address: 0x7FFD89310000 Size: 382976
+clbcatq.dll Base Address: 0x7FFD8C350000 Size: 437760
+amsi.dll Base Address: 0x7FFD6FD30000 Size: 62464
+USERENV.dll Base Address: 0x7FFD8B8C0000 Size: 108032
+profapi.dll Base Address: 0x7FFD8B900000 Size: 88064
+MpOav.dll Base Address: 0x7FFD6FCB0000 Size: 204800
+dxcore.dll Base Address: 0x7FFD83240000 Size: 150016
+apphelp.dll Base Address: 0x7FFD891B0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFD87930000 Size: 1853440
+dxgi.dll Base Address: 0x7FFD8A240000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFD8B760000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFD67B40000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFD6D2D0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFD8E180000 Size: 864256
+textinputframework.dll Base Address: 0x7FFD7F940000 Size: 722944
+WINSTA.dll Base Address: 0x7FFD8ACB0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFD83080000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFD83010000 Size: 190464
+atidxx64.dll Base Address: 0x7FFD81050000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFD7FFC0000 Size: 117248
+HID.DLL Base Address: 0x7FFD8A200000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFD84B90000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFD01B90000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFD84CA0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFD89470000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFD7FA70000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFD85100000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFD84ED0000 Size: 1456640
+avrt.dll Base Address: 0x7FFD86660000 Size: 5632
+napinsp.dll Base Address: 0x7FFD7CB30000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFD77480000 Size: 66048
+wshbth.dll Base Address: 0x7FFD77460000 Size: 43008
+NLAapi.dll Base Address: 0x7FFD87470000 Size: 68608
+mswsock.dll Base Address: 0x7FFD8B090000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFD8ADE0000 Size: 595456
+NSI.dll Base Address: 0x7FFD8D1D0000 Size: 7680
+winrnr.dll Base Address: 0x7FFD6E990000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFD80B20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFD80AA0000 Size: 7168
+imagehlp.dll Base Address: 0x7FFD8E0C0000 Size: 45056
+gpapi.dll Base Address: 0x7FFD8A210000 Size: 69120
+cryptnet.dll Base Address: 0x7FFD728E0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFD86650000 Size: 11776
+SspiCli.dll Base Address: 0x7FFD8B880000 Size: 123904
+socialclub.dll Base Address: 0x7FFD13A40000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFD4B240000 Size: 676864
+libcef.dll Base Address: 0x7FFCECFC0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFD8CD30000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFD5BC40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFD5B670000 Size: 260608
+Secur32.dll Base Address: 0x7FFD70FA0000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFD7A910000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFD67CF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFD7D770000 Size: 1601024
+USP10.dll Base Address: 0x7FFD31010000 Size: 512
+WINSPOOL.DRV Base Address: 0x7FFD627C0000 Size: 389632
+dxva2.dll Base Address: 0x7FFD51B70000 Size: 96256
+credui.dll Base Address: 0x7FFD53AB0000 Size: 55808
+urlmon.dll Base Address: 0x7FFD7D9F0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFD84750000 Size: 845312
+ncrypt.dll Base Address: 0x7FFD8B390000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFD67300000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFD86380000 Size: 61440
+wevtapi.dll Base Address: 0x7FFD86BD0000 Size: 296960
+ESENT.dll Base Address: 0x7FFD738F0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFD7DF50000 Size: 551424
+srvcli.dll Base Address: 0x7FFD7F510000 Size: 54272
+netutils.dll Base Address: 0x7FFD8AF00000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFD8AAE0000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFD78110000 Size: 61440
+NTASN1.dll Base Address: 0x7FFD8B350000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFD8A5A0000 Size: 329728
+fwbase.dll Base Address: 0x7FFD8A530000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFD7BED0000 Size: 205824
+wdmaud.drv Base Address: 0x7FFD01A80000 Size: 193024
+msacm32.drv Base Address: 0x7FFD6B770000 Size: 17920
+MSACM32.dll Base Address: 0x7FFD69B00000 Size: 74240
+midimap.dll Base Address: 0x7FFD677E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFD59610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFD863A0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFD485F0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFD5C410000 Size: 340480
+D3DCOMPILER_47.dll Base Address: 0x7FFD88160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFD59410000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFD59240000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFD70FE0000 Size: 30208
+schannel.DLL Base Address: 0x7FFD8A890000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFD72CD0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFD73770000 Size: 78848
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1750 0x7FF62D1C1750
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1000 0x7FF62D1C1000
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1755 0x7FF62D1C1755
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[21:00:01.9097357][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF62D1C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFD8E310000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFD8CB80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFD8BEF0000 Size: 1255936
+USER32.dll Base Address: 0x7FFD8C4B0000 Size: 584704
+win32u.dll Base Address: 0x7FFD8BAF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFD8E2A0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFD8B9D0000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFD8BB50000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFD8BCB0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFD8C400000 Size: 2048
+WS2_32.dll Base Address: 0x7FFD8CCC0000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFD8CEF0000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFD8C1F0000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFD8BBF0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFD8E0E0000 Size: 477184
+IMM32.dll Base Address: 0x7FFD8E080000 Size: 125440
+VERSION.dll Base Address: 0x7FFD85F70000 Size: 10752
+bcrypt.dll Base Address: 0x7FFD8BB20000 Size: 102912
+DSOUND.dll Base Address: 0x7FFD1E160000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFD8C650000 Size: 182784
+advapi32.dll Base Address: 0x7FFD8DF00000 Size: 438784
+SHELL32.dll Base Address: 0x7FFD8D1E0000 Size: 5806592
+sechost.dll Base Address: 0x7FFD8C410000 Size: 421888
+combase.dll Base Address: 0x7FFD8D9C0000 Size: 2328064
+ole32.dll Base Address: 0x7FFD8DDD0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFD8CE20000 Size: 608768
+WININET.dll Base Address: 0x7FFD606B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFD83050000 Size: 81408
+MF.dll Base Address: 0x7FFD51BE0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFD51220000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFD8BC60000 Size: 219136
+shcore.dll Base Address: 0x7FFD8DD20000 Size: 476672
+msdmo.dll Base Address: 0x7FFD706E0000 Size: 13312
+PROPSYS.dll Base Address: 0x7FFD872D0000 Size: 631296
+MFReadWrite.dll Base Address: 0x7FFD1B3B0000 Size: 918016
+WTSAPI32.dll Base Address: 0x7FFD87660000 Size: 37888
+d3d9.dll Base Address: 0x7FFD5D590000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFD133A0000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFD54380000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFD8C6B0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFD8ADA0000 Size: 166400
+powrprof.dll Base Address: 0x7FFD8B120000 Size: 70656
+winmmbase.dll Base Address: 0x7FFD525B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFD89860000 Size: 16384
+dwmapi.dll Base Address: 0x7FFD89570000 Size: 98816
+windows.storage.dll Base Address: 0x7FFD89A60000 Size: 5845504
+Wldp.dll Base Address: 0x7FFD8B320000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFD6D2E0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFD31040000 Size: 909312
+GLU32.dll Base Address: 0x7FFD30AE0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFD12FD0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFD12D60000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFD1AB20000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFD00EA0000 Size: 3960320
+ksuser.dll Base Address: 0x7FFD16BE0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFD8B290000 Size: 10752
+UMPDC.dll Base Address: 0x7FFD8B100000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFD8BDB0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFD51BA0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFD8B740000 Size: 34816
+inputhost.dll Base Address: 0x7FFD7F7E0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFD88E90000 Size: 607744
+wintypes.dll Base Address: 0x7FFD877D0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFD88B30000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFD8AAA0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFD851B0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFD78F80000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFD8B6B0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFD8A980000 Size: 142336
+uxtheme.dll Base Address: 0x7FFD89310000 Size: 382976
+clbcatq.dll Base Address: 0x7FFD8C350000 Size: 437760
+amsi.dll Base Address: 0x7FFD6FD30000 Size: 62464
+USERENV.dll Base Address: 0x7FFD8B8C0000 Size: 108032
+profapi.dll Base Address: 0x7FFD8B900000 Size: 88064
+MpOav.dll Base Address: 0x7FFD6FCB0000 Size: 204800
+dxcore.dll Base Address: 0x7FFD83240000 Size: 150016
+apphelp.dll Base Address: 0x7FFD891B0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFD87930000 Size: 1853440
+dxgi.dll Base Address: 0x7FFD8A240000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFD8B760000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFD67B40000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFD6D2D0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFD8E180000 Size: 864256
+textinputframework.dll Base Address: 0x7FFD7F940000 Size: 722944
+WINSTA.dll Base Address: 0x7FFD8ACB0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFD83080000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFD83010000 Size: 190464
+atidxx64.dll Base Address: 0x7FFD81050000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFD7FFC0000 Size: 117248
+HID.DLL Base Address: 0x7FFD8A200000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFD84B90000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFD01B90000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFD84CA0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFD89470000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFD7FA70000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFD85100000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFD84ED0000 Size: 1456640
+avrt.dll Base Address: 0x7FFD86660000 Size: 5632
+napinsp.dll Base Address: 0x7FFD7CB30000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFD77480000 Size: 66048
+wshbth.dll Base Address: 0x7FFD77460000 Size: 43008
+NLAapi.dll Base Address: 0x7FFD87470000 Size: 68608
+mswsock.dll Base Address: 0x7FFD8B090000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFD8ADE0000 Size: 595456
+NSI.dll Base Address: 0x7FFD8D1D0000 Size: 7680
+winrnr.dll Base Address: 0x7FFD6E990000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFD80B20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFD80AA0000 Size: 7168
+imagehlp.dll Base Address: 0x7FFD8E0C0000 Size: 45056
+gpapi.dll Base Address: 0x7FFD8A210000 Size: 69120
+cryptnet.dll Base Address: 0x7FFD728E0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFD86650000 Size: 11776
+SspiCli.dll Base Address: 0x7FFD8B880000 Size: 123904
+socialclub.dll Base Address: 0x7FFD13A40000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFD4B240000 Size: 676864
+libcef.dll Base Address: 0x7FFCECFC0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFD8CD30000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFD5BC40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFD5B670000 Size: 260608
+Secur32.dll Base Address: 0x7FFD70FA0000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFD7A910000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFD67CF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFD7D770000 Size: 1601024
+USP10.dll Base Address: 0x7FFD31010000 Size: 512
+WINSPOOL.DRV Base Address: 0x7FFD627C0000 Size: 389632
+dxva2.dll Base Address: 0x7FFD51B70000 Size: 96256
+credui.dll Base Address: 0x7FFD53AB0000 Size: 55808
+urlmon.dll Base Address: 0x7FFD7D9F0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFD84750000 Size: 845312
+ncrypt.dll Base Address: 0x7FFD8B390000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFD67300000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFD86380000 Size: 61440
+wevtapi.dll Base Address: 0x7FFD86BD0000 Size: 296960
+ESENT.dll Base Address: 0x7FFD738F0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFD7DF50000 Size: 551424
+srvcli.dll Base Address: 0x7FFD7F510000 Size: 54272
+netutils.dll Base Address: 0x7FFD8AF00000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFD8AAE0000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFD78110000 Size: 61440
+NTASN1.dll Base Address: 0x7FFD8B350000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFD8A5A0000 Size: 329728
+fwbase.dll Base Address: 0x7FFD8A530000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFD7BED0000 Size: 205824
+wdmaud.drv Base Address: 0x7FFD01A80000 Size: 193024
+msacm32.drv Base Address: 0x7FFD6B770000 Size: 17920
+MSACM32.dll Base Address: 0x7FFD69B00000 Size: 74240
+midimap.dll Base Address: 0x7FFD677E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFD59610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFD863A0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFD485F0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFD5C410000 Size: 340480
+D3DCOMPILER_47.dll Base Address: 0x7FFD88160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFD59410000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFD59240000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFD70FE0000 Size: 30208
+schannel.DLL Base Address: 0x7FFD8A890000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFD72CD0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFD73770000 Size: 78848
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1750 0x7FF62D1C1750
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1000 0x7FF62D1C1000
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1755 0x7FF62D1C1755
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1005 0x7FF62D1C1005
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[21:00:01.9146650][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF62D1C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFD8E310000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFD8CB80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFD8BEF0000 Size: 1255936
+USER32.dll Base Address: 0x7FFD8C4B0000 Size: 584704
+win32u.dll Base Address: 0x7FFD8BAF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFD8E2A0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFD8B9D0000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFD8BB50000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFD8BCB0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFD8C400000 Size: 2048
+WS2_32.dll Base Address: 0x7FFD8CCC0000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFD8CEF0000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFD8C1F0000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFD8BBF0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFD8E0E0000 Size: 477184
+IMM32.dll Base Address: 0x7FFD8E080000 Size: 125440
+VERSION.dll Base Address: 0x7FFD85F70000 Size: 10752
+bcrypt.dll Base Address: 0x7FFD8BB20000 Size: 102912
+DSOUND.dll Base Address: 0x7FFD1E160000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFD8C650000 Size: 182784
+advapi32.dll Base Address: 0x7FFD8DF00000 Size: 438784
+SHELL32.dll Base Address: 0x7FFD8D1E0000 Size: 5806592
+sechost.dll Base Address: 0x7FFD8C410000 Size: 421888
+combase.dll Base Address: 0x7FFD8D9C0000 Size: 2328064
+ole32.dll Base Address: 0x7FFD8DDD0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFD8CE20000 Size: 608768
+WININET.dll Base Address: 0x7FFD606B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFD83050000 Size: 81408
+MF.dll Base Address: 0x7FFD51BE0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFD51220000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFD8BC60000 Size: 219136
+shcore.dll Base Address: 0x7FFD8DD20000 Size: 476672
+msdmo.dll Base Address: 0x7FFD706E0000 Size: 13312
+PROPSYS.dll Base Address: 0x7FFD872D0000 Size: 631296
+MFReadWrite.dll Base Address: 0x7FFD1B3B0000 Size: 918016
+WTSAPI32.dll Base Address: 0x7FFD87660000 Size: 37888
+d3d9.dll Base Address: 0x7FFD5D590000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFD133A0000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFD54380000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFD8C6B0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFD8ADA0000 Size: 166400
+powrprof.dll Base Address: 0x7FFD8B120000 Size: 70656
+winmmbase.dll Base Address: 0x7FFD525B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFD89860000 Size: 16384
+dwmapi.dll Base Address: 0x7FFD89570000 Size: 98816
+windows.storage.dll Base Address: 0x7FFD89A60000 Size: 5845504
+Wldp.dll Base Address: 0x7FFD8B320000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFD6D2E0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFD31040000 Size: 909312
+GLU32.dll Base Address: 0x7FFD30AE0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFD12FD0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFD12D60000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFD1AB20000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFD00EA0000 Size: 3960320
+ksuser.dll Base Address: 0x7FFD16BE0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFD8B290000 Size: 10752
+UMPDC.dll Base Address: 0x7FFD8B100000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFD8BDB0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFD51BA0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFD8B740000 Size: 34816
+inputhost.dll Base Address: 0x7FFD7F7E0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFD88E90000 Size: 607744
+wintypes.dll Base Address: 0x7FFD877D0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFD88B30000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFD8AAA0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFD851B0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFD78F80000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFD8B6B0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFD8A980000 Size: 142336
+uxtheme.dll Base Address: 0x7FFD89310000 Size: 382976
+clbcatq.dll Base Address: 0x7FFD8C350000 Size: 437760
+amsi.dll Base Address: 0x7FFD6FD30000 Size: 62464
+USERENV.dll Base Address: 0x7FFD8B8C0000 Size: 108032
+profapi.dll Base Address: 0x7FFD8B900000 Size: 88064
+MpOav.dll Base Address: 0x7FFD6FCB0000 Size: 204800
+dxcore.dll Base Address: 0x7FFD83240000 Size: 150016
+apphelp.dll Base Address: 0x7FFD891B0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFD87930000 Size: 1853440
+dxgi.dll Base Address: 0x7FFD8A240000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFD8B760000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFD67B40000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFD6D2D0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFD8E180000 Size: 864256
+textinputframework.dll Base Address: 0x7FFD7F940000 Size: 722944
+WINSTA.dll Base Address: 0x7FFD8ACB0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFD83080000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFD83010000 Size: 190464
+atidxx64.dll Base Address: 0x7FFD81050000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFD7FFC0000 Size: 117248
+HID.DLL Base Address: 0x7FFD8A200000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFD84B90000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFD01B90000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFD84CA0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFD89470000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFD7FA70000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFD85100000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFD84ED0000 Size: 1456640
+avrt.dll Base Address: 0x7FFD86660000 Size: 5632
+napinsp.dll Base Address: 0x7FFD7CB30000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFD77480000 Size: 66048
+wshbth.dll Base Address: 0x7FFD77460000 Size: 43008
+NLAapi.dll Base Address: 0x7FFD87470000 Size: 68608
+mswsock.dll Base Address: 0x7FFD8B090000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFD8ADE0000 Size: 595456
+NSI.dll Base Address: 0x7FFD8D1D0000 Size: 7680
+winrnr.dll Base Address: 0x7FFD6E990000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFD80B20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFD80AA0000 Size: 7168
+imagehlp.dll Base Address: 0x7FFD8E0C0000 Size: 45056
+gpapi.dll Base Address: 0x7FFD8A210000 Size: 69120
+cryptnet.dll Base Address: 0x7FFD728E0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFD86650000 Size: 11776
+SspiCli.dll Base Address: 0x7FFD8B880000 Size: 123904
+socialclub.dll Base Address: 0x7FFD13A40000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFD4B240000 Size: 676864
+libcef.dll Base Address: 0x7FFCECFC0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFD8CD30000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFD5BC40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFD5B670000 Size: 260608
+Secur32.dll Base Address: 0x7FFD70FA0000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFD7A910000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFD67CF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFD7D770000 Size: 1601024
+USP10.dll Base Address: 0x7FFD31010000 Size: 512
+WINSPOOL.DRV Base Address: 0x7FFD627C0000 Size: 389632
+dxva2.dll Base Address: 0x7FFD51B70000 Size: 96256
+credui.dll Base Address: 0x7FFD53AB0000 Size: 55808
+urlmon.dll Base Address: 0x7FFD7D9F0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFD84750000 Size: 845312
+ncrypt.dll Base Address: 0x7FFD8B390000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFD67300000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFD86380000 Size: 61440
+wevtapi.dll Base Address: 0x7FFD86BD0000 Size: 296960
+ESENT.dll Base Address: 0x7FFD738F0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFD7DF50000 Size: 551424
+srvcli.dll Base Address: 0x7FFD7F510000 Size: 54272
+netutils.dll Base Address: 0x7FFD8AF00000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFD8AAE0000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFD78110000 Size: 61440
+NTASN1.dll Base Address: 0x7FFD8B350000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFD8A5A0000 Size: 329728
+fwbase.dll Base Address: 0x7FFD8A530000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFD7BED0000 Size: 205824
+wdmaud.drv Base Address: 0x7FFD01A80000 Size: 193024
+msacm32.drv Base Address: 0x7FFD6B770000 Size: 17920
+MSACM32.dll Base Address: 0x7FFD69B00000 Size: 74240
+midimap.dll Base Address: 0x7FFD677E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFD59610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFD863A0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFD485F0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFD5C410000 Size: 340480
+D3DCOMPILER_47.dll Base Address: 0x7FFD88160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFD59410000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFD59240000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFD70FE0000 Size: 30208
+schannel.DLL Base Address: 0x7FFD8A890000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFD72CD0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFD73770000 Size: 78848
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1750 0x7FF62D1C1750
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1000 0x7FF62D1C1000
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1755 0x7FF62D1C1755
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1005 0x7FF62D1C1005
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x175A 0x7FF62D1C175A
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[21:00:01.9203048][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF62D1C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFD8E310000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFD8CB80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFD8BEF0000 Size: 1255936
+USER32.dll Base Address: 0x7FFD8C4B0000 Size: 584704
+win32u.dll Base Address: 0x7FFD8BAF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFD8E2A0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFD8B9D0000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFD8BB50000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFD8BCB0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFD8C400000 Size: 2048
+WS2_32.dll Base Address: 0x7FFD8CCC0000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFD8CEF0000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFD8C1F0000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFD8BBF0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFD8E0E0000 Size: 477184
+IMM32.dll Base Address: 0x7FFD8E080000 Size: 125440
+VERSION.dll Base Address: 0x7FFD85F70000 Size: 10752
+bcrypt.dll Base Address: 0x7FFD8BB20000 Size: 102912
+DSOUND.dll Base Address: 0x7FFD1E160000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFD8C650000 Size: 182784
+advapi32.dll Base Address: 0x7FFD8DF00000 Size: 438784
+SHELL32.dll Base Address: 0x7FFD8D1E0000 Size: 5806592
+sechost.dll Base Address: 0x7FFD8C410000 Size: 421888
+combase.dll Base Address: 0x7FFD8D9C0000 Size: 2328064
+ole32.dll Base Address: 0x7FFD8DDD0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFD8CE20000 Size: 608768
+WININET.dll Base Address: 0x7FFD606B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFD83050000 Size: 81408
+MF.dll Base Address: 0x7FFD51BE0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFD51220000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFD8BC60000 Size: 219136
+shcore.dll Base Address: 0x7FFD8DD20000 Size: 476672
+msdmo.dll Base Address: 0x7FFD706E0000 Size: 13312
+PROPSYS.dll Base Address: 0x7FFD872D0000 Size: 631296
+MFReadWrite.dll Base Address: 0x7FFD1B3B0000 Size: 918016
+WTSAPI32.dll Base Address: 0x7FFD87660000 Size: 37888
+d3d9.dll Base Address: 0x7FFD5D590000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFD133A0000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFD54380000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFD8C6B0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFD8ADA0000 Size: 166400
+powrprof.dll Base Address: 0x7FFD8B120000 Size: 70656
+winmmbase.dll Base Address: 0x7FFD525B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFD89860000 Size: 16384
+dwmapi.dll Base Address: 0x7FFD89570000 Size: 98816
+windows.storage.dll Base Address: 0x7FFD89A60000 Size: 5845504
+Wldp.dll Base Address: 0x7FFD8B320000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFD6D2E0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFD31040000 Size: 909312
+GLU32.dll Base Address: 0x7FFD30AE0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFD12FD0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFD12D60000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFD1AB20000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFD00EA0000 Size: 3960320
+ksuser.dll Base Address: 0x7FFD16BE0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFD8B290000 Size: 10752
+UMPDC.dll Base Address: 0x7FFD8B100000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFD8BDB0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFD51BA0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFD8B740000 Size: 34816
+inputhost.dll Base Address: 0x7FFD7F7E0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFD88E90000 Size: 607744
+wintypes.dll Base Address: 0x7FFD877D0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFD88B30000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFD8AAA0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFD851B0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFD78F80000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFD8B6B0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFD8A980000 Size: 142336
+uxtheme.dll Base Address: 0x7FFD89310000 Size: 382976
+clbcatq.dll Base Address: 0x7FFD8C350000 Size: 437760
+amsi.dll Base Address: 0x7FFD6FD30000 Size: 62464
+USERENV.dll Base Address: 0x7FFD8B8C0000 Size: 108032
+profapi.dll Base Address: 0x7FFD8B900000 Size: 88064
+MpOav.dll Base Address: 0x7FFD6FCB0000 Size: 204800
+dxcore.dll Base Address: 0x7FFD83240000 Size: 150016
+apphelp.dll Base Address: 0x7FFD891B0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFD87930000 Size: 1853440
+dxgi.dll Base Address: 0x7FFD8A240000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFD8B760000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFD67B40000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFD6D2D0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFD8E180000 Size: 864256
+textinputframework.dll Base Address: 0x7FFD7F940000 Size: 722944
+WINSTA.dll Base Address: 0x7FFD8ACB0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFD83080000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFD83010000 Size: 190464
+atidxx64.dll Base Address: 0x7FFD81050000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFD7FFC0000 Size: 117248
+HID.DLL Base Address: 0x7FFD8A200000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFD84B90000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFD01B90000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFD84CA0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFD89470000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFD7FA70000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFD85100000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFD84ED0000 Size: 1456640
+avrt.dll Base Address: 0x7FFD86660000 Size: 5632
+napinsp.dll Base Address: 0x7FFD7CB30000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFD77480000 Size: 66048
+wshbth.dll Base Address: 0x7FFD77460000 Size: 43008
+NLAapi.dll Base Address: 0x7FFD87470000 Size: 68608
+mswsock.dll Base Address: 0x7FFD8B090000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFD8ADE0000 Size: 595456
+NSI.dll Base Address: 0x7FFD8D1D0000 Size: 7680
+winrnr.dll Base Address: 0x7FFD6E990000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFD80B20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFD80AA0000 Size: 7168
+imagehlp.dll Base Address: 0x7FFD8E0C0000 Size: 45056
+gpapi.dll Base Address: 0x7FFD8A210000 Size: 69120
+cryptnet.dll Base Address: 0x7FFD728E0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFD86650000 Size: 11776
+SspiCli.dll Base Address: 0x7FFD8B880000 Size: 123904
+socialclub.dll Base Address: 0x7FFD13A40000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFD4B240000 Size: 676864
+libcef.dll Base Address: 0x7FFCECFC0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFD8CD30000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFD5BC40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFD5B670000 Size: 260608
+Secur32.dll Base Address: 0x7FFD70FA0000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFD7A910000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFD67CF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFD7D770000 Size: 1601024
+USP10.dll Base Address: 0x7FFD31010000 Size: 512
+WINSPOOL.DRV Base Address: 0x7FFD627C0000 Size: 389632
+dxva2.dll Base Address: 0x7FFD51B70000 Size: 96256
+credui.dll Base Address: 0x7FFD53AB0000 Size: 55808
+urlmon.dll Base Address: 0x7FFD7D9F0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFD84750000 Size: 845312
+ncrypt.dll Base Address: 0x7FFD8B390000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFD67300000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFD86380000 Size: 61440
+wevtapi.dll Base Address: 0x7FFD86BD0000 Size: 296960
+ESENT.dll Base Address: 0x7FFD738F0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFD7DF50000 Size: 551424
+srvcli.dll Base Address: 0x7FFD7F510000 Size: 54272
+netutils.dll Base Address: 0x7FFD8AF00000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFD8AAE0000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFD78110000 Size: 61440
+NTASN1.dll Base Address: 0x7FFD8B350000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFD8A5A0000 Size: 329728
+fwbase.dll Base Address: 0x7FFD8A530000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFD7BED0000 Size: 205824
+wdmaud.drv Base Address: 0x7FFD01A80000 Size: 193024
+msacm32.drv Base Address: 0x7FFD6B770000 Size: 17920
+MSACM32.dll Base Address: 0x7FFD69B00000 Size: 74240
+midimap.dll Base Address: 0x7FFD677E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFD59610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFD863A0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFD485F0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFD5C410000 Size: 340480
+D3DCOMPILER_47.dll Base Address: 0x7FFD88160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFD59410000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFD59240000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFD70FE0000 Size: 30208
+schannel.DLL Base Address: 0x7FFD8A890000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFD72CD0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFD73770000 Size: 78848
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1750 0x7FF62D1C1750
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1000 0x7FF62D1C1000
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1755 0x7FF62D1C1755
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1005 0x7FF62D1C1005
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x175A 0x7FF62D1C175A
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x100A 0x7FF62D1C100A
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[21:00:01.9295786][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF62D1C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFD8E310000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFD8CB80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFD8BEF0000 Size: 1255936
+USER32.dll Base Address: 0x7FFD8C4B0000 Size: 584704
+win32u.dll Base Address: 0x7FFD8BAF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFD8E2A0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFD8B9D0000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFD8BB50000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFD8BCB0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFD8C400000 Size: 2048
+WS2_32.dll Base Address: 0x7FFD8CCC0000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFD8CEF0000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFD8C1F0000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFD8BBF0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFD8E0E0000 Size: 477184
+IMM32.dll Base Address: 0x7FFD8E080000 Size: 125440
+VERSION.dll Base Address: 0x7FFD85F70000 Size: 10752
+bcrypt.dll Base Address: 0x7FFD8BB20000 Size: 102912
+DSOUND.dll Base Address: 0x7FFD1E160000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFD8C650000 Size: 182784
+advapi32.dll Base Address: 0x7FFD8DF00000 Size: 438784
+SHELL32.dll Base Address: 0x7FFD8D1E0000 Size: 5806592
+sechost.dll Base Address: 0x7FFD8C410000 Size: 421888
+combase.dll Base Address: 0x7FFD8D9C0000 Size: 2328064
+ole32.dll Base Address: 0x7FFD8DDD0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFD8CE20000 Size: 608768
+WININET.dll Base Address: 0x7FFD606B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFD83050000 Size: 81408
+MF.dll Base Address: 0x7FFD51BE0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFD51220000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFD8BC60000 Size: 219136
+shcore.dll Base Address: 0x7FFD8DD20000 Size: 476672
+msdmo.dll Base Address: 0x7FFD706E0000 Size: 13312
+PROPSYS.dll Base Address: 0x7FFD872D0000 Size: 631296
+MFReadWrite.dll Base Address: 0x7FFD1B3B0000 Size: 918016
+WTSAPI32.dll Base Address: 0x7FFD87660000 Size: 37888
+d3d9.dll Base Address: 0x7FFD5D590000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFD133A0000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFD54380000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFD8C6B0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFD8ADA0000 Size: 166400
+powrprof.dll Base Address: 0x7FFD8B120000 Size: 70656
+winmmbase.dll Base Address: 0x7FFD525B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFD89860000 Size: 16384
+dwmapi.dll Base Address: 0x7FFD89570000 Size: 98816
+windows.storage.dll Base Address: 0x7FFD89A60000 Size: 5845504
+Wldp.dll Base Address: 0x7FFD8B320000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFD6D2E0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFD31040000 Size: 909312
+GLU32.dll Base Address: 0x7FFD30AE0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFD12FD0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFD12D60000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFD1AB20000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFD00EA0000 Size: 3960320
+ksuser.dll Base Address: 0x7FFD16BE0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFD8B290000 Size: 10752
+UMPDC.dll Base Address: 0x7FFD8B100000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFD8BDB0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFD51BA0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFD8B740000 Size: 34816
+inputhost.dll Base Address: 0x7FFD7F7E0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFD88E90000 Size: 607744
+wintypes.dll Base Address: 0x7FFD877D0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFD88B30000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFD8AAA0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFD851B0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFD78F80000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFD8B6B0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFD8A980000 Size: 142336
+uxtheme.dll Base Address: 0x7FFD89310000 Size: 382976
+clbcatq.dll Base Address: 0x7FFD8C350000 Size: 437760
+amsi.dll Base Address: 0x7FFD6FD30000 Size: 62464
+USERENV.dll Base Address: 0x7FFD8B8C0000 Size: 108032
+profapi.dll Base Address: 0x7FFD8B900000 Size: 88064
+MpOav.dll Base Address: 0x7FFD6FCB0000 Size: 204800
+dxcore.dll Base Address: 0x7FFD83240000 Size: 150016
+apphelp.dll Base Address: 0x7FFD891B0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFD87930000 Size: 1853440
+dxgi.dll Base Address: 0x7FFD8A240000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFD8B760000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFD67B40000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFD6D2D0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFD8E180000 Size: 864256
+textinputframework.dll Base Address: 0x7FFD7F940000 Size: 722944
+WINSTA.dll Base Address: 0x7FFD8ACB0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFD83080000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFD83010000 Size: 190464
+atidxx64.dll Base Address: 0x7FFD81050000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFD7FFC0000 Size: 117248
+HID.DLL Base Address: 0x7FFD8A200000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFD84B90000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFD01B90000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFD84CA0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFD89470000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFD7FA70000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFD85100000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFD84ED0000 Size: 1456640
+avrt.dll Base Address: 0x7FFD86660000 Size: 5632
+napinsp.dll Base Address: 0x7FFD7CB30000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFD77480000 Size: 66048
+wshbth.dll Base Address: 0x7FFD77460000 Size: 43008
+NLAapi.dll Base Address: 0x7FFD87470000 Size: 68608
+mswsock.dll Base Address: 0x7FFD8B090000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFD8ADE0000 Size: 595456
+NSI.dll Base Address: 0x7FFD8D1D0000 Size: 7680
+winrnr.dll Base Address: 0x7FFD6E990000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFD80B20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFD80AA0000 Size: 7168
+imagehlp.dll Base Address: 0x7FFD8E0C0000 Size: 45056
+gpapi.dll Base Address: 0x7FFD8A210000 Size: 69120
+cryptnet.dll Base Address: 0x7FFD728E0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFD86650000 Size: 11776
+SspiCli.dll Base Address: 0x7FFD8B880000 Size: 123904
+socialclub.dll Base Address: 0x7FFD13A40000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFD4B240000 Size: 676864
+libcef.dll Base Address: 0x7FFCECFC0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFD8CD30000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFD5BC40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFD5B670000 Size: 260608
+Secur32.dll Base Address: 0x7FFD70FA0000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFD7A910000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFD67CF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFD7D770000 Size: 1601024
+USP10.dll Base Address: 0x7FFD31010000 Size: 512
+WINSPOOL.DRV Base Address: 0x7FFD627C0000 Size: 389632
+dxva2.dll Base Address: 0x7FFD51B70000 Size: 96256
+credui.dll Base Address: 0x7FFD53AB0000 Size: 55808
+urlmon.dll Base Address: 0x7FFD7D9F0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFD84750000 Size: 845312
+ncrypt.dll Base Address: 0x7FFD8B390000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFD67300000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFD86380000 Size: 61440
+wevtapi.dll Base Address: 0x7FFD86BD0000 Size: 296960
+ESENT.dll Base Address: 0x7FFD738F0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFD7DF50000 Size: 551424
+srvcli.dll Base Address: 0x7FFD7F510000 Size: 54272
+netutils.dll Base Address: 0x7FFD8AF00000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFD8AAE0000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFD78110000 Size: 61440
+NTASN1.dll Base Address: 0x7FFD8B350000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFD8A5A0000 Size: 329728
+fwbase.dll Base Address: 0x7FFD8A530000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFD7BED0000 Size: 205824
+wdmaud.drv Base Address: 0x7FFD01A80000 Size: 193024
+msacm32.drv Base Address: 0x7FFD6B770000 Size: 17920
+MSACM32.dll Base Address: 0x7FFD69B00000 Size: 74240
+midimap.dll Base Address: 0x7FFD677E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFD59610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFD863A0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFD485F0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFD5C410000 Size: 340480
+D3DCOMPILER_47.dll Base Address: 0x7FFD88160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFD59410000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFD59240000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFD70FE0000 Size: 30208
+schannel.DLL Base Address: 0x7FFD8A890000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFD72CD0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFD73770000 Size: 78848
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1750 0x7FF62D1C1750
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1000 0x7FF62D1C1000
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1755 0x7FF62D1C1755
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1005 0x7FF62D1C1005
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x175A 0x7FF62D1C175A
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x100A 0x7FF62D1C100A
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x175F 0x7FF62D1C175F
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[21:00:01.9364835][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF62D1C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFD8E310000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFD8CB80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFD8BEF0000 Size: 1255936
+USER32.dll Base Address: 0x7FFD8C4B0000 Size: 584704
+win32u.dll Base Address: 0x7FFD8BAF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFD8E2A0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFD8B9D0000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFD8BB50000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFD8BCB0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFD8C400000 Size: 2048
+WS2_32.dll Base Address: 0x7FFD8CCC0000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFD8CEF0000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFD8C1F0000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFD8BBF0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFD8E0E0000 Size: 477184
+IMM32.dll Base Address: 0x7FFD8E080000 Size: 125440
+VERSION.dll Base Address: 0x7FFD85F70000 Size: 10752
+bcrypt.dll Base Address: 0x7FFD8BB20000 Size: 102912
+DSOUND.dll Base Address: 0x7FFD1E160000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFD8C650000 Size: 182784
+advapi32.dll Base Address: 0x7FFD8DF00000 Size: 438784
+SHELL32.dll Base Address: 0x7FFD8D1E0000 Size: 5806592
+sechost.dll Base Address: 0x7FFD8C410000 Size: 421888
+combase.dll Base Address: 0x7FFD8D9C0000 Size: 2328064
+ole32.dll Base Address: 0x7FFD8DDD0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFD8CE20000 Size: 608768
+WININET.dll Base Address: 0x7FFD606B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFD83050000 Size: 81408
+MF.dll Base Address: 0x7FFD51BE0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFD51220000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFD8BC60000 Size: 219136
+shcore.dll Base Address: 0x7FFD8DD20000 Size: 476672
+msdmo.dll Base Address: 0x7FFD706E0000 Size: 13312
+PROPSYS.dll Base Address: 0x7FFD872D0000 Size: 631296
+MFReadWrite.dll Base Address: 0x7FFD1B3B0000 Size: 918016
+WTSAPI32.dll Base Address: 0x7FFD87660000 Size: 37888
+d3d9.dll Base Address: 0x7FFD5D590000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFD133A0000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFD54380000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFD8C6B0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFD8ADA0000 Size: 166400
+powrprof.dll Base Address: 0x7FFD8B120000 Size: 70656
+winmmbase.dll Base Address: 0x7FFD525B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFD89860000 Size: 16384
+dwmapi.dll Base Address: 0x7FFD89570000 Size: 98816
+windows.storage.dll Base Address: 0x7FFD89A60000 Size: 5845504
+Wldp.dll Base Address: 0x7FFD8B320000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFD6D2E0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFD31040000 Size: 909312
+GLU32.dll Base Address: 0x7FFD30AE0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFD12FD0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFD12D60000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFD1AB20000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFD00EA0000 Size: 3960320
+ksuser.dll Base Address: 0x7FFD16BE0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFD8B290000 Size: 10752
+UMPDC.dll Base Address: 0x7FFD8B100000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFD8BDB0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFD51BA0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFD8B740000 Size: 34816
+inputhost.dll Base Address: 0x7FFD7F7E0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFD88E90000 Size: 607744
+wintypes.dll Base Address: 0x7FFD877D0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFD88B30000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFD8AAA0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFD851B0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFD78F80000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFD8B6B0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFD8A980000 Size: 142336
+uxtheme.dll Base Address: 0x7FFD89310000 Size: 382976
+clbcatq.dll Base Address: 0x7FFD8C350000 Size: 437760
+amsi.dll Base Address: 0x7FFD6FD30000 Size: 62464
+USERENV.dll Base Address: 0x7FFD8B8C0000 Size: 108032
+profapi.dll Base Address: 0x7FFD8B900000 Size: 88064
+MpOav.dll Base Address: 0x7FFD6FCB0000 Size: 204800
+dxcore.dll Base Address: 0x7FFD83240000 Size: 150016
+apphelp.dll Base Address: 0x7FFD891B0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFD87930000 Size: 1853440
+dxgi.dll Base Address: 0x7FFD8A240000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFD8B760000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFD67B40000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFD6D2D0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFD8E180000 Size: 864256
+textinputframework.dll Base Address: 0x7FFD7F940000 Size: 722944
+WINSTA.dll Base Address: 0x7FFD8ACB0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFD83080000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFD83010000 Size: 190464
+atidxx64.dll Base Address: 0x7FFD81050000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFD7FFC0000 Size: 117248
+HID.DLL Base Address: 0x7FFD8A200000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFD84B90000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFD01B90000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFD84CA0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFD89470000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFD7FA70000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFD85100000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFD84ED0000 Size: 1456640
+avrt.dll Base Address: 0x7FFD86660000 Size: 5632
+napinsp.dll Base Address: 0x7FFD7CB30000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFD77480000 Size: 66048
+wshbth.dll Base Address: 0x7FFD77460000 Size: 43008
+NLAapi.dll Base Address: 0x7FFD87470000 Size: 68608
+mswsock.dll Base Address: 0x7FFD8B090000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFD8ADE0000 Size: 595456
+NSI.dll Base Address: 0x7FFD8D1D0000 Size: 7680
+winrnr.dll Base Address: 0x7FFD6E990000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFD80B20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFD80AA0000 Size: 7168
+imagehlp.dll Base Address: 0x7FFD8E0C0000 Size: 45056
+gpapi.dll Base Address: 0x7FFD8A210000 Size: 69120
+cryptnet.dll Base Address: 0x7FFD728E0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFD86650000 Size: 11776
+SspiCli.dll Base Address: 0x7FFD8B880000 Size: 123904
+socialclub.dll Base Address: 0x7FFD13A40000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFD4B240000 Size: 676864
+libcef.dll Base Address: 0x7FFCECFC0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFD8CD30000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFD5BC40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFD5B670000 Size: 260608
+Secur32.dll Base Address: 0x7FFD70FA0000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFD7A910000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFD67CF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFD7D770000 Size: 1601024
+USP10.dll Base Address: 0x7FFD31010000 Size: 512
+WINSPOOL.DRV Base Address: 0x7FFD627C0000 Size: 389632
+dxva2.dll Base Address: 0x7FFD51B70000 Size: 96256
+credui.dll Base Address: 0x7FFD53AB0000 Size: 55808
+urlmon.dll Base Address: 0x7FFD7D9F0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFD84750000 Size: 845312
+ncrypt.dll Base Address: 0x7FFD8B390000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFD67300000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFD86380000 Size: 61440
+wevtapi.dll Base Address: 0x7FFD86BD0000 Size: 296960
+ESENT.dll Base Address: 0x7FFD738F0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFD7DF50000 Size: 551424
+srvcli.dll Base Address: 0x7FFD7F510000 Size: 54272
+netutils.dll Base Address: 0x7FFD8AF00000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFD8AAE0000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFD78110000 Size: 61440
+NTASN1.dll Base Address: 0x7FFD8B350000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFD8A5A0000 Size: 329728
+fwbase.dll Base Address: 0x7FFD8A530000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFD7BED0000 Size: 205824
+wdmaud.drv Base Address: 0x7FFD01A80000 Size: 193024
+msacm32.drv Base Address: 0x7FFD6B770000 Size: 17920
+MSACM32.dll Base Address: 0x7FFD69B00000 Size: 74240
+midimap.dll Base Address: 0x7FFD677E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFD59610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFD863A0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFD485F0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFD5C410000 Size: 340480
+D3DCOMPILER_47.dll Base Address: 0x7FFD88160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFD59410000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFD59240000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFD70FE0000 Size: 30208
+schannel.DLL Base Address: 0x7FFD8A890000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFD72CD0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFD73770000 Size: 78848
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1750 0x7FF62D1C1750
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1000 0x7FF62D1C1000
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1755 0x7FF62D1C1755
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1005 0x7FF62D1C1005
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x175A 0x7FF62D1C175A
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x100A 0x7FF62D1C100A
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x175F 0x7FF62D1C175F
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x100C 0x7FF62D1C100C
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[21:00:01.9454351][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF62D1C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFD8E310000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFD8CB80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFD8BEF0000 Size: 1255936
+USER32.dll Base Address: 0x7FFD8C4B0000 Size: 584704
+win32u.dll Base Address: 0x7FFD8BAF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFD8E2A0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFD8B9D0000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFD8BB50000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFD8BCB0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFD8C400000 Size: 2048
+WS2_32.dll Base Address: 0x7FFD8CCC0000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFD8CEF0000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFD8C1F0000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFD8BBF0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFD8E0E0000 Size: 477184
+IMM32.dll Base Address: 0x7FFD8E080000 Size: 125440
+VERSION.dll Base Address: 0x7FFD85F70000 Size: 10752
+bcrypt.dll Base Address: 0x7FFD8BB20000 Size: 102912
+DSOUND.dll Base Address: 0x7FFD1E160000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFD8C650000 Size: 182784
+advapi32.dll Base Address: 0x7FFD8DF00000 Size: 438784
+SHELL32.dll Base Address: 0x7FFD8D1E0000 Size: 5806592
+sechost.dll Base Address: 0x7FFD8C410000 Size: 421888
+combase.dll Base Address: 0x7FFD8D9C0000 Size: 2328064
+ole32.dll Base Address: 0x7FFD8DDD0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFD8CE20000 Size: 608768
+WININET.dll Base Address: 0x7FFD606B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFD83050000 Size: 81408
+MF.dll Base Address: 0x7FFD51BE0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFD51220000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFD8BC60000 Size: 219136
+shcore.dll Base Address: 0x7FFD8DD20000 Size: 476672
+msdmo.dll Base Address: 0x7FFD706E0000 Size: 13312
+PROPSYS.dll Base Address: 0x7FFD872D0000 Size: 631296
+MFReadWrite.dll Base Address: 0x7FFD1B3B0000 Size: 918016
+WTSAPI32.dll Base Address: 0x7FFD87660000 Size: 37888
+d3d9.dll Base Address: 0x7FFD5D590000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFD133A0000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFD54380000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFD8C6B0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFD8ADA0000 Size: 166400
+powrprof.dll Base Address: 0x7FFD8B120000 Size: 70656
+winmmbase.dll Base Address: 0x7FFD525B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFD89860000 Size: 16384
+dwmapi.dll Base Address: 0x7FFD89570000 Size: 98816
+windows.storage.dll Base Address: 0x7FFD89A60000 Size: 5845504
+Wldp.dll Base Address: 0x7FFD8B320000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFD6D2E0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFD31040000 Size: 909312
+GLU32.dll Base Address: 0x7FFD30AE0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFD12FD0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFD12D60000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFD1AB20000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFD00EA0000 Size: 3960320
+ksuser.dll Base Address: 0x7FFD16BE0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFD8B290000 Size: 10752
+UMPDC.dll Base Address: 0x7FFD8B100000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFD8BDB0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFD51BA0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFD8B740000 Size: 34816
+inputhost.dll Base Address: 0x7FFD7F7E0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFD88E90000 Size: 607744
+wintypes.dll Base Address: 0x7FFD877D0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFD88B30000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFD8AAA0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFD851B0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFD78F80000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFD8B6B0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFD8A980000 Size: 142336
+uxtheme.dll Base Address: 0x7FFD89310000 Size: 382976
+clbcatq.dll Base Address: 0x7FFD8C350000 Size: 437760
+amsi.dll Base Address: 0x7FFD6FD30000 Size: 62464
+USERENV.dll Base Address: 0x7FFD8B8C0000 Size: 108032
+profapi.dll Base Address: 0x7FFD8B900000 Size: 88064
+MpOav.dll Base Address: 0x7FFD6FCB0000 Size: 204800
+dxcore.dll Base Address: 0x7FFD83240000 Size: 150016
+apphelp.dll Base Address: 0x7FFD891B0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFD87930000 Size: 1853440
+dxgi.dll Base Address: 0x7FFD8A240000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFD8B760000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFD67B40000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFD6D2D0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFD8E180000 Size: 864256
+textinputframework.dll Base Address: 0x7FFD7F940000 Size: 722944
+WINSTA.dll Base Address: 0x7FFD8ACB0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFD83080000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFD83010000 Size: 190464
+atidxx64.dll Base Address: 0x7FFD81050000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFD7FFC0000 Size: 117248
+HID.DLL Base Address: 0x7FFD8A200000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFD84B90000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFD01B90000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFD84CA0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFD89470000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFD7FA70000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFD85100000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFD84ED0000 Size: 1456640
+avrt.dll Base Address: 0x7FFD86660000 Size: 5632
+napinsp.dll Base Address: 0x7FFD7CB30000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFD77480000 Size: 66048
+wshbth.dll Base Address: 0x7FFD77460000 Size: 43008
+NLAapi.dll Base Address: 0x7FFD87470000 Size: 68608
+mswsock.dll Base Address: 0x7FFD8B090000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFD8ADE0000 Size: 595456
+NSI.dll Base Address: 0x7FFD8D1D0000 Size: 7680
+winrnr.dll Base Address: 0x7FFD6E990000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFD80B20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFD80AA0000 Size: 7168
+imagehlp.dll Base Address: 0x7FFD8E0C0000 Size: 45056
+gpapi.dll Base Address: 0x7FFD8A210000 Size: 69120
+cryptnet.dll Base Address: 0x7FFD728E0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFD86650000 Size: 11776
+SspiCli.dll Base Address: 0x7FFD8B880000 Size: 123904
+socialclub.dll Base Address: 0x7FFD13A40000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFD4B240000 Size: 676864
+libcef.dll Base Address: 0x7FFCECFC0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFD8CD30000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFD5BC40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFD5B670000 Size: 260608
+Secur32.dll Base Address: 0x7FFD70FA0000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFD7A910000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFD67CF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFD7D770000 Size: 1601024
+USP10.dll Base Address: 0x7FFD31010000 Size: 512
+WINSPOOL.DRV Base Address: 0x7FFD627C0000 Size: 389632
+dxva2.dll Base Address: 0x7FFD51B70000 Size: 96256
+credui.dll Base Address: 0x7FFD53AB0000 Size: 55808
+urlmon.dll Base Address: 0x7FFD7D9F0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFD84750000 Size: 845312
+ncrypt.dll Base Address: 0x7FFD8B390000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFD67300000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFD86380000 Size: 61440
+wevtapi.dll Base Address: 0x7FFD86BD0000 Size: 296960
+ESENT.dll Base Address: 0x7FFD738F0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFD7DF50000 Size: 551424
+srvcli.dll Base Address: 0x7FFD7F510000 Size: 54272
+netutils.dll Base Address: 0x7FFD8AF00000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFD8AAE0000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFD78110000 Size: 61440
+NTASN1.dll Base Address: 0x7FFD8B350000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFD8A5A0000 Size: 329728
+fwbase.dll Base Address: 0x7FFD8A530000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFD7BED0000 Size: 205824
+wdmaud.drv Base Address: 0x7FFD01A80000 Size: 193024
+msacm32.drv Base Address: 0x7FFD6B770000 Size: 17920
+MSACM32.dll Base Address: 0x7FFD69B00000 Size: 74240
+midimap.dll Base Address: 0x7FFD677E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFD59610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFD863A0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFD485F0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFD5C410000 Size: 340480
+D3DCOMPILER_47.dll Base Address: 0x7FFD88160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFD59410000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFD59240000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFD70FE0000 Size: 30208
+schannel.DLL Base Address: 0x7FFD8A890000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFD72CD0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFD73770000 Size: 78848
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1750 0x7FF62D1C1750
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1000 0x7FF62D1C1000
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1755 0x7FF62D1C1755
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1005 0x7FF62D1C1005
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x175A 0x7FF62D1C175A
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x100A 0x7FF62D1C100A
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x175F 0x7FF62D1C175F
+[1]	GTA5.exe+0x33A064 0x7FF62D4FA064
+[2]	GTA5.exe+0x12C4B93 0x7FF62E484B93
+[3]	GTA5.exe+0x12E54B5 0x7FF62E4A54B5
+[4]	GTA5.exe+0x12E20ED 0x7FF62E4A20ED
+[5]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[6]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[7]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[8]	GTA5.exe+0x12E2F78 0x7FF62E4A2F78
+[9]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x0
+RCX: 0x10
+RDX: 0x2A
+RBX: 0x2550C063710
+RSI: 0x2550C063720
+RDI: 0x2557899F000
+RSP: 0xC6884FF4B8
+RBP: 0x1
+R8:  0x7FF62EC31D00
+R9:  0x2550FA35301
+R10: 0x7FFD59410000
+R11: 0x7FFD594218F7
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x100C 0x7FF62D1C100C
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0xCB58
+RCX: 0xC684EFF448
+RDX: 0x4
+RBX: 0xC684EFF410
+RSI: 0x3
+RDI: 0xC684EFF448
+RSP: 0xC684EFF318
+RBP: 0x0
+R8:  0x3
+R9:  0x7FF62D4FC4FC
+R10: 0x7FF62ED8CEE0
+R11: 0x41200000
+R12: 0xFFFFFFFF
+R13: 0xFFFFFFFF
+R14: 0x2550DA17E70
+R15: 0x7FF62FC82580
+Dumping stacktrace:
+[0]	GTA5.exe+0x1760 0x7FF62D1C1760
+[1]	GTA5.exe+0x94AFA3 0x7FF62DB0AFA3
+[2]	GTA5.exe+0xA8C1B4 0x7FF62DC4C1B4
+[3]	YimMenu (1).dll+0x8D046 0x7FFD4867D046
+[4]	YimMenu (1).dll+0x5AEB5 0x7FFD4864AEB5
+[5]	YimMenu (1).dll+0x647E4E 0x7FFD48C37E4E
+[6]	YimMenu (1).dll+0x647E2C 0x7FFD48C37E2C
+[7]	YimMenu (1).dll+0x647B41 0x7FFD48C37B41
+[8]	KERNELBASE.dll PackageIdFromFullName
+[9]	ntdll.dll RtlUserFiberStart
+[10]	GTA5.exe+0x12E498F 0x7FF62E4A498F
+[11]	GTA5.exe+0x12F86E2 0x7FF62E4B86E2
+[12]	GTA5.exe+0x12D221F 0x7FF62E49221F
+[13]	GTA5.exe+0x12D6BEB 0x7FF62E496BEB
+[14]	GTA5.exe+0x12C2992 0x7FF62E482992
+[15]	GTA5.exe+0x12D6056 0x7FF62E496056
+[16]	GTA5.exe+0x130E95A 0x7FF62E4CE95A
+[17]	KERNEL32.DLL BaseThreadInitThunk
+[18]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+

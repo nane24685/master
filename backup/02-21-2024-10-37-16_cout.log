@@ -1,0 +1,99 @@
+[18:23:25.0969825][INFO/main.cpp:159] Yim's Menu Initializing
+[18:23:25.0970229][INFO/main.cpp:160] Git Info
+	Branch:	master
+	Hash:	d737c01b333f349ff9d4803784fee1051ee93cb9
+	Date:	Tue Feb 20 18:29:02 2024
+[18:23:25.0971568][INFO/main.cpp:172] Windows 10 Home Version 22H2 (OS Build 19045.4046)
+[18:23:25.0996450][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[18:23:25.0998705][INFO/main.cpp:180] Thread pool initialized.
+[18:23:25.1117657][INFO/main.cpp:183] Settings Loaded.
+[18:23:25.1117848][DEBUG/thread_pool.cpp:96] Thread 10800 executing settings.cpp:12
+[18:23:25.1183172][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[18:23:25.1183399][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[18:23:25.1183438][INFO/pointers.cpp:1821] Pointers cache: Loading 215 fields from the cache
+[18:23:25.1183595][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[18:23:25.1242626][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[18:23:25.1242793][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[18:23:25.1242824][INFO/pointers.cpp:1821] Pointers cache: Loading 5 fields from the cache
+[18:23:25.1243204][INFO/main.cpp:186] Pointers initialized.
+[18:23:25.1243280][INFO/main.cpp:193] Disabled anticheat gameskeleton.
+[18:23:25.1245883][INFO/main.cpp:196] Byte Patch Manager initialized.
+[18:23:25.6956761][INFO/main.cpp:199] Renderer initialized.
+[18:23:25.9265332][INFO/main.cpp:203] Fiber pool initialized.
+[18:23:25.9330092][INFO/main.cpp:206] HTTP Client initialized.
+[18:23:26.1256629][INFO/main.cpp:209] Translation Service initialized.
+[18:23:26.1475661][INFO/main.cpp:212] Hooking initialized.
+[18:23:26.1735069][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[18:23:26.1735228][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[18:23:26.1739310][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[18:23:26.1742894][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[18:23:26.1742958][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[18:23:26.1743126][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[18:23:26.1841907][DEBUG/thread_pool.cpp:96] Thread 8592 executing player_database_service.cpp:285
+[18:23:26.1844442][INFO/main.cpp:233] Registered service instances...
+[18:23:26.1847442][INFO/main.cpp:254] Scripts registered.
+[18:23:26.2612613][INFO/main.cpp:257] Hooking enabled.
+[18:23:26.2637504][INFO/main.cpp:260] Dynamic native hooker initialized.
+[18:23:26.2642895][INFO/main.cpp:264] Lua manager initialized.
+[18:23:29.8637459][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[18:23:29.8638048][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[18:23:29.8641049][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[18:23:29.8641204][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[18:23:32.4424637][INFO/backend.cpp:53] Starting script: Self
+[18:23:32.4424884][INFO/backend.cpp:78] Starting script: Weapons
+[18:23:32.4425040][INFO/backend.cpp:101] Starting script: Vehicles
+[18:23:32.4425242][INFO/backend.cpp:117] Starting script: Miscellaneous
+[18:23:32.4425734][INFO/backend.cpp:138] Starting script: Remote
+[18:23:32.4425775][INFO/backend.cpp:153] Starting script: Ls customs
+[18:23:32.4425825][INFO/backend.cpp:165] Starting script: Rainbow paint
+[18:23:32.4425855][INFO/backend.cpp:177] Starting script: Disable Control Action
+[18:23:32.4425889][INFO/backend.cpp:190] Starting script: World
+[18:23:32.4669882][INFO/tunables_service.cpp:36] Loading tunables from cache
+[18:24:03.8920172][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[18:24:03.8920497][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[18:24:03.8920716][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[18:24:03.9016518][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[18:24:03.9016982][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[18:24:03.9017664][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[18:24:03.9062978][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[18:24:03.9064502][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[18:24:03.9064684][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[18:24:45.6462408][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: MM; DATA: "mmList":"4B45524E454C33322E444C4C00|4B45524E454C424153452E646C6C00|5553455233322E646C6C00|47444933322E646C6C00|676469333266756C6C2E646C6C00|6D737663705F77696E2E646C6C00|75637274626173652E646C6C00|50534150492E444C4C00|5753325F33322E646C6C00|5250435254342E
+[18:24:45.6465200][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: MM; DATA: "mmList":"61746964787836342E646C6C00|616D6469686B36342E646C6C00|4849442E444C4C00|4D4D4465764170692E646C6C00|58417564696F325F372E646C6C00|415544494F5345532E444C4C00|7265736F75726365706F6C696379636C69656E742E646C6C00|57696E646F77732E55492E646C6C00|57696E646
+[18:27:06.3919550][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-155.07,-1559.76,34.99],"wantedlvl":1
+[18:27:06.3919910][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-188.11,-1657.19,33.49],"wantedlvl":2
+[18:27:06.3920266][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-187.88,-1664.78,33.50],"wantedlvl":3
+[18:37:16.2564779][INFO/main.cpp:272] Scripts unregistered.
+[18:37:16.2565139][INFO/main.cpp:275] Lua manager uninitialized.
+[18:37:16.3025497][INFO/main.cpp:278] Hooking disabled.
+[18:37:16.3026783][INFO/main.cpp:281] Dynamic native hooker uninitialized.
+[18:37:16.3027013][DEBUG/thread_pool.cpp:109] Thread 9840 exiting...
+[18:37:16.3027036][DEBUG/thread_pool.cpp:109] Thread 5580 exiting...
+[18:37:16.3027056][DEBUG/thread_pool.cpp:109] Thread 10800 exiting...
+[18:37:16.7191523][DEBUG/thread_pool.cpp:109] Thread 8592 exiting...
+[18:37:16.7197153][INFO/main.cpp:286] Destroyed thread pool.
+[18:37:16.7197253][INFO/main.cpp:289] Script Connection Service reset.
+[18:37:16.7218593][INFO/main.cpp:291] Tunables Service reset.
+[18:37:16.7218731][INFO/main.cpp:293] Hotkey Service reset.
+[18:37:16.7218759][INFO/main.cpp:295] Matchmaking Service reset.
+[18:37:16.7219594][INFO/main.cpp:297] Player Database Service reset.
+[18:37:16.7219629][INFO/main.cpp:299] API Service reset.
+[18:37:16.7220957][INFO/main.cpp:301] Script Patcher Service reset.
+[18:37:16.7221091][INFO/main.cpp:303] Gui Service reset.
+[18:37:16.7225522][INFO/main.cpp:305] GTA Data Service reset.
+[18:37:16.7225572][INFO/main.cpp:307] Vehicle Service reset.
+[18:37:16.7230322][INFO/main.cpp:309] Model Preview Service reset.
+[18:37:16.7230396][INFO/main.cpp:311] Mobile Service reset.
+[18:37:16.7230429][INFO/main.cpp:313] Player Service reset.
+[18:37:16.7230447][INFO/main.cpp:315] Pickup Service reset.
+[18:37:16.7230479][INFO/main.cpp:317] Custom Text Service reset.
+[18:37:16.7230580][INFO/main.cpp:319] Context Service reset.
+[18:37:16.7230612][INFO/main.cpp:321] Xml Vehicles Service reset.
+[18:37:16.7230623][INFO/main.cpp:322] Services uninitialized.
+[18:37:16.7231089][INFO/main.cpp:325] Hooking uninitialized.
+[18:37:16.7231143][INFO/main.cpp:328] Fiber pool uninitialized.
+[18:37:16.7721347][INFO/main.cpp:331] Renderer uninitialized.
+[18:37:16.7725707][INFO/main.cpp:334] Byte Patch Manager uninitialized.
+[18:37:16.7725877][INFO/main.cpp:337] Pointers uninitialized.
+[18:37:16.7725943][INFO/main.cpp:340] Thread pool uninitialized.
+[18:37:16.7725966][INFO/main.cpp:342] Farewell!

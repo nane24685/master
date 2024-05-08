@@ -1,0 +1,1452 @@
+[00:22:52.9992312][INFO/main.cpp:104] Yim's Menu Initializing
+[00:22:52.9998596][INFO/main.cpp:105] Git Info
+	Branch:	master
+	Hash:	e005640c7515cf4c396fbaecc9fc9b0e3001c4f0
+	Date:	Wed Jan 17 11:08:35 2024
+[00:22:53.0001804][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[00:22:53.0004982][INFO/main.cpp:108] Thread pool initialized.
+[00:22:53.0730954][INFO/main.cpp:111] Settings Loaded.
+[00:22:53.0731042][DEBUG/thread_pool.cpp:96] Thread 14912 executing settings.cpp:12
+[00:22:53.0746237][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[00:22:53.0746445][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[00:22:53.0746468][INFO/pointers.cpp:1813] Pointers cache: Loading 215 fields from the cache
+[00:22:53.0746673][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[00:22:53.0751917][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[00:22:53.0751971][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[00:22:53.0751988][INFO/pointers.cpp:1813] Pointers cache: Loading 5 fields from the cache
+[00:22:53.0752270][INFO/main.cpp:114] Pointers initialized.
+[00:22:53.0752825][INFO/main.cpp:121] Disabled anticheat gameskeleton.
+[00:22:53.0910995][INFO/main.cpp:124] Byte Patch Manager initialized.
+[00:22:53.8106896][INFO/main.cpp:127] Renderer initialized.
+[00:22:54.1522123][INFO/main.cpp:131] Fiber pool initialized.
+[00:22:54.1534010][INFO/main.cpp:134] HTTP Client initialized.
+[00:22:54.4832045][INFO/main.cpp:137] Translation Service initialized.
+[00:22:54.5122370][INFO/main.cpp:140] Hooking initialized.
+[00:22:54.5219072][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[00:22:54.5219258][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[00:22:54.5226542][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[00:22:54.5232247][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[00:22:54.5232471][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[00:22:54.5232832][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[00:22:54.5270169][DEBUG/thread_pool.cpp:96] Thread 12800 executing player_database_service.cpp:285
+[00:22:54.5274820][INFO/main.cpp:161] Registered service instances...
+[00:22:54.5277281][INFO/main.cpp:182] Scripts registered.
+[00:22:54.6527454][INFO/main.cpp:185] Hooking enabled.
+[00:22:54.6559796][INFO/main.cpp:188] Dynamic native hooker initialized.
+[00:22:54.6565803][INFO/main.cpp:192] Lua manager initialized.
+[00:22:54.8963343][INFO/backend.cpp:53] Starting script: Self
+[00:22:54.8966359][INFO/backend.cpp:78] Starting script: Weapons
+[00:22:54.8969692][INFO/backend.cpp:101] Starting script: Vehicles
+[00:22:54.8969856][INFO/backend.cpp:117] Starting script: Miscellaneous
+[00:22:54.8970456][INFO/backend.cpp:138] Starting script: Remote
+[00:22:54.8970541][INFO/backend.cpp:153] Starting script: Ls customs
+[00:22:54.8970596][INFO/backend.cpp:165] Starting script: Rainbow paint
+[00:22:54.8970622][INFO/backend.cpp:177] Starting script: Disable Control Action
+[00:22:54.8970654][INFO/backend.cpp:190] Starting script: World
+[00:22:54.9149444][INFO/tunables_service.cpp:36] Loading tunables from cache
+[00:23:23.6951533][WARN/reaction.cpp:60] Received Modder Detection from Ana2Armas (203364963)
+[00:23:58.5361804][WARN/reaction.cpp:60] Received Modder Detection from MAXPAM4IK (234411089)
+[00:24:04.2686129][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:24:04.2686869][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13459016,"type":3136273443,"cat":654913086,"pt":3358541519,"slot":0
+[00:24:45.1156534][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[00:24:45.4288163][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[00:24:45.4288523][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[00:24:45.4288784][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[00:24:45.4288909][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[00:24:45.4369436][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[00:24:45.4369866][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[00:24:45.4370493][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[00:24:45.4815064][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[00:24:45.4818860][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[00:24:45.4819075][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[00:24:49.3125163][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[00:24:49.3125891][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[00:28:56.0064630][WARN/reaction.cpp:60] Received Modder Detection from Naruto1211 (78896020)
+[00:29:29.1830246][WARN/reaction.cpp:60] Received Modder Detection from Ana2Armas (203364963)
+[00:30:08.6573843][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":3000,"char":{"slot":0,"cash":12500,"bank":114228650,"evc":114241150,"pvc":0,"pxr":0.00000,"nonce":638422578028140980},"c":[-367.20184,-112.80759,38.69650],"pt":3358903459,"vct":0,"vcp":0,"mid":0,"action":"BOUNTY","cat":"JOBS","ctx":{"A":"UNKNOWN"
+[00:30:08.6574425][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":3000,"char":{"slot":0,"cash":12500,"bank":114228650,"evc":114241150,"pvc":0,"pxr":0.00000,"nonce":638422578028140980},"c":[-367.20184,-112.80759,38.69650],"pt":3358903459,"vct":0,"vcp":0,"mid":0,"action":"BOUNTY","cat":"JOBS","ctx":{"A":"UNKNOWN"
+[00:31:22.9283671][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":2000,"type":2658791846,"cat":4156616375,"pt":3358893459,"slot":0
+[00:31:34.4242239][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13461016,"type":3136273443,"cat":654913086,"pt":3358979607,"slot":0
+[00:32:49.2434598][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13461016,"type":3136273443,"cat":654913086,"pt":3359042448,"slot":0
+[00:36:37.3350976][WARN/reaction.cpp:60] Received Modder Detection from Ana2Armas (203364963)
+[00:38:08.5018203][WARN/reaction.cpp:60] Received Modder Detection from lord0garmadon (245566030)
+[00:39:18.5959721][WARN/reaction.cpp:60] Received Modder Detection from xx-themad-xx (111279332)
+[00:40:17.7432569][WARN/reaction.cpp:60] Received Modder Detection from DerKenny123 (59526610)
+[00:40:32.5745092][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-377.57,-126.77,38.55],"wantedlvl":1
+[00:41:09.4103263][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-466.25,-112.84,38.71],"wantedlvl":2
+[00:41:09.4103837][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-466.25,-112.84,38.71],"wantedlvl":3
+[00:41:09.4103995][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-466.23,-112.88,38.71],"name":353883353,"cd":[-466,-112],"wlvl":3
+[00:41:09.4105212][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-469.99,24.08,45.39],"wantedlvl":0
+[00:41:09.4105610][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13461016,"type":3136273443,"cat":654913086,"pt":3359536621,"slot":0
+[00:42:03.6169038][WARN/reaction.cpp:60] Received Modder Detection from JnxyR6 (245888564)
+[00:42:42.6800961][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:42:53.2454666][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13461016,"type":3136273443,"cat":654913086,"pt":3359623833,"slot":0
+[00:49:03.7080749][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3359884493,"slot":0
+[00:55:03.6490366][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3359999638,"slot":0
+[00:55:03.6492625][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3360025767,"slot":0
+[00:55:03.6492710][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":31,"type":2435321038,"cat":2131309714,"pt":3360055816,"slot":0
+[00:55:03.6494794][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3360105953,"slot":0
+[00:55:33.2847463][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":19200,"char":{"slot":0,"cash":27200,"bank":114228650,"evc":114255850,"pvc":0,"pxr":0.00000,"nonce":638422593277580766},"c":[603.54578,-424.68677,24.74492],"pt":3360146000,"vct":0,"vcp":0,"mid":0,"action":"JUGGALO","cat":"STORY","ctx":{
+[00:55:33.2847874][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":19200,"char":{"slot":0,"cash":27200,"bank":114228650,"evc":114255850,"pvc":0,"pxr":0.00000,"nonce":638422593277580766},"c":[603.54578,-424.68677,24.74492],"pt":3360146000,"vct":0,"vcp":0,"mid":0,"action":"JUGGALO","cat":"STORY","ctx":{
+[00:55:45.5177080][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":2713,"type":2658791846,"cat":2053762773,"pt":3360146000,"slot":0
+[00:55:45.5177396][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3360146000,"slot":0
+[00:57:57.1674715][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:57:57.1678140][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:59:09.7983978][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":100000,"char":{"slot":0,"cash":27200,"bank":114328650,"evc":114355850,"pvc":0,"pxr":0.00000,"nonce":638422595441319280},"c":[628.04059,-448.32779,24.11560],"pt":3360349236,"vct":0,"vcp":0,"mid":0,"action":"AWARD","cat":"JUGGALO_STORY","ctx":{
+[00:59:09.7984574][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":100000,"char":{"slot":0,"cash":27200,"bank":114328650,"evc":114355850,"pvc":0,"pxr":0.00000,"nonce":638422595441319280},"c":[628.04059,-448.32779,24.11560],"pt":3360349236,"vct":0,"vcp":0,"mid":0,"action":"AWARD","cat":"JUGGALO_STORY","ctx":{
+[00:59:35.9853483][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":800,"type":2467613365,"cat":777706678,"pt":3360349236,"slot":0
+[00:59:48.9253373][WARN/reaction.cpp:60] Received Modder Detection from Ta-SSoeur (242495912)
+[00:59:58.9528353][WARN/reaction.cpp:60] Received Modder Detection from nopassiv-I- (233977030)
+[01:00:32.3170162][WARN/reaction.cpp:60] Received Modder Detection from Jason_700 (179104331)
+[01:01:16.7848439][WARN/notify.hpp:67] Blocked sound spam crash from NightCrowler66 (200987104)
+[01:01:56.0236687][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RDEV; DATA: "g":"SC 179104331"
+[01:02:46.3521954][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RDEV; DATA: "g":"SC 179104331"
+[01:02:46.3524669][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13464860,"type":3136273443,"cat":654913086,"pt":3360564876,"slot":0
+[01:03:35.5646510][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13464860,"type":3136273443,"cat":654913086,"pt":3360608124,"slot":0
+[01:04:26.5797058][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:26.7840111][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:26.8237397][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:27.0287535][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:27.1104935][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:27.2780790][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:27.3992746][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:27.6057709][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:27.6461606][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:27.8565117][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:27.8990853][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:28.1108542][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:28.1532223][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:28.3671580][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:28.4052319][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:28.6181423][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:28.6522424][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:28.8681438][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:28.9032400][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:29.1191213][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:29.1547495][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:29.3451358][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:29.4187464][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:29.6096715][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:29.6476990][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:29.8009977][WARN/reaction.cpp:60] Received Remote Ragdoll from NightCrowler66 (200987104)
+[01:04:29.8761173][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:30.0619626][WARN/reaction.cpp:60] Received Remote Ragdoll from NightCrowler66 (200987104)
+[01:04:30.1039957][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:30.1040579][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:30.2992726][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:30.5194144][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:30.7767773][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:30.9643111][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:31.0755704][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:31.2641998][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:31.3354358][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:31.5106579][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:31.6181544][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:31.8071215][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:31.8835485][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:32.0688313][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:32.1117418][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:32.3086446][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:32.3886925][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:32.5948431][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:32.6351763][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:32.8447931][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:32.8876654][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:33.0914389][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:33.1322125][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:33.3333135][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:33.3748935][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:33.6275916][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:33.8391037][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:33.8800626][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:34.0923811][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:34.1346168][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:34.3433514][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:34.3849529][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:34.5897184][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:34.6306887][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:34.8356386][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:34.8781653][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:35.0913756][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:35.1339479][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:35.3382915][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:35.3781841][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:35.5858777][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:35.6685426][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:35.8717927][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:35.9120578][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:36.1150385][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:36.1551538][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:36.3622644][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:36.4019219][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:36.5966643][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:36.6370764][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:36.8618807][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:37.0545581][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:37.0903710][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:37.3645522][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:37.4483452][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:37.5306369][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:37.6809341][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:37.6811431][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:37.9134384][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:37.9518579][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:38.1765311][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:38.2125177][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:38.4013806][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:38.4756841][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:38.6643821][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:38.7012850][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:38.9265515][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:38.9637432][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:39.1882834][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:39.2259836][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:39.4101725][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:39.4847401][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:39.6692735][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:39.7059559][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:39.9302763][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:40.1181654][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:40.1910622][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:40.3805176][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:40.4173377][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:40.6419682][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:40.9040690][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:40.9041352][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:41.0913921][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:41.1292244][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:41.3561183][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:41.5421054][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:41.5783902][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:41.8069009][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:42.0018511][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:42.0378463][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:42.2612986][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:42.4598811][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:42.4980984][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:42.6934741][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:42.7287354][WARN/reaction.cpp:60] Received Modder Detection from _Jackoo_ (144403100)
+[01:04:42.9508002][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:43.1396772][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:43.1397521][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:43.3626201][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:43.5970382][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:43.8202836][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:43.8560578][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:44.0458286][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:44.1225869][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:44.3116205][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:44.3710510][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:44.5899402][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:44.6301003][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:44.7987604][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:44.8800823][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:45.0847821][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:45.1204552][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:45.3264465][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:45.3636455][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:45.5699035][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:45.6059930][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:45.8307167][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:45.8709716][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:46.0597297][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:46.1396802][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:46.3242509][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:46.3604238][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:46.5774552][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:46.7943725][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:46.8719392][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:47.0979429][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:47.0979909][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:47.2813535][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:47.3229641][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:47.5405730][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:47.7719000][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:47.9956115][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:48.0355703][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:48.2257580][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:48.3004221][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:48.4979744][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:48.5360750][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:48.7345280][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:48.8107460][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:49.0065959][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:49.0456009][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:49.2365741][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:49.3154772][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:49.5087780][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:49.5475935][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:49.7438408][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:49.8221861][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:50.0223782][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:50.0589006][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:50.2535966][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:50.2926399][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:50.4962608][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:50.6942580][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:50.9297783][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:51.1270792][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:51.1662099][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:51.4026882][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:51.4850165][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:51.6773991][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:51.7673319][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:51.9610199][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:52.0043658][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:52.2333256][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:52.2708262][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:52.4668547][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:52.5047277][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:52.7375524][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:52.7774359][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:52.9708022][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:53.0122495][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:53.2430155][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:53.2811102][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:53.5139648][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:53.5140142][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:53.7450464][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:53.9381373][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:53.9795486][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:54.1717085][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:54.2477315][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:54.4422326][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:54.4824533][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:54.6799473][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:54.7588459][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:54.9619318][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:54.9939245][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:55.1909884][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:55.2663650][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:55.4575152][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:55.4965291][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:55.6884874][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:55.9173666][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:56.1109187][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:56.1559040][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:56.3543058][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:56.5827591][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:56.8192282][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:56.8575327][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:57.1011117][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:57.1367828][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:57.3298602][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:57.4437341][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:57.6328272][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:57.7473143][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:57.9632190][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:58.0388193][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:58.2419378][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:58.4324829][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:58.6516843][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:58.8423230][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:59.0324057][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:59.2536564][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:59.4410997][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:59.6281147][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:04:59.7401596][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:00.0053788][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:00.2034588][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:00.2395566][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:00.4598722][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:00.5707273][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:00.7583760][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:00.9434068][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:01.1662150][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:01.3143660][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:01.5022021][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:01.5402465][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:01.7610485][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:02.0191769][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:02.0670562][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:02.2533412][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:02.3707265][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:02.5611587][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:02.6799676][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:02.8648862][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:02.9826578][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:03.1656066][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:03.2884341][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:03.4762710][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:03.5577095][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:03.7950916][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:03.8318946][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:04.0317062][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:04.0666713][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:04.2852281][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:04.3187482][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:04.5447798][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:04.6488050][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:04.8419546][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:04.9857128][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:05.1337377][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:05.2835044][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:05.5060346][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:05.6594012][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:05.8429121][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:05.9886545][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:06.2474856][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:06.4704516][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:06.6536117][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:06.6536886][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:06.9121826][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:07.0593538][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:07.2459078][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:07.3930026][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:07.6208471][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:07.6983127][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:07.9174887][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:07.9540092][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:08.1773361][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:08.2574151][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:08.4482336][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:08.5618116][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:08.7954734][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:08.8732401][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:09.0650925][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:09.1764399][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:09.4021422][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:09.5153091][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:09.7161957][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:09.8721494][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:10.0824180][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:10.2397175][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:10.4364898][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:10.5897775][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:10.7884292][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:10.9421385][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:11.1285643][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:11.2794986][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:11.4709056][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:11.5862466][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:11.7756700][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:11.8878003][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:12.1453481][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:12.2559808][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:12.4424035][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:12.5900074][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:12.8093189][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:12.9579431][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:13.1482559][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:13.2982012][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:13.4869585][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:13.6358502][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:13.8606870][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:13.9729146][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:14.1636049][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:14.2417179][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:14.5008871][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:14.5757721][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:14.7643547][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:14.9156881][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:15.1044930][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:15.2578011][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:15.4761426][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:15.5140849][WARN/reaction.cpp:60] Received Modder Detection from _Jackoo_ (144403100)
+[01:05:15.6241735][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:15.8091425][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:16.0313819][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:16.2243406][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:16.4083748][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:16.6306406][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:16.7417762][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:16.9257574][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:17.0351880][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:17.2197566][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:17.3317327][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:17.4057053][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:17.5506586][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:17.5879607][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:17.6254659][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:17.8232747][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:17.8977356][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:18.0809066][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:18.1552354][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:18.3432660][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:18.3774827][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:18.5988441][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:18.7839576][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:18.8547886][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:19.0395395][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:19.1145888][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:19.3037184][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:19.3462897][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:19.5671589][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:19.6039735][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:19.8684440][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:19.8684994][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:20.0960249][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:20.1715416][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:20.3617130][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:20.3999840][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:20.6646162][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:20.8507531][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:20.9218532][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:21.1064499][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:21.1908910][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:21.3817100][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:21.4559816][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:21.6823097][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:21.7216479][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:21.9094388][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:21.9851057][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:22.1740475][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:22.2149042][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:22.3327622][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[741.09,-843.06,25.16],"wantedlvl":1
+[01:05:22.4077997][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:22.4803219][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:22.6637244][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:22.7373685][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:22.9199266][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:22.9950376][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:23.1780586][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:23.2160457][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:23.4363523][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:23.4723129][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:23.6965039][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:23.7337082][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:23.9551240][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:23.9939823][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:24.1836833][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:24.2582791][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:24.4432329][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:24.4797309][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:24.7057715][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:24.7913276][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF6553C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFC0FCD0000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFC0F870000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFC0D7E0000 Size: 1255936
+USER32.dll Base Address: 0x7FFC0DD10000 Size: 584704
+win32u.dll Base Address: 0x7FFC0D440000 Size: 42496
+GDI32.dll Base Address: 0x7FFC0F2F0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFC0D630000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFC0DAE0000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFC0D470000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFC0FC80000 Size: 2048
+WS2_32.dll Base Address: 0x7FFC0E650000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFC0F960000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFC0DB80000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFC0D570000 Size: 293888
+msvcrt.dll Base Address: 0x7FFC0FBE0000 Size: 477184
+IMM32.dll Base Address: 0x7FFC0FAF0000 Size: 125440
+bcrypt.dll Base Address: 0x7FFC0DCE0000 Size: 102912
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFB963D0000 Size: 96256
+VERSION.dll Base Address: 0x7FFC03EA0000 Size: 10752
+DSOUND.dll Base Address: 0x7FFBDB7A0000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFC0E0C0000 Size: 182784
+advapi32.dll Base Address: 0x7FFC0E120000 Size: 438784
+sechost.dll Base Address: 0x7FFC0EEF0000 Size: 421888
+SHELL32.dll Base Address: 0x7FFC0E6C0000 Size: 5806592
+bink2w64.dll Base Address: 0x7FFBD8090000 Size: 307712
+combase.dll Base Address: 0x7FFC0EF90000 Size: 2328064
+ole32.dll Base Address: 0x7FFC0F6B0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFC0F380000 Size: 608768
+WININET.dll Base Address: 0x7FFBE3870000 Size: 2019840
+WINMM.dll Base Address: 0x7FFC03EB0000 Size: 81408
+MF.dll Base Address: 0x7FFBD7580000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFBD4FA0000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFC0D5E0000 Size: 219136
+msdmo.dll Base Address: 0x7FFC00490000 Size: 13312
+MFReadWrite.dll Base Address: 0x7FFBD6660000 Size: 918016
+shcore.dll Base Address: 0x7FFC0F450000 Size: 476672
+PROPSYS.dll Base Address: 0x7FFC08C90000 Size: 631296
+d3d9.dll Base Address: 0x7FFBFE0F0000 Size: 1371648
+WTSAPI32.dll Base Address: 0x7FFC09020000 Size: 37888
+D3DCOMPILER_43.dll Base Address: 0x7FFBCA460000 Size: 2423296
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFC00EF0000 Size: 48128
+DINPUT8.dll Base Address: 0x7FFBEEBF0000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFC0E1E0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFC0C760000 Size: 166400
+powrprof.dll Base Address: 0x7FFC0CC40000 Size: 70656
+winmmbase.dll Base Address: 0x7FFBE3520000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFC0B220000 Size: 16384
+dwmapi.dll Base Address: 0x7FFC0AF30000 Size: 98816
+windows.storage.dll Base Address: 0x7FFC0B420000 Size: 5845504
+OPENGL32.dll Base Address: 0x7FFBB9C00000 Size: 909312
+Wldp.dll Base Address: 0x7FFC0CCE0000 Size: 96768
+MFCORE.DLL Base Address: 0x7FFBAD000000 Size: 3960320
+GLU32.dll Base Address: 0x7FFBBB780000 Size: 122880
+ksuser.dll Base Address: 0x7FFBFE050000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFC0CC00000 Size: 10752
+d3dx9_43.dll Base Address: 0x7FFB96160000 Size: 2280960
+UMPDC.dll Base Address: 0x7FFC0CBE0000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFC0D750000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFBD4F60000 Size: 105472
+MSASN1.dll Base Address: 0x7FFC0D0C0000 Size: 34816
+inputhost.dll Base Address: 0x7FFC007B0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFC0A850000 Size: 607744
+wintypes.dll Base Address: 0x7FFC09190000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFC0A4F0000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFC0C480000 Size: 140288
+dbghelp.dll Base Address: 0x7FFC06600000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFBF9F70000 Size: 136704
+d3d12.dll Base Address: 0x7FFBF6270000 Size: 87552
+CRYPTSP.dll Base Address: 0x7FFC0D070000 Size: 46080
+uxtheme.dll Base Address: 0x7FFC0ACD0000 Size: 382976
+rsaenh.dll Base Address: 0x7FFC0C340000 Size: 142336
+clbcatq.dll Base Address: 0x7FFC0FB30000 Size: 437760
+dxdiagn.dll Base Address: 0x7FFBD6830000 Size: 395264
+DEVOBJ.dll Base Address: 0x7FFC0D120000 Size: 132608
+dxgi.dll Base Address: 0x7FFC0BD20000 Size: 614912
+d3d11.dll Base Address: 0x7FFC09750000 Size: 1853440
+WMICLNT.dll Base Address: 0x7FFC087B0000 Size: 31744
+wbemprox.dll Base Address: 0x7FFBF8980000 Size: 27648
+wbemcomn.dll Base Address: 0x7FFBFB500000 Size: 328704
+wbemsvc.dll Base Address: 0x7FFBF6380000 Size: 7168
+fastprox.dll Base Address: 0x7FFBF6A50000 Size: 708608
+amsi.dll Base Address: 0x7FFC01BB0000 Size: 62464
+USERENV.dll Base Address: 0x7FFC0D240000 Size: 108032
+profapi.dll Base Address: 0x7FFC0D2C0000 Size: 88064
+MpOav.dll Base Address: 0x7FFBF43D0000 Size: 204800
+D3D10_1.DLL Base Address: 0x7FFBFE300000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFC09000000 Size: 7680
+apphelp.dll Base Address: 0x7FFC0AB70000 Size: 319488
+MSCTF.dll Base Address: 0x7FFC0DF20000 Size: 864256
+textinputframework.dll Base Address: 0x7FFC00910000 Size: 722944
+WINSTA.dll Base Address: 0x7FFC0C700000 Size: 190976
+aticfx64.dll Base Address: 0x7FFC03EE0000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFC03E60000 Size: 190464
+atidxx64.dll Base Address: 0x7FFC01EA0000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFC01CF0000 Size: 117248
+dxcore.dll Base Address: 0x7FFC040C0000 Size: 150016
+HID.DLL Base Address: 0x7FFC0BBC0000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFC06110000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFBCF8D0000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFC061E0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFC0AE30000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFC00A10000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFC07860000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFC06A60000 Size: 1456640
+avrt.dll Base Address: 0x7FFC07EC0000 Size: 5632
+napinsp.dll Base Address: 0x7FFC04AF0000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFBF8C80000 Size: 66048
+wshbth.dll Base Address: 0x7FFBF8C60000 Size: 43008
+NLAapi.dll Base Address: 0x7FFC08E30000 Size: 68608
+mswsock.dll Base Address: 0x7FFC0CA40000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFC0C7A0000 Size: 595456
+NSI.dll Base Address: 0x7FFC0F930000 Size: 7680
+winrnr.dll Base Address: 0x7FFBEFE10000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFC05A70000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFC05A20000 Size: 7168
+imagehlp.dll Base Address: 0x7FFC0F940000 Size: 45056
+gpapi.dll Base Address: 0x7FFC0BBD0000 Size: 69120
+cryptnet.dll Base Address: 0x7FFBF2CD0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFC08110000 Size: 11776
+SspiCli.dll Base Address: 0x7FFC0D270000 Size: 123904
+socialclub.dll Base Address: 0x7FFBB3140000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFBD7480000 Size: 676864
+libcef.dll Base Address: 0x7FFB722D0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFC0EE10000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFBEBA40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFBFE8E0000 Size: 260608
+Secur32.dll Base Address: 0x7FFBF5E70000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFBFB690000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFC00FF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFBE35F0000 Size: 1601024
+WINSPOOL.DRV Base Address: 0x7FFBE44F0000 Size: 389632
+USP10.dll Base Address: 0x7FFBBE1A0000 Size: 512
+dxva2.dll Base Address: 0x7FFBFF360000 Size: 96256
+credui.dll Base Address: 0x7FFBF7DE0000 Size: 55808
+WINHTTP.dll Base Address: 0x7FFC074F0000 Size: 845312
+urlmon.dll Base Address: 0x7FFC04900000 Size: 1281536
+CRYPTUI.dll Base Address: 0x7FFBEB9E0000 Size: 246272
+ncrypt.dll Base Address: 0x7FFC0CD50000 Size: 102400
+dhcpcsvc.DLL Base Address: 0x7FFC07FC0000 Size: 61440
+wevtapi.dll Base Address: 0x7FFC086C0000 Size: 296960
+ESENT.dll Base Address: 0x7FFBF66D0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFC01830000 Size: 551424
+netutils.dll Base Address: 0x7FFC0C8C0000 Size: 19456
+srvcli.dll Base Address: 0x7FFC01C70000 Size: 54272
+WKSCLI.DLL Base Address: 0x7FFC0C460000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFBFCD00000 Size: 61440
+NTASN1.dll Base Address: 0x7FFC0CD10000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFC0BF60000 Size: 329728
+fwbase.dll Base Address: 0x7FFC0BEF0000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFBFCF50000 Size: 205824
+wdmaud.drv Base Address: 0x7FFBC1A30000 Size: 193024
+msacm32.drv Base Address: 0x7FFC0AAE0000 Size: 17920
+MSACM32.dll Base Address: 0x7FFBF8DA0000 Size: 74240
+midimap.dll Base Address: 0x7FFBF40A0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFBF8C40000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFC07FE0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFB71780000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFBDC050000 Size: 340480
+VCRUNTIME140.dll Base Address: 0x7FFBDC0E0000 Size: 73728
+D3DCOMPILER_47.dll Base Address: 0x7FFC092F0000 Size: 3396608
+VCRUNTIME140_1.dll Base Address: 0x7FFBDC1F0000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFBF4250000 Size: 30208
+schannel.DLL Base Address: 0x7FFC0C250000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFBF3340000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFBF3920000 Size: 78848
+Dumping registers:
+RAX: 0x3D4CCCCD00000000
+RCX: 0x3F71CFBE00
+RDX: 0xFFFFFFFF
+RBX: 0x1AD189B1310
+RSI: 0x0
+RDI: 0x1AD0C068390
+RSP: 0x3F71CFAB90
+RBP: 0x3F71CFAC90
+R8:  0xFFFFFFFF
+R9:  0x0
+R10: 0x1
+R11: 0x1AD19BD6E40
+R12: 0x1AD0C180B90
+R13: 0x3F71CFAF80
+R14: 0x1AD0C180B90
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1022599 0x7FF6563E2599
+[1]	GTA5.exe+0x105245D 0x7FF65641245D
+[2]	GTA5.exe+0x114D69B 0x7FF65650D69B
+[3]	GTA5.exe+0x1144867 0x7FF656504867
+[4]	GTA5.exe+0x16CE644 0x7FF656A8E644
+[5]	GTA5.exe+0x1147A19 0x7FF656507A19
+[6]	GTA5.exe+0x16D7332 0x7FF656A97332
+[7]	YimMenu (1).dll+0x11CB7D 0x7FFB7189CB7D
+[8]	GTA5.exe+0x16D7D40 0x7FF656A97D40
+[9]	GTA5.exe+0x16CF0FD 0x7FF656A8F0FD
+[10]	GTA5.exe+0x16D4791 0x7FF656A94791
+[11]	GTA5.exe+0x13FCC39 0x7FF6567BCC39
+[12]	GTA5.exe+0x16D4A39 0x7FF656A94A39
+[13]	GTA5.exe+0x13FD016 0x7FF6567BD016
+[14]	YimMenu (1).dll+0x11A100 0x7FFB7189A100
+[15]	GTA5.exe+0x13FD0C9 0x7FF6567BD0C9
+[16]	GTA5.exe+0x13FCDE2 0x7FF6567BCDE2
+[17]	GTA5.exe+0x1427AB7 0x7FF6567E7AB7
+[18]	GTA5.exe+0x10C6D98 0x7FF656486D98
+[19]	GTA5.exe+0x162FA85 0x7FF6569EFA85
+[20]	GTA5.exe+0x162F2B7 0x7FF6569EF2B7
+[21]	GTA5.exe+0x27B6E 0x7FF6553E7B6E
+[22]	GTA5.exe+0x21283 0x7FF6553E1283
+[23]	GTA5.exe+0x162EEC0 0x7FF6569EEEC0
+[24]	GTA5.exe+0x1494 0x7FF6553C1494
+[25]	GTA5.exe+0x130538F 0x7FF6566C538F
+[26]	GTA5.exe+0x1821344 0x7FF656BE1344
+[27]	KERNEL32.DLL BaseThreadInitThunk
+[28]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[01:05:24.8264706][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF6553C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFC0FCD0000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFC0F870000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFC0D7E0000 Size: 1255936
+USER32.dll Base Address: 0x7FFC0DD10000 Size: 584704
+win32u.dll Base Address: 0x7FFC0D440000 Size: 42496
+GDI32.dll Base Address: 0x7FFC0F2F0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFC0D630000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFC0DAE0000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFC0D470000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFC0FC80000 Size: 2048
+WS2_32.dll Base Address: 0x7FFC0E650000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFC0F960000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFC0DB80000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFC0D570000 Size: 293888
+msvcrt.dll Base Address: 0x7FFC0FBE0000 Size: 477184
+IMM32.dll Base Address: 0x7FFC0FAF0000 Size: 125440
+bcrypt.dll Base Address: 0x7FFC0DCE0000 Size: 102912
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFB963D0000 Size: 96256
+VERSION.dll Base Address: 0x7FFC03EA0000 Size: 10752
+DSOUND.dll Base Address: 0x7FFBDB7A0000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFC0E0C0000 Size: 182784
+advapi32.dll Base Address: 0x7FFC0E120000 Size: 438784
+sechost.dll Base Address: 0x7FFC0EEF0000 Size: 421888
+SHELL32.dll Base Address: 0x7FFC0E6C0000 Size: 5806592
+bink2w64.dll Base Address: 0x7FFBD8090000 Size: 307712
+combase.dll Base Address: 0x7FFC0EF90000 Size: 2328064
+ole32.dll Base Address: 0x7FFC0F6B0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFC0F380000 Size: 608768
+WININET.dll Base Address: 0x7FFBE3870000 Size: 2019840
+WINMM.dll Base Address: 0x7FFC03EB0000 Size: 81408
+MF.dll Base Address: 0x7FFBD7580000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFBD4FA0000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFC0D5E0000 Size: 219136
+msdmo.dll Base Address: 0x7FFC00490000 Size: 13312
+MFReadWrite.dll Base Address: 0x7FFBD6660000 Size: 918016
+shcore.dll Base Address: 0x7FFC0F450000 Size: 476672
+PROPSYS.dll Base Address: 0x7FFC08C90000 Size: 631296
+d3d9.dll Base Address: 0x7FFBFE0F0000 Size: 1371648
+WTSAPI32.dll Base Address: 0x7FFC09020000 Size: 37888
+D3DCOMPILER_43.dll Base Address: 0x7FFBCA460000 Size: 2423296
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFC00EF0000 Size: 48128
+DINPUT8.dll Base Address: 0x7FFBEEBF0000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFC0E1E0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFC0C760000 Size: 166400
+powrprof.dll Base Address: 0x7FFC0CC40000 Size: 70656
+winmmbase.dll Base Address: 0x7FFBE3520000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFC0B220000 Size: 16384
+dwmapi.dll Base Address: 0x7FFC0AF30000 Size: 98816
+windows.storage.dll Base Address: 0x7FFC0B420000 Size: 5845504
+OPENGL32.dll Base Address: 0x7FFBB9C00000 Size: 909312
+Wldp.dll Base Address: 0x7FFC0CCE0000 Size: 96768
+MFCORE.DLL Base Address: 0x7FFBAD000000 Size: 3960320
+GLU32.dll Base Address: 0x7FFBBB780000 Size: 122880
+ksuser.dll Base Address: 0x7FFBFE050000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFC0CC00000 Size: 10752
+d3dx9_43.dll Base Address: 0x7FFB96160000 Size: 2280960
+UMPDC.dll Base Address: 0x7FFC0CBE0000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFC0D750000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFBD4F60000 Size: 105472
+MSASN1.dll Base Address: 0x7FFC0D0C0000 Size: 34816
+inputhost.dll Base Address: 0x7FFC007B0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFC0A850000 Size: 607744
+wintypes.dll Base Address: 0x7FFC09190000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFC0A4F0000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFC0C480000 Size: 140288
+dbghelp.dll Base Address: 0x7FFC06600000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFBF9F70000 Size: 136704
+d3d12.dll Base Address: 0x7FFBF6270000 Size: 87552
+CRYPTSP.dll Base Address: 0x7FFC0D070000 Size: 46080
+uxtheme.dll Base Address: 0x7FFC0ACD0000 Size: 382976
+rsaenh.dll Base Address: 0x7FFC0C340000 Size: 142336
+clbcatq.dll Base Address: 0x7FFC0FB30000 Size: 437760
+dxdiagn.dll Base Address: 0x7FFBD6830000 Size: 395264
+DEVOBJ.dll Base Address: 0x7FFC0D120000 Size: 132608
+dxgi.dll Base Address: 0x7FFC0BD20000 Size: 614912
+d3d11.dll Base Address: 0x7FFC09750000 Size: 1853440
+WMICLNT.dll Base Address: 0x7FFC087B0000 Size: 31744
+wbemprox.dll Base Address: 0x7FFBF8980000 Size: 27648
+wbemcomn.dll Base Address: 0x7FFBFB500000 Size: 328704
+wbemsvc.dll Base Address: 0x7FFBF6380000 Size: 7168
+fastprox.dll Base Address: 0x7FFBF6A50000 Size: 708608
+amsi.dll Base Address: 0x7FFC01BB0000 Size: 62464
+USERENV.dll Base Address: 0x7FFC0D240000 Size: 108032
+profapi.dll Base Address: 0x7FFC0D2C0000 Size: 88064
+MpOav.dll Base Address: 0x7FFBF43D0000 Size: 204800
+D3D10_1.DLL Base Address: 0x7FFBFE300000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFC09000000 Size: 7680
+apphelp.dll Base Address: 0x7FFC0AB70000 Size: 319488
+MSCTF.dll Base Address: 0x7FFC0DF20000 Size: 864256
+textinputframework.dll Base Address: 0x7FFC00910000 Size: 722944
+WINSTA.dll Base Address: 0x7FFC0C700000 Size: 190976
+aticfx64.dll Base Address: 0x7FFC03EE0000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFC03E60000 Size: 190464
+atidxx64.dll Base Address: 0x7FFC01EA0000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFC01CF0000 Size: 117248
+dxcore.dll Base Address: 0x7FFC040C0000 Size: 150016
+HID.DLL Base Address: 0x7FFC0BBC0000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFC06110000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFBCF8D0000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFC061E0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFC0AE30000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFC00A10000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFC07860000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFC06A60000 Size: 1456640
+avrt.dll Base Address: 0x7FFC07EC0000 Size: 5632
+napinsp.dll Base Address: 0x7FFC04AF0000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFBF8C80000 Size: 66048
+wshbth.dll Base Address: 0x7FFBF8C60000 Size: 43008
+NLAapi.dll Base Address: 0x7FFC08E30000 Size: 68608
+mswsock.dll Base Address: 0x7FFC0CA40000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFC0C7A0000 Size: 595456
+NSI.dll Base Address: 0x7FFC0F930000 Size: 7680
+winrnr.dll Base Address: 0x7FFBEFE10000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFC05A70000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFC05A20000 Size: 7168
+imagehlp.dll Base Address: 0x7FFC0F940000 Size: 45056
+gpapi.dll Base Address: 0x7FFC0BBD0000 Size: 69120
+cryptnet.dll Base Address: 0x7FFBF2CD0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFC08110000 Size: 11776
+SspiCli.dll Base Address: 0x7FFC0D270000 Size: 123904
+socialclub.dll Base Address: 0x7FFBB3140000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFBD7480000 Size: 676864
+libcef.dll Base Address: 0x7FFB722D0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFC0EE10000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFBEBA40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFBFE8E0000 Size: 260608
+Secur32.dll Base Address: 0x7FFBF5E70000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFBFB690000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFC00FF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFBE35F0000 Size: 1601024
+WINSPOOL.DRV Base Address: 0x7FFBE44F0000 Size: 389632
+USP10.dll Base Address: 0x7FFBBE1A0000 Size: 512
+dxva2.dll Base Address: 0x7FFBFF360000 Size: 96256
+credui.dll Base Address: 0x7FFBF7DE0000 Size: 55808
+WINHTTP.dll Base Address: 0x7FFC074F0000 Size: 845312
+urlmon.dll Base Address: 0x7FFC04900000 Size: 1281536
+CRYPTUI.dll Base Address: 0x7FFBEB9E0000 Size: 246272
+ncrypt.dll Base Address: 0x7FFC0CD50000 Size: 102400
+dhcpcsvc.DLL Base Address: 0x7FFC07FC0000 Size: 61440
+wevtapi.dll Base Address: 0x7FFC086C0000 Size: 296960
+ESENT.dll Base Address: 0x7FFBF66D0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFC01830000 Size: 551424
+netutils.dll Base Address: 0x7FFC0C8C0000 Size: 19456
+srvcli.dll Base Address: 0x7FFC01C70000 Size: 54272
+WKSCLI.DLL Base Address: 0x7FFC0C460000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFBFCD00000 Size: 61440
+NTASN1.dll Base Address: 0x7FFC0CD10000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFC0BF60000 Size: 329728
+fwbase.dll Base Address: 0x7FFC0BEF0000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFBFCF50000 Size: 205824
+wdmaud.drv Base Address: 0x7FFBC1A30000 Size: 193024
+msacm32.drv Base Address: 0x7FFC0AAE0000 Size: 17920
+MSACM32.dll Base Address: 0x7FFBF8DA0000 Size: 74240
+midimap.dll Base Address: 0x7FFBF40A0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFBF8C40000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFC07FE0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFB71780000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFBDC050000 Size: 340480
+VCRUNTIME140.dll Base Address: 0x7FFBDC0E0000 Size: 73728
+D3DCOMPILER_47.dll Base Address: 0x7FFC092F0000 Size: 3396608
+VCRUNTIME140_1.dll Base Address: 0x7FFBDC1F0000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFBF4250000 Size: 30208
+schannel.DLL Base Address: 0x7FFC0C250000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFBF3340000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFBF3920000 Size: 78848
+Dumping registers:
+RAX: 0x3D4CCCCD00000000
+RCX: 0x3F71CFBE00
+RDX: 0xFFFFFFFF
+RBX: 0x1AD189B1310
+RSI: 0x0
+RDI: 0x1AD0C068390
+RSP: 0x3F71CFAB90
+RBP: 0x3F71CFAC90
+R8:  0xFFFFFFFF
+R9:  0x0
+R10: 0x1
+R11: 0x1AD19BD6E40
+R12: 0x1AD0C180B90
+R13: 0x3F71CFAF80
+R14: 0x1AD0C180B90
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1022599 0x7FF6563E2599
+[1]	GTA5.exe+0x105245D 0x7FF65641245D
+[2]	GTA5.exe+0x114D69B 0x7FF65650D69B
+[3]	GTA5.exe+0x1144867 0x7FF656504867
+[4]	GTA5.exe+0x16CE644 0x7FF656A8E644
+[5]	GTA5.exe+0x1147A19 0x7FF656507A19
+[6]	GTA5.exe+0x16D7332 0x7FF656A97332
+[7]	YimMenu (1).dll+0x11CB7D 0x7FFB7189CB7D
+[8]	GTA5.exe+0x16D7D40 0x7FF656A97D40
+[9]	GTA5.exe+0x16CF0FD 0x7FF656A8F0FD
+[10]	GTA5.exe+0x16D4791 0x7FF656A94791
+[11]	GTA5.exe+0x13FCC39 0x7FF6567BCC39
+[12]	GTA5.exe+0x16D4A39 0x7FF656A94A39
+[13]	GTA5.exe+0x13FD016 0x7FF6567BD016
+[14]	YimMenu (1).dll+0x11A100 0x7FFB7189A100
+[15]	GTA5.exe+0x13FD0C9 0x7FF6567BD0C9
+[16]	GTA5.exe+0x13FCDE2 0x7FF6567BCDE2
+[17]	GTA5.exe+0x1427AB7 0x7FF6567E7AB7
+[18]	GTA5.exe+0x10C6D98 0x7FF656486D98
+[19]	GTA5.exe+0x162FA85 0x7FF6569EFA85
+[20]	GTA5.exe+0x162F2B7 0x7FF6569EF2B7
+[21]	GTA5.exe+0x27B6E 0x7FF6553E7B6E
+[22]	GTA5.exe+0x21283 0x7FF6553E1283
+[23]	GTA5.exe+0x162EEC0 0x7FF6569EEEC0
+[24]	GTA5.exe+0x1494 0x7FF6553C1494
+[25]	GTA5.exe+0x130538F 0x7FF6566C538F
+[26]	GTA5.exe+0x1821344 0x7FF656BE1344
+[27]	KERNEL32.DLL BaseThreadInitThunk
+[28]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x3D4CCCCD00000000
+RCX: 0x0
+RDX: 0xFFFFFFFF
+RBX: 0x1AD0C068390
+RSI: 0x3F71CFAF90
+RDI: 0x1AD0C180B90
+RSP: 0x3F71CFAAD0
+RBP: 0x3F71CFAB59
+R8:  0xFFFFFFFF
+R9:  0x0
+R10: 0x1CE
+R11: 0x1AD19BD6E40
+R12: 0x3F71CFBE00
+R13: 0x0
+R14: 0x3F71CFB2B0
+R15: 0x1
+Dumping stacktrace:
+[0]	GTA5.exe+0x1026653 0x7FF6563E6653
+[1]	GTA5.exe+0x1023112 0x7FF6563E3112
+[2]	GTA5.exe+0x105245D 0x7FF65641245D
+[3]	GTA5.exe+0x114D69B 0x7FF65650D69B
+[4]	GTA5.exe+0x1144867 0x7FF656504867
+[5]	GTA5.exe+0x16CE644 0x7FF656A8E644
+[6]	GTA5.exe+0x1147A19 0x7FF656507A19
+[7]	GTA5.exe+0x16D7332 0x7FF656A97332
+[8]	YimMenu (1).dll+0x11CB7D 0x7FFB7189CB7D
+[9]	GTA5.exe+0x16D7D40 0x7FF656A97D40
+[10]	GTA5.exe+0x16CF0FD 0x7FF656A8F0FD
+[11]	GTA5.exe+0x16D4791 0x7FF656A94791
+[12]	GTA5.exe+0x13FCC39 0x7FF6567BCC39
+[13]	GTA5.exe+0x16D4A39 0x7FF656A94A39
+[14]	GTA5.exe+0x13FD016 0x7FF6567BD016
+[15]	YimMenu (1).dll+0x11A100 0x7FFB7189A100
+[16]	GTA5.exe+0x13FD0C9 0x7FF6567BD0C9
+[17]	GTA5.exe+0x13FCDE2 0x7FF6567BCDE2
+[18]	GTA5.exe+0x1427AB7 0x7FF6567E7AB7
+[19]	GTA5.exe+0x10C6D98 0x7FF656486D98
+[20]	GTA5.exe+0x162FA85 0x7FF6569EFA85
+[21]	GTA5.exe+0x162F2B7 0x7FF6569EF2B7
+[22]	GTA5.exe+0x27B6E 0x7FF6553E7B6E
+[23]	GTA5.exe+0x21283 0x7FF6553E1283
+[24]	GTA5.exe+0x162EEC0 0x7FF6569EEEC0
+[25]	GTA5.exe+0x1494 0x7FF6553C1494
+[26]	GTA5.exe+0x130538F 0x7FF6566C538F
+[27]	GTA5.exe+0x1821344 0x7FF656BE1344
+[28]	KERNEL32.DLL BaseThreadInitThunk
+[29]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[01:05:24.8327449][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF6553C0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFC0FCD0000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFC0F870000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFC0D7E0000 Size: 1255936
+USER32.dll Base Address: 0x7FFC0DD10000 Size: 584704
+win32u.dll Base Address: 0x7FFC0D440000 Size: 42496
+GDI32.dll Base Address: 0x7FFC0F2F0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFC0D630000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFC0DAE0000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFC0D470000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFC0FC80000 Size: 2048
+WS2_32.dll Base Address: 0x7FFC0E650000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFC0F960000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFC0DB80000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFC0D570000 Size: 293888
+msvcrt.dll Base Address: 0x7FFC0FBE0000 Size: 477184
+IMM32.dll Base Address: 0x7FFC0FAF0000 Size: 125440
+bcrypt.dll Base Address: 0x7FFC0DCE0000 Size: 102912
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFB963D0000 Size: 96256
+VERSION.dll Base Address: 0x7FFC03EA0000 Size: 10752
+DSOUND.dll Base Address: 0x7FFBDB7A0000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFC0E0C0000 Size: 182784
+advapi32.dll Base Address: 0x7FFC0E120000 Size: 438784
+sechost.dll Base Address: 0x7FFC0EEF0000 Size: 421888
+SHELL32.dll Base Address: 0x7FFC0E6C0000 Size: 5806592
+bink2w64.dll Base Address: 0x7FFBD8090000 Size: 307712
+combase.dll Base Address: 0x7FFC0EF90000 Size: 2328064
+ole32.dll Base Address: 0x7FFC0F6B0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFC0F380000 Size: 608768
+WININET.dll Base Address: 0x7FFBE3870000 Size: 2019840
+WINMM.dll Base Address: 0x7FFC03EB0000 Size: 81408
+MF.dll Base Address: 0x7FFBD7580000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFBD4FA0000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFC0D5E0000 Size: 219136
+msdmo.dll Base Address: 0x7FFC00490000 Size: 13312
+MFReadWrite.dll Base Address: 0x7FFBD6660000 Size: 918016
+shcore.dll Base Address: 0x7FFC0F450000 Size: 476672
+PROPSYS.dll Base Address: 0x7FFC08C90000 Size: 631296
+d3d9.dll Base Address: 0x7FFBFE0F0000 Size: 1371648
+WTSAPI32.dll Base Address: 0x7FFC09020000 Size: 37888
+D3DCOMPILER_43.dll Base Address: 0x7FFBCA460000 Size: 2423296
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFC00EF0000 Size: 48128
+DINPUT8.dll Base Address: 0x7FFBEEBF0000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFC0E1E0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFC0C760000 Size: 166400
+powrprof.dll Base Address: 0x7FFC0CC40000 Size: 70656
+winmmbase.dll Base Address: 0x7FFBE3520000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFC0B220000 Size: 16384
+dwmapi.dll Base Address: 0x7FFC0AF30000 Size: 98816
+windows.storage.dll Base Address: 0x7FFC0B420000 Size: 5845504
+OPENGL32.dll Base Address: 0x7FFBB9C00000 Size: 909312
+Wldp.dll Base Address: 0x7FFC0CCE0000 Size: 96768
+MFCORE.DLL Base Address: 0x7FFBAD000000 Size: 3960320
+GLU32.dll Base Address: 0x7FFBBB780000 Size: 122880
+ksuser.dll Base Address: 0x7FFBFE050000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFC0CC00000 Size: 10752
+d3dx9_43.dll Base Address: 0x7FFB96160000 Size: 2280960
+UMPDC.dll Base Address: 0x7FFC0CBE0000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFC0D750000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFBD4F60000 Size: 105472
+MSASN1.dll Base Address: 0x7FFC0D0C0000 Size: 34816
+inputhost.dll Base Address: 0x7FFC007B0000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFC0A850000 Size: 607744
+wintypes.dll Base Address: 0x7FFC09190000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFC0A4F0000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFC0C480000 Size: 140288
+dbghelp.dll Base Address: 0x7FFC06600000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFBF9F70000 Size: 136704
+d3d12.dll Base Address: 0x7FFBF6270000 Size: 87552
+CRYPTSP.dll Base Address: 0x7FFC0D070000 Size: 46080
+uxtheme.dll Base Address: 0x7FFC0ACD0000 Size: 382976
+rsaenh.dll Base Address: 0x7FFC0C340000 Size: 142336
+clbcatq.dll Base Address: 0x7FFC0FB30000 Size: 437760
+dxdiagn.dll Base Address: 0x7FFBD6830000 Size: 395264
+DEVOBJ.dll Base Address: 0x7FFC0D120000 Size: 132608
+dxgi.dll Base Address: 0x7FFC0BD20000 Size: 614912
+d3d11.dll Base Address: 0x7FFC09750000 Size: 1853440
+WMICLNT.dll Base Address: 0x7FFC087B0000 Size: 31744
+wbemprox.dll Base Address: 0x7FFBF8980000 Size: 27648
+wbemcomn.dll Base Address: 0x7FFBFB500000 Size: 328704
+wbemsvc.dll Base Address: 0x7FFBF6380000 Size: 7168
+fastprox.dll Base Address: 0x7FFBF6A50000 Size: 708608
+amsi.dll Base Address: 0x7FFC01BB0000 Size: 62464
+USERENV.dll Base Address: 0x7FFC0D240000 Size: 108032
+profapi.dll Base Address: 0x7FFC0D2C0000 Size: 88064
+MpOav.dll Base Address: 0x7FFBF43D0000 Size: 204800
+D3D10_1.DLL Base Address: 0x7FFBFE300000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFC09000000 Size: 7680
+apphelp.dll Base Address: 0x7FFC0AB70000 Size: 319488
+MSCTF.dll Base Address: 0x7FFC0DF20000 Size: 864256
+textinputframework.dll Base Address: 0x7FFC00910000 Size: 722944
+WINSTA.dll Base Address: 0x7FFC0C700000 Size: 190976
+aticfx64.dll Base Address: 0x7FFC03EE0000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFC03E60000 Size: 190464
+atidxx64.dll Base Address: 0x7FFC01EA0000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFC01CF0000 Size: 117248
+dxcore.dll Base Address: 0x7FFC040C0000 Size: 150016
+HID.DLL Base Address: 0x7FFC0BBC0000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFC06110000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFBCF8D0000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFC061E0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFC0AE30000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFC00A10000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFC07860000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFC06A60000 Size: 1456640
+avrt.dll Base Address: 0x7FFC07EC0000 Size: 5632
+napinsp.dll Base Address: 0x7FFC04AF0000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFBF8C80000 Size: 66048
+wshbth.dll Base Address: 0x7FFBF8C60000 Size: 43008
+NLAapi.dll Base Address: 0x7FFC08E30000 Size: 68608
+mswsock.dll Base Address: 0x7FFC0CA40000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFC0C7A0000 Size: 595456
+NSI.dll Base Address: 0x7FFC0F930000 Size: 7680
+winrnr.dll Base Address: 0x7FFBEFE10000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFC05A70000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFC05A20000 Size: 7168
+imagehlp.dll Base Address: 0x7FFC0F940000 Size: 45056
+gpapi.dll Base Address: 0x7FFC0BBD0000 Size: 69120
+cryptnet.dll Base Address: 0x7FFBF2CD0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFC08110000 Size: 11776
+SspiCli.dll Base Address: 0x7FFC0D270000 Size: 123904
+socialclub.dll Base Address: 0x7FFBB3140000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFBD7480000 Size: 676864
+libcef.dll Base Address: 0x7FFB722D0000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFC0EE10000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFBEBA40000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFBFE8E0000 Size: 260608
+Secur32.dll Base Address: 0x7FFBF5E70000 Size: 11264
+NETAPI32.dll Base Address: 0x7FFBFB690000 Size: 47616
+COMCTL32.dll Base Address: 0x7FFC00FF0000 Size: 560128
+DWrite.dll Base Address: 0x7FFBE35F0000 Size: 1601024
+WINSPOOL.DRV Base Address: 0x7FFBE44F0000 Size: 389632
+USP10.dll Base Address: 0x7FFBBE1A0000 Size: 512
+dxva2.dll Base Address: 0x7FFBFF360000 Size: 96256
+credui.dll Base Address: 0x7FFBF7DE0000 Size: 55808
+WINHTTP.dll Base Address: 0x7FFC074F0000 Size: 845312
+urlmon.dll Base Address: 0x7FFC04900000 Size: 1281536
+CRYPTUI.dll Base Address: 0x7FFBEB9E0000 Size: 246272
+ncrypt.dll Base Address: 0x7FFC0CD50000 Size: 102400
+dhcpcsvc.DLL Base Address: 0x7FFC07FC0000 Size: 61440
+wevtapi.dll Base Address: 0x7FFC086C0000 Size: 296960
+ESENT.dll Base Address: 0x7FFBF66D0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFC01830000 Size: 551424
+netutils.dll Base Address: 0x7FFC0C8C0000 Size: 19456
+srvcli.dll Base Address: 0x7FFC01C70000 Size: 54272
+WKSCLI.DLL Base Address: 0x7FFC0C460000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFBFCD00000 Size: 61440
+NTASN1.dll Base Address: 0x7FFC0CD10000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFC0BF60000 Size: 329728
+fwbase.dll Base Address: 0x7FFC0BEF0000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFBFCF50000 Size: 205824
+wdmaud.drv Base Address: 0x7FFBC1A30000 Size: 193024
+msacm32.drv Base Address: 0x7FFC0AAE0000 Size: 17920
+MSACM32.dll Base Address: 0x7FFBF8DA0000 Size: 74240
+midimap.dll Base Address: 0x7FFBF40A0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFBF8C40000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFC07FE0000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFB71780000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFBDC050000 Size: 340480
+VCRUNTIME140.dll Base Address: 0x7FFBDC0E0000 Size: 73728
+D3DCOMPILER_47.dll Base Address: 0x7FFC092F0000 Size: 3396608
+VCRUNTIME140_1.dll Base Address: 0x7FFBDC1F0000 Size: 15360
+xinput1_4.dll Base Address: 0x7FFBF4250000 Size: 30208
+schannel.DLL Base Address: 0x7FFC0C250000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFBF3340000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFBF3920000 Size: 78848
+Dumping registers:
+RAX: 0x3D4CCCCD00000000
+RCX: 0x3F71CFBE00
+RDX: 0xFFFFFFFF
+RBX: 0x1AD189B1310
+RSI: 0x0
+RDI: 0x1AD0C068390
+RSP: 0x3F71CFAB90
+RBP: 0x3F71CFAC90
+R8:  0xFFFFFFFF
+R9:  0x0
+R10: 0x1
+R11: 0x1AD19BD6E40
+R12: 0x1AD0C180B90
+R13: 0x3F71CFAF80
+R14: 0x1AD0C180B90
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1022599 0x7FF6563E2599
+[1]	GTA5.exe+0x105245D 0x7FF65641245D
+[2]	GTA5.exe+0x114D69B 0x7FF65650D69B
+[3]	GTA5.exe+0x1144867 0x7FF656504867
+[4]	GTA5.exe+0x16CE644 0x7FF656A8E644
+[5]	GTA5.exe+0x1147A19 0x7FF656507A19
+[6]	GTA5.exe+0x16D7332 0x7FF656A97332
+[7]	YimMenu (1).dll+0x11CB7D 0x7FFB7189CB7D
+[8]	GTA5.exe+0x16D7D40 0x7FF656A97D40
+[9]	GTA5.exe+0x16CF0FD 0x7FF656A8F0FD
+[10]	GTA5.exe+0x16D4791 0x7FF656A94791
+[11]	GTA5.exe+0x13FCC39 0x7FF6567BCC39
+[12]	GTA5.exe+0x16D4A39 0x7FF656A94A39
+[13]	GTA5.exe+0x13FD016 0x7FF6567BD016
+[14]	YimMenu (1).dll+0x11A100 0x7FFB7189A100
+[15]	GTA5.exe+0x13FD0C9 0x7FF6567BD0C9
+[16]	GTA5.exe+0x13FCDE2 0x7FF6567BCDE2
+[17]	GTA5.exe+0x1427AB7 0x7FF6567E7AB7
+[18]	GTA5.exe+0x10C6D98 0x7FF656486D98
+[19]	GTA5.exe+0x162FA85 0x7FF6569EFA85
+[20]	GTA5.exe+0x162F2B7 0x7FF6569EF2B7
+[21]	GTA5.exe+0x27B6E 0x7FF6553E7B6E
+[22]	GTA5.exe+0x21283 0x7FF6553E1283
+[23]	GTA5.exe+0x162EEC0 0x7FF6569EEEC0
+[24]	GTA5.exe+0x1494 0x7FF6553C1494
+[25]	GTA5.exe+0x130538F 0x7FF6566C538F
+[26]	GTA5.exe+0x1821344 0x7FF656BE1344
+[27]	KERNEL32.DLL BaseThreadInitThunk
+[28]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x3D4CCCCD00000000
+RCX: 0x0
+RDX: 0xFFFFFFFF
+RBX: 0x1AD0C068390
+RSI: 0x3F71CFAF90
+RDI: 0x1AD0C180B90
+RSP: 0x3F71CFAAD0
+RBP: 0x3F71CFAB59
+R8:  0xFFFFFFFF
+R9:  0x0
+R10: 0x1CE
+R11: 0x1AD19BD6E40
+R12: 0x3F71CFBE00
+R13: 0x0
+R14: 0x3F71CFB2B0
+R15: 0x1
+Dumping stacktrace:
+[0]	GTA5.exe+0x1026653 0x7FF6563E6653
+[1]	GTA5.exe+0x1023112 0x7FF6563E3112
+[2]	GTA5.exe+0x105245D 0x7FF65641245D
+[3]	GTA5.exe+0x114D69B 0x7FF65650D69B
+[4]	GTA5.exe+0x1144867 0x7FF656504867
+[5]	GTA5.exe+0x16CE644 0x7FF656A8E644
+[6]	GTA5.exe+0x1147A19 0x7FF656507A19
+[7]	GTA5.exe+0x16D7332 0x7FF656A97332
+[8]	YimMenu (1).dll+0x11CB7D 0x7FFB7189CB7D
+[9]	GTA5.exe+0x16D7D40 0x7FF656A97D40
+[10]	GTA5.exe+0x16CF0FD 0x7FF656A8F0FD
+[11]	GTA5.exe+0x16D4791 0x7FF656A94791
+[12]	GTA5.exe+0x13FCC39 0x7FF6567BCC39
+[13]	GTA5.exe+0x16D4A39 0x7FF656A94A39
+[14]	GTA5.exe+0x13FD016 0x7FF6567BD016
+[15]	YimMenu (1).dll+0x11A100 0x7FFB7189A100
+[16]	GTA5.exe+0x13FD0C9 0x7FF6567BD0C9
+[17]	GTA5.exe+0x13FCDE2 0x7FF6567BCDE2
+[18]	GTA5.exe+0x1427AB7 0x7FF6567E7AB7
+[19]	GTA5.exe+0x10C6D98 0x7FF656486D98
+[20]	GTA5.exe+0x162FA85 0x7FF6569EFA85
+[21]	GTA5.exe+0x162F2B7 0x7FF6569EF2B7
+[22]	GTA5.exe+0x27B6E 0x7FF6553E7B6E
+[23]	GTA5.exe+0x21283 0x7FF6553E1283
+[24]	GTA5.exe+0x162EEC0 0x7FF6569EEEC0
+[25]	GTA5.exe+0x1494 0x7FF6553C1494
+[26]	GTA5.exe+0x130538F 0x7FF6566C538F
+[27]	GTA5.exe+0x1821344 0x7FF656BE1344
+[28]	KERNEL32.DLL BaseThreadInitThunk
+[29]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x3D4CCCCD00000000
+RCX: 0x1AD194F81D8
+RDX: 0xFFFFFFFF
+RBX: 0x1AD0C180B90
+RSI: 0x1AD0C180B90
+RDI: 0x0
+RSP: 0x3F71CFAAD0
+RBP: 0x1AD189B1310
+R8:  0xFFFFFFFF
+R9:  0x0
+R10: 0x1CE
+R11: 0x1AD19BD6E40
+R12: 0x1AD0C180B00
+R13: 0x3F71CFAF00
+R14: 0x1AD0C180B00
+R15: 0x1
+Dumping stacktrace:
+[0]	GTA5.exe+0x1023D0E 0x7FF6563E3D0E
+[1]	GTA5.exe+0x10238A9 0x7FF6563E38A9
+[2]	GTA5.exe+0x105245D 0x7FF65641245D
+[3]	GTA5.exe+0x114D69B 0x7FF65650D69B
+[4]	GTA5.exe+0x1144867 0x7FF656504867
+[5]	GTA5.exe+0x16CE644 0x7FF656A8E644
+[6]	GTA5.exe+0x1147A19 0x7FF656507A19
+[7]	GTA5.exe+0x16D7332 0x7FF656A97332
+[8]	YimMenu (1).dll+0x11CB7D 0x7FFB7189CB7D
+[9]	GTA5.exe+0x16D7D40 0x7FF656A97D40
+[10]	GTA5.exe+0x16CF0FD 0x7FF656A8F0FD
+[11]	GTA5.exe+0x16D4791 0x7FF656A94791
+[12]	GTA5.exe+0x13FCC39 0x7FF6567BCC39
+[13]	GTA5.exe+0x16D4A39 0x7FF656A94A39
+[14]	GTA5.exe+0x13FD016 0x7FF6567BD016
+[15]	YimMenu (1).dll+0x11A100 0x7FFB7189A100
+[16]	GTA5.exe+0x13FD0C9 0x7FF6567BD0C9
+[17]	GTA5.exe+0x13FCDE2 0x7FF6567BCDE2
+[18]	GTA5.exe+0x1427AB7 0x7FF6567E7AB7
+[19]	GTA5.exe+0x10C6D98 0x7FF656486D98
+[20]	GTA5.exe+0x162FA85 0x7FF6569EFA85
+[21]	GTA5.exe+0x162F2B7 0x7FF6569EF2B7
+[22]	GTA5.exe+0x27B6E 0x7FF6553E7B6E
+[23]	GTA5.exe+0x21283 0x7FF6553E1283
+[24]	GTA5.exe+0x162EEC0 0x7FF6569EEEC0
+[25]	GTA5.exe+0x1494 0x7FF6553C1494
+[26]	GTA5.exe+0x130538F 0x7FF6566C538F
+[27]	GTA5.exe+0x1821344 0x7FF656BE1344
+[28]	KERNEL32.DLL BaseThreadInitThunk
+[29]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[01:05:24.8397006][WARN/reaction.cpp:60] Received Modder Detection from Ta-SSoeur (242495912)
+[01:05:24.8663571][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:24.8663880][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:24.8663932][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:24.8664003][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:24.8664065][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:24.8664152][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:24.8664291][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:24.9008323][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:24.9351428][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:25.0046744][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:25.0047152][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:25.0047205][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:25.0047256][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:25.0047312][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:25.0047368][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:25.0047472][WARN/reaction.cpp:60] Received Crash from Ta-SSoeur (242495912)
+[01:05:25.1565833][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:25.3438199][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:25.4564968][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:25.6433709][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:25.7223269][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:25.9046586][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:25.9417194][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:26.2124439][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:26.3955694][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:26.4699865][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:26.6531672][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:26.7278869][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:26.9115750][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:26.9862017][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:27.1697535][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:27.2799238][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:27.4633177][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:27.5004550][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:27.7205329][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:27.7644652][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:27.9654608][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:28.0049937][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:28.2051393][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:28.2845061][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:28.4826929][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:28.5227161][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:28.7143751][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:28.7896539][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:28.9765521][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:29.0133102][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:29.2369348][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:29.4222492][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:29.4957752][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:29.6806560][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:29.7185200][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:29.9407703][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:30.1574873][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:30.2013453][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:30.4355697][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:30.5177164][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:30.6843126][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:30.7728813][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:30.9878340][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:31.0385112][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:31.2504703][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:31.2937874][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:31.5087113][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:31.5513888][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:31.7634407][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:31.8083145][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:31.9840594][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:32.0705163][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:32.2442535][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:32.3676690][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:32.5359260][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:32.6200188][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:32.8257433][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:32.8669957][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:33.0584095][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:33.1022471][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:33.3129561][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:33.3545556][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:33.5639404][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:33.6102230][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:33.8205860][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:33.8615717][WARN/reaction.cpp:60] Received Clear Wanted Level from Ta-SSoeur (242495912)
+[01:05:33.8921596][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[764.41,-848.22,25.59],"wantedlvl":3
+[01:05:34.2154913][DEBUG/script_function.cpp:35] Found pattern RSD in script PauseMenu_Multiplayer
+[01:05:36.4844722][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: DIG; DATA: "gamer":"SC 200794789","action":"SCRIPT","data":{"a":3,"b":0},"id":8965751499167660497
+[01:05:50.0187700][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[01:05:57.3991525][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13464860,"type":3136273443,"cat":654913086,"pt":3360744497,"slot":0
+[01:24:44.5352274][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":100000,"char":{"slot":0,"cash":100000,"bank":114354850,"evc":114454850,"pvc":0,"pxr":0.00000,"nonce":638422610788552475},"c":[-578.10175,-715.02252,116.80526],"pt":3361779775,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"INCOME","ctx":{}
+[01:24:44.5352932][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":100000,"char":{"slot":0,"cash":100000,"bank":114354850,"evc":114454850,"pvc":0,"pxr":0.00000,"nonce":638422610788552475},"c":[-578.10175,-715.02252,116.80526],"pt":3361779775,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"INCOME","ctx":{}
+[01:26:58.8527226][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":145000,"char":{"slot":0,"cash":245000,"bank":114354850,"evc":114599850,"pvc":0,"pxr":0.00000,"nonce":638422612131260520},"c":[-1615.63623,-3015.69922,-75.20506],"pt":3361886563,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[01:26:58.8527832][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":145000,"char":{"slot":0,"cash":245000,"bank":114354850,"evc":114599850,"pvc":0,"pxr":0.00000,"nonce":638422612131260520},"c":[-1615.63623,-3015.69922,-75.20506],"pt":3361886563,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[01:27:44.8577215][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":255000,"bank":114354850,"evc":114609850,"pvc":0,"pxr":0.00000,"nonce":638422612592931016},"c":[-1609.55884,-3015.57373,-79.00600],"pt":3361936361,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"N
+[01:27:44.8577986][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":255000,"bank":114354850,"evc":114609850,"pvc":0,"pxr":0.00000,"nonce":638422612592931016},"c":[-1609.55884,-3015.57373,-79.00600],"pt":3361936361,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"N
+[01:28:38.0374287][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2467613365,"cat":4079347841,"pt":3361936361,"slot":0
+[01:33:58.8750780][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":45000,"char":{"slot":0,"cash":255000,"bank":114399850,"evc":114654850,"pvc":0,"pxr":0.00000,"nonce":638422616331334151},"c":[-501.62869,-1202.53601,20.07555],"pt":3362279766,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"PHONE_HIT","ctx":{"type":0
+[01:33:58.8751312][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":45000,"char":{"slot":0,"cash":255000,"bank":114399850,"evc":114654850,"pvc":0,"pxr":0.00000,"nonce":638422616331334151},"c":[-501.62869,-1202.53601,20.07555],"pt":3362279766,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"PHONE_HIT","ctx":{"type":0
+[01:37:38.1820055][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":3757759852,"pt":3362279766,"slot":0
+[01:48:53.7407676][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":24000,"char":{"slot":0,"cash":279000,"bank":114399850,"evc":114678850,"pvc":0,"pxr":0.00000,"nonce":638422625280631325},"c":[1075.45776,-2284.00757,-46.59989],"pt":3363096580,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[01:48:53.7408129][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":24000,"char":{"slot":0,"cash":279000,"bank":114399850,"evc":114678850,"pvc":0,"pxr":0.00000,"nonce":638422625280631325},"c":[1075.45776,-2284.00757,-46.59989],"pt":3363096580,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[01:54:49.0831228][INFO/main.cpp:200] Scripts unregistered.
+[01:54:49.0839479][INFO/main.cpp:203] Lua manager uninitialized.
+[01:54:49.1450779][INFO/main.cpp:206] Hooking disabled.
+[01:54:49.1457220][INFO/main.cpp:209] Dynamic native hooker uninitialized.
+[01:54:49.1457558][DEBUG/thread_pool.cpp:109] Thread 14912 exiting...
+[01:54:49.1458018][DEBUG/thread_pool.cpp:109] Thread 14956 exiting...
+[01:54:49.1458088][DEBUG/thread_pool.cpp:109] Thread 8476 exiting...
+[01:54:49.6233826][DEBUG/thread_pool.cpp:109] Thread 12800 exiting...
+[01:54:49.6241376][INFO/main.cpp:214] Destroyed thread pool.
+[01:54:49.6241572][INFO/main.cpp:217] Script Connection Service reset.
+[01:54:49.6457972][INFO/main.cpp:219] Tunables Service reset.
+[01:54:49.6458295][INFO/main.cpp:221] Hotkey Service reset.
+[01:54:49.6458714][INFO/main.cpp:223] Matchmaking Service reset.
+[01:54:49.6459941][INFO/main.cpp:225] Player Database Service reset.
+[01:54:49.6463639][INFO/main.cpp:227] API Service reset.
+[01:54:49.6739848][INFO/main.cpp:229] Script Patcher Service reset.
+[01:54:49.6740303][INFO/main.cpp:231] Gui Service reset.
+[01:54:49.6772845][INFO/main.cpp:233] GTA Data Service reset.
+[01:54:49.6773059][INFO/main.cpp:235] Vehicle Service reset.
+[01:54:49.6835584][INFO/main.cpp:237] Model Preview Service reset.
+[01:54:49.6838868][INFO/main.cpp:239] Mobile Service reset.
+[01:54:49.6838950][INFO/main.cpp:241] Player Service reset.
+[01:54:49.6839016][INFO/main.cpp:243] Pickup Service reset.
+[01:54:49.6842121][INFO/main.cpp:245] Custom Text Service reset.
+[01:54:49.6843545][INFO/main.cpp:247] Context Service reset.
+[01:54:49.6847021][INFO/main.cpp:249] Xml Vehicles Service reset.
+[01:54:49.6847095][INFO/main.cpp:250] Services uninitialized.
+[01:54:49.6850934][INFO/main.cpp:253] Hooking uninitialized.
+[01:54:49.6851016][INFO/main.cpp:256] Fiber pool uninitialized.
+[01:54:49.7525277][INFO/main.cpp:259] Renderer uninitialized.
+[01:54:49.7531824][INFO/main.cpp:262] Byte Patch Manager uninitialized.
+[01:54:49.7532005][INFO/main.cpp:265] Pointers uninitialized.
+[01:54:49.7532063][INFO/main.cpp:268] Thread pool uninitialized.
+[01:54:49.7532076][INFO/main.cpp:270] Farewell!

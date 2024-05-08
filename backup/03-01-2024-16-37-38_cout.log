@@ -1,0 +1,144 @@
+[00:04:03.1152113][INFO/main.cpp:159] Yim's Menu Initializing
+[00:04:03.1156375][INFO/main.cpp:160] Git Info
+	Branch:	master
+	Hash:	d737c01b333f349ff9d4803784fee1051ee93cb9
+	Date:	Tue Feb 20 18:29:02 2024
+[00:04:03.1157798][INFO/main.cpp:172] Windows 10 Home Version 22H2 (OS Build 19045.4046)
+[00:04:03.1198717][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[00:04:03.1203808][INFO/main.cpp:180] Thread pool initialized.
+[00:04:03.1354810][INFO/main.cpp:183] Settings Loaded.
+[00:04:03.1355074][DEBUG/thread_pool.cpp:96] Thread 13200 executing settings.cpp:12
+[00:04:03.1431941][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[00:04:03.1432170][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[00:04:03.1432194][INFO/pointers.cpp:1821] Pointers cache: Loading 215 fields from the cache
+[00:04:03.1432353][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[00:04:03.1485061][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[00:04:03.1485216][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[00:04:03.1485243][INFO/pointers.cpp:1821] Pointers cache: Loading 5 fields from the cache
+[00:04:03.1485648][INFO/main.cpp:186] Pointers initialized.
+[00:04:03.1485707][INFO/main.cpp:193] Disabled anticheat gameskeleton.
+[00:04:03.1488931][INFO/main.cpp:196] Byte Patch Manager initialized.
+[00:04:03.6972242][INFO/main.cpp:199] Renderer initialized.
+[00:04:03.9214931][INFO/main.cpp:203] Fiber pool initialized.
+[00:04:03.9283865][INFO/main.cpp:206] HTTP Client initialized.
+[00:04:04.2534409][INFO/main.cpp:209] Translation Service initialized.
+[00:04:04.2763486][INFO/main.cpp:212] Hooking initialized.
+[00:04:04.3068302][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[00:04:04.3068472][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[00:04:04.3074067][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[00:04:04.3078062][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[00:04:04.3078123][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[00:04:04.3078250][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[00:04:04.3211083][DEBUG/thread_pool.cpp:96] Thread 12628 executing player_database_service.cpp:285
+[00:04:04.3218657][INFO/main.cpp:233] Registered service instances...
+[00:04:04.3221279][INFO/main.cpp:254] Scripts registered.
+[00:04:04.3994452][INFO/main.cpp:257] Hooking enabled.
+[00:04:04.4022747][INFO/main.cpp:260] Dynamic native hooker initialized.
+[00:04:04.4032811][INFO/main.cpp:264] Lua manager initialized.
+[00:04:07.4730600][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[00:04:07.4730961][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[00:04:07.4731419][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[00:04:07.4737492][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[00:04:07.4737693][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[00:04:07.4737928][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[00:04:07.4746590][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[00:04:07.4757614][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[00:04:09.1190040][INFO/backend.cpp:53] Starting script: Self
+[00:04:09.1190289][INFO/backend.cpp:78] Starting script: Weapons
+[00:04:09.1190444][INFO/backend.cpp:101] Starting script: Vehicles
+[00:04:09.1190657][INFO/backend.cpp:117] Starting script: Miscellaneous
+[00:04:09.1191126][INFO/backend.cpp:138] Starting script: Remote
+[00:04:09.1191222][INFO/backend.cpp:153] Starting script: Ls customs
+[00:04:09.1191275][INFO/backend.cpp:165] Starting script: Rainbow paint
+[00:04:09.1191303][INFO/backend.cpp:177] Starting script: Disable Control Action
+[00:04:09.1191334][INFO/backend.cpp:190] Starting script: World
+[00:04:09.1466406][INFO/tunables_service.cpp:36] Loading tunables from cache
+[00:04:59.0739105][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[00:04:59.0739661][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[00:04:59.0752160][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[00:04:59.0752459][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[00:04:59.0823209][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[00:04:59.4220539][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: MM; DATA: "mmList":"4B45524E454C33322E444C4C00|4B45524E454C424153452E646C6C00|5553455233322E646C6C00|47444933322E646C6C00|676469333266756C6C2E646C6C00|6D737663705F77696E2E646C6C00|75637274626173652E646C6C00|50534150492E444C4C00|5753325F33322E646C6C00|5250435254342E
+[00:04:59.4222711][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: MM; DATA: "mmList":"61707068656C702E646C6C00|7762656D70726F782E646C6C00|7762656D636F6D6E2E646C6C00|7762656D7376632E646C6C00|6661737470726F782E646C6C00|4D534354462E646C6C00|74657874696E7075746672616D65776F726B2E646C6C00|57494E5354412E646C6C00|61746963667836342E646C6
+[00:05:02.2917773][WARN/reaction.cpp:60] Received Modder Detection from Tagada_Rouge (206408333)
+[00:05:18.4385618][WARN/reaction.cpp:60] Received Modder Detection from Lars120911 (234123269)
+[00:05:44.5594961][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:05:44.5598301][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14256696,"type":3136273443,"cat":654913086,"pt":3674948436,"slot":0
+[00:06:02.6468609][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:09:41.7856361][WARN/reaction.cpp:60] Received Modder Detection from maxi34paxie (221765989)
+[00:09:50.0762929][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":117875,"bank":127233994,"evc":127351869,"pvc":0,"pxr":0.00000,"nonce":638449349833132318},"c":[-1616.39355,-3014.89209,-75.20506],"pt":3675168497,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[00:09:50.0763396][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":117875,"bank":127233994,"evc":127351869,"pvc":0,"pxr":0.00000,"nonce":638449349833132318},"c":[-1616.39355,-3014.89209,-75.20506],"pt":3675168497,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[00:11:03.0316860][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":10000,"bank":127471869,"evc":127481869,"pvc":0,"pxr":0.00000,"nonce":638449350566281410},"c":[-1632.84668,-2997.73071,-78.14371],"pt":3675243545,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NO
+[00:11:03.0317335][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":10000,"bank":127471869,"evc":127481869,"pvc":0,"pxr":0.00000,"nonce":638449350566281410},"c":[-1632.84668,-2997.73071,-78.14371],"pt":3675243545,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NO
+[00:11:43.1364104][WARN/reaction.cpp:60] Received Modder Detection from ameliaikeda (183930991)
+[00:11:51.7860756][WARN/reaction.cpp:60] Received Modder Detection from Tagada_Rouge (206408333)
+[00:12:02.4883284][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2467613365,"cat":4079347841,"pt":3675243545,"slot":0
+[00:12:43.4101400][WARN/reaction.cpp:60] Received Modder Detection from aaaaaaaaaaaaaaid (247360165)
+[00:13:22.1875334][WARN/reaction.cpp:60] Received Modder Detection from ameliaikeda (183930991)
+[00:14:02.8093607][WARN/reaction.cpp:60] Received Modder Detection from Tagada_Rouge (206408333)
+[00:14:23.6474428][WARN/reaction.cpp:60] Received Modder Detection from bodannaa (203744558)
+[00:15:02.5109288][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: DIG; DATA: "gamer":"SC 247360165","action":"SCRIPT","data":{"a":4,"b":6},"id":4432250175623958441
+[00:16:05.8371387][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 206408333","b":959275690,"c":401263359,"d":[189.19,-345.52,43.33],"e":[43.25,-405.25,53.44],"f":4432250175623958441,"g":6116631901649447295,"h":-726383499,"i":-726383499,"et":681312023,"es":1459623836,"ep":2155363,"ec":false,"n":2580,"op":[231.62
+[00:16:05.8372766][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 203744558","b":959275690,"c":401263359,"d":[39.45,6.02,69.08],"e":[-673.69,-2391.02,-190.00],"f":4432250175623958441,"g":6116631901649447295,"h":650612217,"i":1104331669,"et":681316913,"es":1459623836,"ep":2155363,"ec":false,"n":2608,"op":[79.79
+[00:16:06.3440225][DEBUG/script_function.cpp:35] Found pattern RSD in script PauseMenu_Multiplayer
+[00:16:19.4201918][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:16:19.4202883][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14257696,"type":3136273443,"cat":654913086,"pt":3675552718,"slot":0
+[00:17:56.8089221][WARN/reaction.cpp:60] Received Modder Detection from Anonyman_III (188666973)
+[00:18:36.1762333][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:18:36.1763290][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14257696,"type":3136273443,"cat":654913086,"pt":3675677951,"slot":0
+[00:20:02.8797718][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:20:02.8799528][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14257696,"type":3136273443,"cat":654913086,"pt":3675763787,"slot":0
+[00:22:14.4688465][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:22:14.4689544][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14257696,"type":3136273443,"cat":654913086,"pt":3675884620,"slot":0
+[00:22:16.7026597][WARN/interloper_reaction.cpp:30] Received Spectate Others from sasha200595 (237595600), victim is monsternougat
+[00:23:02.9917662][WARN/interloper_reaction.cpp:30] Received Spectate Others from sasha200595 (237595600), victim is sasha200595
+[00:24:02.3097392][WARN/interloper_reaction.cpp:30] Received Spectate Others from sasha200595 (237595600), victim is Nicotic
+[00:24:04.3275880][WARN/interloper_reaction.cpp:30] Received Spectate Others from sasha200595 (237595600), victim is sasha200595
+[00:25:18.3640289][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-313.05,-845.80,30.97],"wantedlvl":1
+[00:26:04.1839377][WARN/interloper_reaction.cpp:30] Received Spectate Others from sasha200595 (237595600), victim is Goncaszinho_21
+[00:26:42.5888721][WARN/interloper_reaction.cpp:30] Received Spectate Others from sasha200595 (237595600), victim is sasha200595
+[00:27:49.5821622][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[335.52,135.13,102.37],"wantedlvl":0
+[00:27:49.5821957][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":100,"type":2892279813,"cat":3893038019,"pt":3676127844,"slot":0
+[00:28:04.3600394][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14257796,"type":3136273443,"cat":654913086,"pt":3676222704,"slot":0
+[00:28:36.2860627][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14257796,"type":3136273443,"cat":654913086,"pt":3676242923,"slot":0
+[00:32:02.8390386][WARN/reaction.cpp:60] Received Modder Detection from Dogangamercil (226808510)
+[00:32:47.5354490][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:32:47.5356621][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14257796,"type":3136273443,"cat":654913086,"pt":3676363061,"slot":0
+[00:34:58.5715048][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RDEV; DATA: "g":"SC 217726011"
+[00:34:58.5715282][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RQA; DATA: "g":"SC 217726011"
+[00:35:40.1950467][WARN/reaction.cpp:60] Received Modder Detection from Dogangamercil (226808510)
+[00:35:57.1663305][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14257796,"type":3136273443,"cat":654913086,"pt":3676540715,"slot":0
+[00:37:37.6876526][INFO/main.cpp:272] Scripts unregistered.
+[00:37:37.6876796][INFO/main.cpp:275] Lua manager uninitialized.
+[00:37:37.7580510][INFO/main.cpp:278] Hooking disabled.
+[00:37:37.7581651][INFO/main.cpp:281] Dynamic native hooker uninitialized.
+[00:37:37.7581911][DEBUG/thread_pool.cpp:109] Thread 13200 exiting...
+[00:37:37.7582382][DEBUG/thread_pool.cpp:109] Thread 17128 exiting...
+[00:37:37.7582753][DEBUG/thread_pool.cpp:109] Thread 9408 exiting...
+[00:37:38.5328206][DEBUG/thread_pool.cpp:109] Thread 12628 exiting...
+[00:37:38.5333395][INFO/main.cpp:286] Destroyed thread pool.
+[00:37:38.5333529][INFO/main.cpp:289] Script Connection Service reset.
+[00:37:38.5363736][INFO/main.cpp:291] Tunables Service reset.
+[00:37:38.5363999][INFO/main.cpp:293] Hotkey Service reset.
+[00:37:38.5364072][INFO/main.cpp:295] Matchmaking Service reset.
+[00:37:38.5369106][INFO/main.cpp:297] Player Database Service reset.
+[00:37:38.5369207][INFO/main.cpp:299] API Service reset.
+[00:37:38.5482331][INFO/main.cpp:301] Script Patcher Service reset.
+[00:37:38.5482688][INFO/main.cpp:303] Gui Service reset.
+[00:37:38.5497537][INFO/main.cpp:305] GTA Data Service reset.
+[00:37:38.5497614][INFO/main.cpp:307] Vehicle Service reset.
+[00:37:38.5502632][INFO/main.cpp:309] Model Preview Service reset.
+[00:37:38.5502709][INFO/main.cpp:311] Mobile Service reset.
+[00:37:38.5502833][INFO/main.cpp:313] Player Service reset.
+[00:37:38.5502856][INFO/main.cpp:315] Pickup Service reset.
+[00:37:38.5502893][INFO/main.cpp:317] Custom Text Service reset.
+[00:37:38.5503995][INFO/main.cpp:319] Context Service reset.
+[00:37:38.5504058][INFO/main.cpp:321] Xml Vehicles Service reset.
+[00:37:38.5504081][INFO/main.cpp:322] Services uninitialized.
+[00:37:38.5504460][INFO/main.cpp:325] Hooking uninitialized.
+[00:37:38.5504507][INFO/main.cpp:328] Fiber pool uninitialized.
+[00:37:38.5841903][INFO/main.cpp:331] Renderer uninitialized.
+[00:37:38.5846060][INFO/main.cpp:334] Byte Patch Manager uninitialized.
+[00:37:38.5846188][INFO/main.cpp:337] Pointers uninitialized.
+[00:37:38.5846261][INFO/main.cpp:340] Thread pool uninitialized.
+[00:37:38.5846283][INFO/main.cpp:342] Farewell!

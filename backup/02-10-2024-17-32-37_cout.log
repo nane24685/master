@@ -1,0 +1,543 @@
+[00:55:33.9269369][INFO/main.cpp:104] Yim's Menu Initializing
+[00:55:33.9275852][INFO/main.cpp:105] Git Info
+	Branch:	master
+	Hash:	e005640c7515cf4c396fbaecc9fc9b0e3001c4f0
+	Date:	Wed Jan 17 11:08:35 2024
+[00:55:33.9278794][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[00:55:33.9283835][INFO/main.cpp:108] Thread pool initialized.
+[00:55:33.9446776][INFO/main.cpp:111] Settings Loaded.
+[00:55:33.9446859][DEBUG/thread_pool.cpp:96] Thread 13964 executing settings.cpp:12
+[00:55:33.9539140][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[00:55:33.9539463][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[00:55:33.9539512][INFO/pointers.cpp:1813] Pointers cache: Loading 215 fields from the cache
+[00:55:33.9539737][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[00:55:33.9615535][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[00:55:33.9615715][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[00:55:33.9615744][INFO/pointers.cpp:1813] Pointers cache: Loading 5 fields from the cache
+[00:55:33.9616218][INFO/main.cpp:114] Pointers initialized.
+[00:55:33.9616806][INFO/main.cpp:121] Disabled anticheat gameskeleton.
+[00:55:33.9619934][INFO/main.cpp:124] Byte Patch Manager initialized.
+[00:55:33.9659119][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF60D940000 Size: 67215872
+ntdll.dll Base Address: 0x7FFF44830000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFF42E40000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFF42100000 Size: 1255936
+USER32.dll Base Address: 0x7FFF43050000 Size: 584704
+win32u.dll Base Address: 0x7FFF41EF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFF441F0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFF42400000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFF42620000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFF42520000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFF432B0000 Size: 2048
+WS2_32.dll Base Address: 0x7FFF42F00000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFF42940000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFF42710000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFF41FE0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFF43ED0000 Size: 477184
+IMM32.dll Base Address: 0x7FFF43E90000 Size: 125440
+VERSION.dll Base Address: 0x7FFF395E0000 Size: 10752
+bcrypt.dll Base Address: 0x7FFF41FB0000 Size: 102912
+SHLWAPI.dll Base Address: 0x7FFF43250000 Size: 182784
+DSOUND.dll Base Address: 0x7FFF24740000 Size: 380928
+advapi32.dll Base Address: 0x7FFF445A0000 Size: 438784
+SHELL32.dll Base Address: 0x7FFF432D0000 Size: 5806592
+sechost.dll Base Address: 0x7FFF44150000 Size: 421888
+ole32.dll Base Address: 0x7FFF44020000 Size: 833024
+combase.dll Base Address: 0x7FFF44240000 Size: 2328064
+OLEAUT32.dll Base Address: 0x7FFF42870000 Size: 608768
+WININET.dll Base Address: 0x7FFF18090000 Size: 2019840
+WINMM.dll Base Address: 0x7FFF395B0000 Size: 81408
+MF.dll Base Address: 0x7FFF09D70000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFF09BB0000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFF426C0000 Size: 219136
+msdmo.dll Base Address: 0x7FFF29960000 Size: 13312
+shcore.dll Base Address: 0x7FFF42CB0000 Size: 476672
+MFReadWrite.dll Base Address: 0x7FFEF5E70000 Size: 918016
+PROPSYS.dll Base Address: 0x7FFF3D810000 Size: 631296
+WTSAPI32.dll Base Address: 0x7FFF3DB80000 Size: 37888
+d3d9.dll Base Address: 0x7FFF151A0000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFEECD80000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFF111D0000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFF43A20000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFF412C0000 Size: 166400
+powrprof.dll Base Address: 0x7FFF415D0000 Size: 70656
+winmmbase.dll Base Address: 0x7FFF07EF0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFF3FD80000 Size: 16384
+dwmapi.dll Base Address: 0x7FFF3FA90000 Size: 98816
+windows.storage.dll Base Address: 0x7FFF3FF80000 Size: 5845504
+Wldp.dll Base Address: 0x7FFF41840000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFF26D20000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFEEDCA0000 Size: 909312
+GLU32.dll Base Address: 0x7FFEED830000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFECDFC0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFEE8020000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFEFDB30000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFEF5F80000 Size: 3960320
+ksuser.dll Base Address: 0x7FFF106D0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFF417B0000 Size: 10752
+UMPDC.dll Base Address: 0x7FFF41520000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFF41F20000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFF0A430000 Size: 105472
+MSASN1.dll Base Address: 0x7FFF41C40000 Size: 34816
+inputhost.dll Base Address: 0x7FFF35DE0000 Size: 976384
+wintypes.dll Base Address: 0x7FFF3DCF0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFF3ECD0000 Size: 1795072
+CoreMessaging.dll Base Address: 0x7FFF3F3B0000 Size: 607744
+ntmarta.dll Base Address: 0x7FFF40FC0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFF3C520000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFF2F250000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFF41B90000 Size: 46080
+uxtheme.dll Base Address: 0x7FFF3F830000 Size: 382976
+rsaenh.dll Base Address: 0x7FFF40EA0000 Size: 142336
+clbcatq.dll Base Address: 0x7FFF43F70000 Size: 437760
+amsi.dll Base Address: 0x7FFF26190000 Size: 62464
+USERENV.dll Base Address: 0x7FFF41DA0000 Size: 108032
+profapi.dll Base Address: 0x7FFF41E20000 Size: 88064
+MpOav.dll Base Address: 0x7FFF26110000 Size: 204800
+dxcore.dll Base Address: 0x7FFF397B0000 Size: 150016
+apphelp.dll Base Address: 0x7FFF3F6D0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFF3DE50000 Size: 1853440
+dxgi.dll Base Address: 0x7FFF40880000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFF41C80000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFEF5D90000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFF286E0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFF446C0000 Size: 864256
+textinputframework.dll Base Address: 0x7FFF35F70000 Size: 722944
+WINSTA.dll Base Address: 0x7FFF41130000 Size: 190976
+aticfx64.dll Base Address: 0x7FFF395F0000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFF39570000 Size: 190464
+atidxx64.dll Base Address: 0x7FFF375D0000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFF36560000 Size: 117248
+HID.DLL Base Address: 0x7FFF40720000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFF3B660000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFEEB800000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFF108F0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFF3F990000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFF36070000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFF3B430000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFF3B120000 Size: 1456640
+avrt.dll Base Address: 0x7FFF3CAB0000 Size: 5632
+napinsp.dll Base Address: 0x7FFF35C20000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFF32700000 Size: 66048
+wshbth.dll Base Address: 0x7FFF24E80000 Size: 43008
+NLAapi.dll Base Address: 0x7FFF3D990000 Size: 68608
+mswsock.dll Base Address: 0x7FFF41620000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFF41300000 Size: 595456
+NSI.dll Base Address: 0x7FFF432C0000 Size: 7680
+winrnr.dll Base Address: 0x7FFF23EF0000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFF37090000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFF37000000 Size: 7168
+imagehlp.dll Base Address: 0x7FFF44220000 Size: 45056
+gpapi.dll Base Address: 0x7FFF40730000 Size: 69120
+cryptnet.dll Base Address: 0x7FFF248C0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFF3C4A0000 Size: 11776
+SspiCli.dll Base Address: 0x7FFF41DD0000 Size: 123904
+socialclub.dll Base Address: 0x7FFEFE400000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFEFE300000 Size: 676864
+libcef.dll Base Address: 0x7FFE9E690000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFF42F70000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFF12430000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFF13620000 Size: 260608
+Secur32.dll Base Address: 0x7FFF28690000 Size: 11264
+COMCTL32.dll Base Address: 0x7FFF25030000 Size: 560128
+DWrite.dll Base Address: 0x7FFF33E30000 Size: 1601024
+NETAPI32.dll Base Address: 0x7FFF30690000 Size: 47616
+WINSPOOL.DRV Base Address: 0x7FFF18F30000 Size: 389632
+USP10.dll Base Address: 0x7FFEED790000 Size: 512
+credui.dll Base Address: 0x7FFF0A8A0000 Size: 55808
+dxva2.dll Base Address: 0x7FFF09E40000 Size: 96256
+urlmon.dll Base Address: 0x7FFF340B0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFF3AB00000 Size: 845312
+ncrypt.dll Base Address: 0x7FFF418B0000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFF1E450000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFF3B640000 Size: 61440
+wevtapi.dll Base Address: 0x7FFF3D040000 Size: 296960
+ESENT.dll Base Address: 0x7FFF295E0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFF34610000 Size: 551424
+srvcli.dll Base Address: 0x7FFF35BD0000 Size: 54272
+netutils.dll Base Address: 0x7FFF41420000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFF41000000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFF2DAB0000 Size: 61440
+NTASN1.dll Base Address: 0x7FFF41870000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFF40AC0000 Size: 329728
+fwbase.dll Base Address: 0x7FFF40A50000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFF32520000 Size: 205824
+wdmaud.drv Base Address: 0x7FFF06D90000 Size: 193024
+msacm32.drv Base Address: 0x7FFF09ED0000 Size: 17920
+MSACM32.dll Base Address: 0x7FFF0A0F0000 Size: 74240
+midimap.dll Base Address: 0x7FFF06D80000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFF1AEF0000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFF3C480000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFEFFAC0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFF3D0D0000 Size: 340480
+VCRUNTIME140_1.dll Base Address: 0x7FFF3D0C0000 Size: 15360
+VCRUNTIME140.dll Base Address: 0x7FFF3D200000 Size: 73728
+D3DCOMPILER_47.dll Base Address: 0x7FFF3E0C0000 Size: 3396608
+Dumping registers:
+RAX: 0x49
+RCX: 0x21346DE7408
+RDX: 0x1B
+RBX: 0x212168E8B10
+RSI: 0x2133F3BBFFF
+RDI: 0x2133F7B55BE
+RSP: 0x55ADF7F1A0
+RBP: 0x55ADF7F239
+R8:  0x7FF6108359A0
+R9:  0x21338330000
+R10: 0x2
+R11: 0x212168C0000
+R12: 0x8
+R13: 0x2133836ECE0
+R14: 0x212168E8AF0
+R15: 0x21216F45938
+Dumping stacktrace:
+[0]	GTA5.exe+0x161FACF 0x7FF60EF5FACF
+[1]	GTA5.exe+0x16204CF 0x7FF60EF604CF
+[2]	GTA5.exe+0xA59780 0x7FF60E399780
+[3]	GTA5.exe+0x1620BB1 0x7FF60EF60BB1
+[4]	GTA5.exe+0xA4DFC4 0x7FF60E38DFC4
+[5]	GTA5.exe+0xA51880 0x7FF60E391880
+[6]	GTA5.exe+0x162FA85 0x7FF60EF6FA85
+[7]	GTA5.exe+0x162FA85 0x7FF60EF6FA85
+[8]	GTA5.exe+0x162F2B7 0x7FF60EF6F2B7
+[9]	GTA5.exe+0x27B94 0x7FF60D967B94
+[10]	GTA5.exe+0x21283 0x7FF60D961283
+[11]	GTA5.exe+0x162EEC0 0x7FF60EF6EEC0
+[12]	GTA5.exe+0x1494 0x7FF60D941494
+[13]	GTA5.exe+0x130538F 0x7FF60EC4538F
+[14]	GTA5.exe+0x1821344 0x7FF60F161344
+[15]	KERNEL32.DLL BaseThreadInitThunk
+[16]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[00:55:34.6409512][INFO/main.cpp:127] Renderer initialized.
+[00:55:34.9450116][INFO/main.cpp:131] Fiber pool initialized.
+[00:55:34.9550804][INFO/main.cpp:134] HTTP Client initialized.
+[00:55:35.1277246][INFO/main.cpp:137] Translation Service initialized.
+[00:55:35.1561276][INFO/main.cpp:140] Hooking initialized.
+[00:55:35.1924412][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[00:55:35.1924583][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[00:55:35.1928830][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[00:55:35.1932554][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[00:55:35.1932665][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[00:55:35.1932871][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[00:55:35.2056797][DEBUG/thread_pool.cpp:96] Thread 4172 executing player_database_service.cpp:285
+[00:55:35.2062162][INFO/main.cpp:161] Registered service instances...
+[00:55:35.2064021][INFO/main.cpp:182] Scripts registered.
+[00:55:35.2738080][INFO/main.cpp:185] Hooking enabled.
+[00:55:35.2769335][INFO/main.cpp:188] Dynamic native hooker initialized.
+[00:55:35.2780713][INFO/main.cpp:192] Lua manager initialized.
+[00:55:35.4082599][INFO/backend.cpp:53] Starting script: Self
+[00:55:35.4084606][INFO/backend.cpp:78] Starting script: Weapons
+[00:55:35.4087516][INFO/backend.cpp:101] Starting script: Vehicles
+[00:55:35.4087666][INFO/backend.cpp:117] Starting script: Miscellaneous
+[00:55:35.4088268][INFO/backend.cpp:138] Starting script: Remote
+[00:55:35.4088611][INFO/backend.cpp:153] Starting script: Ls customs
+[00:55:35.4088681][INFO/backend.cpp:165] Starting script: Rainbow paint
+[00:55:35.4088721][INFO/backend.cpp:177] Starting script: Disable Control Action
+[00:55:35.4088767][INFO/backend.cpp:190] Starting script: World
+[00:55:35.4460089][INFO/tunables_service.cpp:36] Loading tunables from cache
+[00:55:55.7958304][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[00:55:56.7685882][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[00:55:56.7686264][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[00:55:56.7850409][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[00:55:56.7852589][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[00:55:56.7852699][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[00:55:56.8356886][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[00:55:56.8357272][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[00:55:56.8357764][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[00:56:12.3466096][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: MM; DATA: "mmList":"59696D4D656E75202831292E646C6C00|4D535643503134302E646C6C00|564352554E54494D453134305F312E646C6C00|564352554E54494D453134302E646C6C00|443344434F4D50494C45525F34372E646C6C00|"
+[00:56:12.3466499][INFO/prepare_metric_for_sending.cpp:102] Removed YimMenu DLL from MM metric
+[00:58:09.8855888][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[00:58:09.8856470][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[00:58:09.8874253][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[00:58:09.8874530][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[00:58:17.4043208][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":2000,"bank":117376508,"evc":117378508,"pvc":0,"pxr":0.00000,"nonce":638432098919544178},"c":[-214.55453,-68.15279,49.79757],"pt":3436267522,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[00:58:17.4043883][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":2000,"bank":117376508,"evc":117378508,"pvc":0,"pxr":0.00000,"nonce":638432098919544178},"c":[-214.55453,-68.15279,49.79757],"pt":3436267522,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[01:08:39.2877868][WARN/reaction.cpp:60] Received Modder Detection from OnlyEvams (98998971)
+[01:09:52.4427155][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13879366,"type":3136273443,"cat":654913086,"pt":3436939523,"slot":0
+[01:10:16.7650194][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13879366,"type":3136273443,"cat":654913086,"pt":3436952437,"slot":0
+[01:11:50.0280896][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13879366,"type":3136273443,"cat":654913086,"pt":3437023659,"slot":0
+[01:12:40.7249471][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13879366,"type":3136273443,"cat":654913086,"pt":3437062203,"slot":0
+[01:13:09.3496894][WARN/reaction.cpp:60] Received Modder Detection from Mega_Floppa (115540596)
+[01:13:39.1889183][WARN/reaction.cpp:60] Received Modder Detection from sp3ctrom (217195557)
+[01:16:22.5546559][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13879366,"type":3136273443,"cat":654913086,"pt":3437271948,"slot":0
+[01:16:31.6090649][WARN/reaction.cpp:60] Received Modder Detection from IllIIlllIllIIIlx (240152007)
+[01:17:25.0287073][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-280.88,-1113.00,22.60],"wantedlvl":1
+[01:17:25.0289537][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-295.00,-1331.63,31.30],"wantedlvl":0
+[01:17:25.0289812][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13879366,"type":3136273443,"cat":654913086,"pt":3437322181,"slot":0
+[01:17:48.1718162][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13879366,"type":3136273443,"cat":654913086,"pt":3437333313,"slot":0
+[01:20:42.0894893][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-122.98,-1139.24,25.76],"wantedlvl":1
+[01:20:42.0897508][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-68.42,-1041.78,27.71],"wantedlvl":2
+[01:20:42.0899060][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-686.40,-834.23,23.63],"wantedlvl":0
+[01:20:42.0899409][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3437453625,"slot":0
+[01:20:57.0429654][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13879566,"type":3136273443,"cat":654913086,"pt":3437490178,"slot":0
+[01:22:00.2064145][WARN/reaction.cpp:60] Received Modder Detection from milkymember21462 (231201789)
+[01:22:03.3070635][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:03.4547441][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:03.6004543][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:03.7886445][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:03.9351801][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:04.0773828][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:04.2220646][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:04.3645240][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:04.5051168][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:04.6459253][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:04.7827461][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:04.9584458][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:05.0921228][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:05.2777177][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:05.3720658][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:05.5140376][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:05.7179359][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:05.8822753][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:05.9898044][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:06.1370051][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:06.2464028][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:06.3913091][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:06.5813956][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:06.6865088][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:06.8836518][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:07.0736241][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:07.2640463][WARN/notify.hpp:67] Blocked invalid object model crash from milkymember21462 (231201789)
+[01:22:09.6278243][DEBUG/script_function.cpp:35] Found pattern RSD in script PauseMenu_Multiplayer
+[01:22:46.5004857][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[01:22:46.5007496][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13879566,"type":3136273443,"cat":654913086,"pt":3437589942,"slot":0
+[01:27:13.0372080][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-281.76,-1274.78,30.02],"wantedlvl":1
+[01:27:13.0372829][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-276.33,-1391.72,30.88],"wantedlvl":2
+[01:27:13.0373789][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-272.33,-1422.78,30.87],"wantedlvl":0
+[01:32:33.7033011][WARN/reaction.cpp:60] Received Modder Detection from qDependency (88201667)
+[01:32:37.2188930][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF60D940000 Size: 67215872
+ntdll.dll Base Address: 0x7FFF44830000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFF42E40000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFF42100000 Size: 1255936
+USER32.dll Base Address: 0x7FFF43050000 Size: 584704
+win32u.dll Base Address: 0x7FFF41EF0000 Size: 42496
+GDI32.dll Base Address: 0x7FFF441F0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFF42400000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFF42620000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFF42520000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFF432B0000 Size: 2048
+WS2_32.dll Base Address: 0x7FFF42F00000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFF42940000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFF42710000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFF41FE0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFF43ED0000 Size: 477184
+IMM32.dll Base Address: 0x7FFF43E90000 Size: 125440
+VERSION.dll Base Address: 0x7FFF395E0000 Size: 10752
+bcrypt.dll Base Address: 0x7FFF41FB0000 Size: 102912
+SHLWAPI.dll Base Address: 0x7FFF43250000 Size: 182784
+DSOUND.dll Base Address: 0x7FFF24740000 Size: 380928
+advapi32.dll Base Address: 0x7FFF445A0000 Size: 438784
+SHELL32.dll Base Address: 0x7FFF432D0000 Size: 5806592
+sechost.dll Base Address: 0x7FFF44150000 Size: 421888
+ole32.dll Base Address: 0x7FFF44020000 Size: 833024
+combase.dll Base Address: 0x7FFF44240000 Size: 2328064
+OLEAUT32.dll Base Address: 0x7FFF42870000 Size: 608768
+WININET.dll Base Address: 0x7FFF18090000 Size: 2019840
+WINMM.dll Base Address: 0x7FFF395B0000 Size: 81408
+MF.dll Base Address: 0x7FFF09D70000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFF09BB0000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFF426C0000 Size: 219136
+msdmo.dll Base Address: 0x7FFF29960000 Size: 13312
+shcore.dll Base Address: 0x7FFF42CB0000 Size: 476672
+MFReadWrite.dll Base Address: 0x7FFEF5E70000 Size: 918016
+PROPSYS.dll Base Address: 0x7FFF3D810000 Size: 631296
+WTSAPI32.dll Base Address: 0x7FFF3DB80000 Size: 37888
+d3d9.dll Base Address: 0x7FFF151A0000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFEECD80000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFF111D0000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFF43A20000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFF412C0000 Size: 166400
+powrprof.dll Base Address: 0x7FFF415D0000 Size: 70656
+winmmbase.dll Base Address: 0x7FFF07EF0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFF3FD80000 Size: 16384
+dwmapi.dll Base Address: 0x7FFF3FA90000 Size: 98816
+windows.storage.dll Base Address: 0x7FFF3FF80000 Size: 5845504
+Wldp.dll Base Address: 0x7FFF41840000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFF26D20000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFEEDCA0000 Size: 909312
+GLU32.dll Base Address: 0x7FFEED830000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFECDFC0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFEE8020000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFEFDB30000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFEF5F80000 Size: 3960320
+ksuser.dll Base Address: 0x7FFF106D0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFF417B0000 Size: 10752
+UMPDC.dll Base Address: 0x7FFF41520000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFF41F20000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFF0A430000 Size: 105472
+MSASN1.dll Base Address: 0x7FFF41C40000 Size: 34816
+inputhost.dll Base Address: 0x7FFF35DE0000 Size: 976384
+wintypes.dll Base Address: 0x7FFF3DCF0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFF3ECD0000 Size: 1795072
+CoreMessaging.dll Base Address: 0x7FFF3F3B0000 Size: 607744
+ntmarta.dll Base Address: 0x7FFF40FC0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFF3C520000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFF2F250000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFF41B90000 Size: 46080
+uxtheme.dll Base Address: 0x7FFF3F830000 Size: 382976
+rsaenh.dll Base Address: 0x7FFF40EA0000 Size: 142336
+clbcatq.dll Base Address: 0x7FFF43F70000 Size: 437760
+amsi.dll Base Address: 0x7FFF26190000 Size: 62464
+USERENV.dll Base Address: 0x7FFF41DA0000 Size: 108032
+profapi.dll Base Address: 0x7FFF41E20000 Size: 88064
+MpOav.dll Base Address: 0x7FFF26110000 Size: 204800
+dxcore.dll Base Address: 0x7FFF397B0000 Size: 150016
+apphelp.dll Base Address: 0x7FFF3F6D0000 Size: 319488
+D3D11.DLL Base Address: 0x7FFF3DE50000 Size: 1853440
+dxgi.dll Base Address: 0x7FFF40880000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFF41C80000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFEF5D90000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFF286E0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFF446C0000 Size: 864256
+textinputframework.dll Base Address: 0x7FFF35F70000 Size: 722944
+WINSTA.dll Base Address: 0x7FFF41130000 Size: 190976
+aticfx64.dll Base Address: 0x7FFF395F0000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFF39570000 Size: 190464
+atidxx64.dll Base Address: 0x7FFF375D0000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFF36560000 Size: 117248
+HID.DLL Base Address: 0x7FFF40720000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFF3B660000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFEEB800000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFF108F0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFF3F990000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFF36070000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFF3B430000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFF3B120000 Size: 1456640
+avrt.dll Base Address: 0x7FFF3CAB0000 Size: 5632
+napinsp.dll Base Address: 0x7FFF35C20000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFF32700000 Size: 66048
+wshbth.dll Base Address: 0x7FFF24E80000 Size: 43008
+NLAapi.dll Base Address: 0x7FFF3D990000 Size: 68608
+mswsock.dll Base Address: 0x7FFF41620000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFF41300000 Size: 595456
+NSI.dll Base Address: 0x7FFF432C0000 Size: 7680
+winrnr.dll Base Address: 0x7FFF23EF0000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFF37090000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFF37000000 Size: 7168
+imagehlp.dll Base Address: 0x7FFF44220000 Size: 45056
+gpapi.dll Base Address: 0x7FFF40730000 Size: 69120
+cryptnet.dll Base Address: 0x7FFF248C0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFF3C4A0000 Size: 11776
+SspiCli.dll Base Address: 0x7FFF41DD0000 Size: 123904
+socialclub.dll Base Address: 0x7FFEFE400000 Size: 2591232
+chrome_elf.dll Base Address: 0x7FFEFE300000 Size: 676864
+libcef.dll Base Address: 0x7FFE9E690000 Size: 109744128
+COMDLG32.dll Base Address: 0x7FFF42F70000 Size: 684032
+UIAutomationCore.DLL Base Address: 0x7FFF12430000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFF13620000 Size: 260608
+Secur32.dll Base Address: 0x7FFF28690000 Size: 11264
+COMCTL32.dll Base Address: 0x7FFF25030000 Size: 560128
+DWrite.dll Base Address: 0x7FFF33E30000 Size: 1601024
+NETAPI32.dll Base Address: 0x7FFF30690000 Size: 47616
+WINSPOOL.DRV Base Address: 0x7FFF18F30000 Size: 389632
+USP10.dll Base Address: 0x7FFEED790000 Size: 512
+credui.dll Base Address: 0x7FFF0A8A0000 Size: 55808
+dxva2.dll Base Address: 0x7FFF09E40000 Size: 96256
+urlmon.dll Base Address: 0x7FFF340B0000 Size: 1281536
+WINHTTP.dll Base Address: 0x7FFF3AB00000 Size: 845312
+ncrypt.dll Base Address: 0x7FFF418B0000 Size: 102400
+CRYPTUI.dll Base Address: 0x7FFF1E450000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFF3B640000 Size: 61440
+wevtapi.dll Base Address: 0x7FFF3D040000 Size: 296960
+ESENT.dll Base Address: 0x7FFF295E0000 Size: 2585088
+iertutil.dll Base Address: 0x7FFF34610000 Size: 551424
+srvcli.dll Base Address: 0x7FFF35BD0000 Size: 54272
+netutils.dll Base Address: 0x7FFF41420000 Size: 19456
+WKSCLI.DLL Base Address: 0x7FFF41000000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFF2DAB0000 Size: 61440
+NTASN1.dll Base Address: 0x7FFF41870000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFF40AC0000 Size: 329728
+fwbase.dll Base Address: 0x7FFF40A50000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFF32520000 Size: 205824
+wdmaud.drv Base Address: 0x7FFF06D90000 Size: 193024
+msacm32.drv Base Address: 0x7FFF09ED0000 Size: 17920
+MSACM32.dll Base Address: 0x7FFF0A0F0000 Size: 74240
+midimap.dll Base Address: 0x7FFF06D80000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFF1AEF0000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFF3C480000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFEFFAC0000 Size: 9221120
+MSVCP140.dll Base Address: 0x7FFF3D0D0000 Size: 340480
+VCRUNTIME140_1.dll Base Address: 0x7FFF3D0C0000 Size: 15360
+VCRUNTIME140.dll Base Address: 0x7FFF3D200000 Size: 73728
+D3DCOMPILER_47.dll Base Address: 0x7FFF3E0C0000 Size: 3396608
+Dumping registers:
+RAX: 0x49
+RCX: 0x21346DE7408
+RDX: 0x1B
+RBX: 0x212168E8B10
+RSI: 0x2133F3BBFFF
+RDI: 0x2133F7B55BE
+RSP: 0x55ADF7F1A0
+RBP: 0x55ADF7F239
+R8:  0x7FF6108359A0
+R9:  0x21338330000
+R10: 0x2
+R11: 0x212168C0000
+R12: 0x8
+R13: 0x2133836ECE0
+R14: 0x212168E8AF0
+R15: 0x21216F45938
+Dumping stacktrace:
+[0]	GTA5.exe+0x161FACF 0x7FF60EF5FACF
+[1]	GTA5.exe+0x16204CF 0x7FF60EF604CF
+[2]	GTA5.exe+0xA59780 0x7FF60E399780
+[3]	GTA5.exe+0x1620BB1 0x7FF60EF60BB1
+[4]	GTA5.exe+0xA4DFC4 0x7FF60E38DFC4
+[5]	GTA5.exe+0xA51880 0x7FF60E391880
+[6]	GTA5.exe+0x162FA85 0x7FF60EF6FA85
+[7]	GTA5.exe+0x162FA85 0x7FF60EF6FA85
+[8]	GTA5.exe+0x162F2B7 0x7FF60EF6F2B7
+[9]	GTA5.exe+0x27B94 0x7FF60D967B94
+[10]	GTA5.exe+0x21283 0x7FF60D961283
+[11]	GTA5.exe+0x162EEC0 0x7FF60EF6EEC0
+[12]	GTA5.exe+0x1494 0x7FF60D941494
+[13]	GTA5.exe+0x130538F 0x7FF60EC4538F
+[14]	GTA5.exe+0x1821344 0x7FF60F161344
+[15]	KERNEL32.DLL BaseThreadInitThunk
+[16]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+EXCEPTION_ACCESS_VIOLATION
+Dumping registers:
+RAX: 0x2121E68BAC0
+RCX: 0x1FFFFFFFE
+RDX: 0x0
+RBX: 0x0
+RSI: 0x0
+RDI: 0x7FF6103D0BD0
+RSP: 0x55AF1FECA8
+RBP: 0x1
+R8:  0x1
+R9:  0x1
+R10: 0x55AF1FECE0
+R11: 0x0
+R12: 0x2121F798210
+R13: 0x7FF60FE79A60
+R14: 0x7FF6103D0BE8
+R15: 0x212200ADB50
+Dumping stacktrace:
+[0]	GTA5.exe+0x11FE7E8 0x7FF60EB3E7E8
+[1]	GTA5.exe+0x12115CC 0x7FF60EB515CC
+[2]	GTA5.exe+0x1211547 0x7FF60EB51547
+[3]	GTA5.exe+0x1203244 0x7FF60EB43244
+[4]	GTA5.exe+0x167FF33 0x7FF60EFBFF33
+[5]	GTA5.exe+0x167FF62 0x7FF60EFBFF62
+[6]	GTA5.exe+0x167B7FD 0x7FF60EFBB7FD
+[7]	GTA5.exe+0x167B71A 0x7FF60EFBB71A
+[8]	GTA5.exe+0x1655EE5 0x7FF60EF95EE5
+[9]	GTA5.exe+0x1656856 0x7FF60EF96856
+[10]	GTA5.exe+0x165F832 0x7FF60EF9F832
+[11]	GTA5.exe+0x130E95A 0x7FF60EC4E95A
+[12]	KERNEL32.DLL BaseThreadInitThunk
+[13]	ntdll.dll RtlUserThreadStart
+[14]	GTA5.exe+0x1821344 0x7FF60F161344
+[15]	KERNEL32.DLL BaseThreadInitThunk
+[16]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+

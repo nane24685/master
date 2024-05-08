@@ -1,0 +1,909 @@
+[21:32:55.0858381][INFO/main.cpp:159] Yim's Menu Initializing
+[21:32:55.0865521][INFO/main.cpp:160] Git Info
+	Branch:	master
+	Hash:	d737c01b333f349ff9d4803784fee1051ee93cb9
+	Date:	Tue Feb 20 18:29:02 2024
+[21:32:55.0867506][INFO/main.cpp:172] Windows 10 Home Version 22H2 (OS Build 19045.4123)
+[21:32:55.0911260][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[21:32:55.0913741][INFO/main.cpp:180] Thread pool initialized.
+[21:32:55.1064042][INFO/main.cpp:183] Settings Loaded.
+[21:32:55.1064093][DEBUG/thread_pool.cpp:96] Thread 12952 executing settings.cpp:12
+[21:32:55.1166855][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[21:32:55.1167171][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[21:32:55.1167213][INFO/pointers.cpp:1821] Pointers cache: Loading 215 fields from the cache
+[21:32:55.1167456][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[21:32:55.1181578][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[21:32:55.1181724][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[21:32:55.1181765][INFO/pointers.cpp:1821] Pointers cache: Loading 5 fields from the cache
+[21:32:55.1182199][INFO/main.cpp:186] Pointers initialized.
+[21:32:55.1182280][INFO/main.cpp:193] Disabled anticheat gameskeleton.
+[21:32:55.1185920][INFO/main.cpp:196] Byte Patch Manager initialized.
+[21:32:55.1216741][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF76E3D0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFE959B0000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFE943E0000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFE936E0000 Size: 1255936
+USER32.dll Base Address: 0x7FFE94120000 Size: 584704
+win32u.dll Base Address: 0x7FFE932D0000 Size: 42496
+GDI32.dll Base Address: 0x7FFE957C0000 Size: 57856
+gdi32full.dll Base Address: 0x7FFE93060000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFE93230000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFE933A0000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFE95960000 Size: 2048
+WS2_32.dll Base Address: 0x7FFE95750000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFE950B0000 Size: 922624
+CRYPT32.dll Base Address: 0x7FFE93580000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFE93330000 Size: 293888
+msvcrt.dll Base Address: 0x7FFE95010000 Size: 477184
+IMM32.dll Base Address: 0x7FFE95920000 Size: 125440
+bcrypt.dll Base Address: 0x7FFE93300000 Size: 102912
+VERSION.dll Base Address: 0x7FFE8A730000 Size: 10752
+DSOUND.dll Base Address: 0x7FFE78580000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFE93EB0000 Size: 182784
+advapi32.dll Base Address: 0x7FFE95490000 Size: 433664
+SHELL32.dll Base Address: 0x7FFE94540000 Size: 5920256
+sechost.dll Base Address: 0x7FFE951E0000 Size: 421888
+ole32.dll Base Address: 0x7FFE957F0000 Size: 833024
+combase.dll Base Address: 0x7FFE94CB0000 Size: 2324480
+OLEAUT32.dll Base Address: 0x7FFE94050000 Size: 608768
+WININET.dll Base Address: 0x7FFE692B0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFE8A700000 Size: 81408
+MF.dll Base Address: 0x7FFE4CDD0000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFE4BB90000 Size: 1409024
+msdmo.dll Base Address: 0x7FFE88130000 Size: 13312
+cfgmgr32.dll Base Address: 0x7FFE93530000 Size: 219136
+shcore.dll Base Address: 0x7FFE93F10000 Size: 476672
+MFReadWrite.dll Base Address: 0x7FFE5C5F0000 Size: 918016
+PROPSYS.dll Base Address: 0x7FFE8E960000 Size: 631296
+WTSAPI32.dll Base Address: 0x7FFE8ECF0000 Size: 37888
+d3d9.dll Base Address: 0x7FFE66360000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFE59090000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFE75970000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFE939E0000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFE92430000 Size: 166400
+powrprof.dll Base Address: 0x7FFE926B0000 Size: 70656
+winmmbase.dll Base Address: 0x7FFE48D00000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFE90EF0000 Size: 16384
+dwmapi.dll Base Address: 0x7FFE90D10000 Size: 98816
+windows.storage.dll Base Address: 0x7FFE910F0000 Size: 5853184
+Wldp.dll Base Address: 0x7FFE929B0000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFE79FB0000 Size: 48128
+bink2w64.dll Base Address: 0x7FFE746F0000 Size: 307712
+OPENGL32.dll Base Address: 0x7FFE26490000 Size: 909312
+GLU32.dll Base Address: 0x7FFE886B0000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFE58CC0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFE58A50000 Size: 2280960
+MFCORE.DLL Base Address: 0x7FFE25230000 Size: 3960320
+ksuser.dll Base Address: 0x7FFE44FD0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFE92920000 Size: 10752
+UMPDC.dll Base Address: 0x7FFE92690000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFE934A0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFE4CC10000 Size: 105472
+MSASN1.dll Base Address: 0x7FFE92D90000 Size: 34816
+inputhost.dll Base Address: 0x7FFE86F30000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFE90520000 Size: 607744
+wintypes.dll Base Address: 0x7FFE8FAF0000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFE901C0000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFE92130000 Size: 140288
+dbghelp.dll Base Address: 0x7FFE8D810000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFE807B0000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFE92D00000 Size: 46080
+rsaenh.dll Base Address: 0x7FFE92010000 Size: 142336
+uxtheme.dll Base Address: 0x7FFE909A0000 Size: 382976
+clbcatq.dll Base Address: 0x7FFE95620000 Size: 437760
+amsi.dll Base Address: 0x7FFE76DD0000 Size: 62464
+USERENV.dll Base Address: 0x7FFE92F50000 Size: 108032
+profapi.dll Base Address: 0x7FFE92F90000 Size: 88064
+mbamsi64.dll Base Address: 0x7FFE76A70000 Size: 2192384
+MPR.dll Base Address: 0x7FFE82610000 Size: 71168
+NETAPI32.dll Base Address: 0x7FFE81EE0000 Size: 47616
+AUTHZ.dll Base Address: 0x7FFE91D40000 Size: 176640
+sfc.dll Base Address: 0x15502430000 Size: 0
+NETUTILS.DLL Base Address: 0x7FFE92590000 Size: 19456
+sfc_os.DLL Base Address: 0x7FFE7E070000 Size: 28672
+gpapi.dll Base Address: 0x7FFE918A0000 Size: 69120
+imagehlp.dll Base Address: 0x7FFE944A0000 Size: 45056
+MpOav.dll Base Address: 0x7FFE769E0000 Size: 212992
+dxcore.dll Base Address: 0x7FFE8A900000 Size: 150016
+apphelp.dll Base Address: 0x7FFE90840000 Size: 319488
+wbemprox.dll Base Address: 0x7FFE7E9E0000 Size: 27648
+wbemcomn.dll Base Address: 0x7FFE818F0000 Size: 328704
+wbemsvc.dll Base Address: 0x7FFE7E050000 Size: 7168
+fastprox.dll Base Address: 0x7FFE7D350000 Size: 708608
+D3D11.DLL Base Address: 0x7FFE8EE60000 Size: 1853440
+dxgi.dll Base Address: 0x7FFE918D0000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFE92DF0000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFE770C0000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFE878C0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFE942C0000 Size: 864768
+textinputframework.dll Base Address: 0x7FFE87090000 Size: 722944
+WINSTA.dll Base Address: 0x7FFE922A0000 Size: 190976
+aticfx64.dll Base Address: 0x7FFE8A740000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFE8A6C0000 Size: 190464
+atidxx64.dll Base Address: 0x7FFE88740000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFE87780000 Size: 117248
+HID.DLL Base Address: 0x7FFE91890000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFE8C240000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFE58060000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFE8C2D0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFE90B00000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFE87190000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFE8C700000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFE8C4F0000 Size: 1457664
+avrt.dll Base Address: 0x7FFE8DD40000 Size: 5632
+napinsp.dll Base Address: 0x7FFE75BB0000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFE71AA0000 Size: 66048
+wshbth.dll Base Address: 0x7FFE71A80000 Size: 43008
+NLAapi.dll Base Address: 0x7FFE8EB00000 Size: 68608
+mswsock.dll Base Address: 0x7FFE92790000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFE92470000 Size: 600576
+NSI.dll Base Address: 0x7FFE956E0000 Size: 7680
+winrnr.dll Base Address: 0x7FFE71A60000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFE88160000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFE88110000 Size: 7168
+cryptnet.dll Base Address: 0x7FFE79F70000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFE8D690000 Size: 11776
+SspiCli.dll Base Address: 0x7FFE92F10000 Size: 123904
+socialclub.dll Base Address: 0x7FFE5ACE0000 Size: 2599424
+chrome_elf.dll Base Address: 0x7FFE5C700000 Size: 901120
+libcef.dll Base Address: 0x7FFE0CC00000 Size: 151009280
+COMDLG32.dll Base Address: 0x7FFE95540000 Size: 684032
+COMCTL32.dll Base Address: 0x7FFE759C0000 Size: 560128
+UIAutomationCore.DLL Base Address: 0x7FFE64070000 Size: 2040832
+OLEACC.dll Base Address: 0x7FFE64D80000 Size: 260608
+Secur32.dll Base Address: 0x7FFE78990000 Size: 11264
+WINHTTP.dll Base Address: 0x7FFE8BDF0000 Size: 845312
+DWrite.dll Base Address: 0x7FFE84D90000 Size: 1601024
+WINSPOOL.DRV Base Address: 0x7FFE69FC0000 Size: 389632
+ncrypt.dll Base Address: 0x7FFE92A20000 Size: 102400
+USP10.dll Base Address: 0x7FFE886E0000 Size: 512
+urlmon.dll Base Address: 0x7FFE851E0000 Size: 1281536
+dxva2.dll Base Address: 0x7FFE4CBE0000 Size: 96256
+wevtapi.dll Base Address: 0x7FFE8E320000 Size: 296960
+CRYPTUI.dll Base Address: 0x7FFE73C40000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFE8D650000 Size: 61440
+credui.dll Base Address: 0x7FFE456D0000 Size: 55808
+ESENT.dll Base Address: 0x7FFE7AA50000 Size: 2585088
+srvcli.dll Base Address: 0x7FFE86C60000 Size: 54272
+iertutil.dll Base Address: 0x7FFE85770000 Size: 551424
+DSROLE.DLL Base Address: 0x7FFE8EA60000 Size: 7680
+WKSCLI.DLL Base Address: 0x7FFE92170000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFE7F850000 Size: 61440
+NTASN1.dll Base Address: 0x7FFE929E0000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFE91C30000 Size: 329728
+fwbase.dll Base Address: 0x7FFE91BC0000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFE83790000 Size: 205824
+wdmaud.drv Base Address: 0x7FFE4C170000 Size: 193024
+msacm32.drv Base Address: 0x7FFE4EC00000 Size: 17920
+MSACM32.dll Base Address: 0x7FFE4E3F0000 Size: 74240
+midimap.dll Base Address: 0x7FFE4E3E0000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFE60610000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFE8D670000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFE55F60000 Size: 9238016
+MSVCP140.dll Base Address: 0x7FFE64CE0000 Size: 340480
+MSVCP140_2.dll Base Address: 0x7FFE44C40000 Size: 196096
+D3DCOMPILER_47.dll Base Address: 0x7FFE8F0D0000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFE64CC0000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFE61800000 Size: 15360
+winbrand.dll Base Address: 0x7FFE840F0000 Size: 161280
+Dumping registers:
+RAX: 0x49
+RCX: 0x155D1314078
+RDX: 0x18
+RBX: 0x15511D24990
+RSI: 0x155C605BFFF
+RDI: 0x155C6067D7D
+RSP: 0x35E7D1F220
+RBP: 0x35E7D1F2B9
+R8:  0x7FF7712C59A0
+R9:  0x155C6038000
+R10: 0x2
+R11: 0x15511D23CA0
+R12: 0x8
+R13: 0x155C603D870
+R14: 0x15511D24968
+R15: 0x155125BC378
+Dumping stacktrace:
+[0]	GTA5.exe+0x161FACF 0x7FF76F9EFACF
+[1]	GTA5.exe+0x16204CF 0x7FF76F9F04CF
+[2]	GTA5.exe+0xA59780 0x7FF76EE29780
+[3]	GTA5.exe+0x1620BB1 0x7FF76F9F0BB1
+[4]	GTA5.exe+0xA4DFC4 0x7FF76EE1DFC4
+[5]	GTA5.exe+0xA51880 0x7FF76EE21880
+[6]	GTA5.exe+0x162FA85 0x7FF76F9FFA85
+[7]	GTA5.exe+0x162FA85 0x7FF76F9FFA85
+[8]	GTA5.exe+0x162F2B7 0x7FF76F9FF2B7
+[9]	GTA5.exe+0x27B94 0x7FF76E3F7B94
+[10]	GTA5.exe+0x21283 0x7FF76E3F1283
+[11]	GTA5.exe+0x162EEC0 0x7FF76F9FEEC0
+[12]	GTA5.exe+0x1494 0x7FF76E3D1494
+[13]	GTA5.exe+0x130538F 0x7FF76F6D538F
+[14]	GTA5.exe+0x1821344 0x7FF76FBF1344
+[15]	KERNEL32.DLL BaseThreadInitThunk
+[16]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[21:32:55.8938786][INFO/main.cpp:199] Renderer initialized.
+[21:32:56.1797789][INFO/main.cpp:203] Fiber pool initialized.
+[21:32:56.1823603][INFO/main.cpp:206] HTTP Client initialized.
+[21:32:56.3673980][INFO/main.cpp:209] Translation Service initialized.
+[21:32:56.4087956][INFO/main.cpp:212] Hooking initialized.
+[21:32:56.4414830][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[21:32:56.4415031][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[21:32:56.4421366][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[21:32:56.4426354][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[21:32:56.4426466][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[21:32:56.4426762][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[21:32:56.4601439][DEBUG/thread_pool.cpp:96] Thread 12816 executing player_database_service.cpp:285
+[21:32:56.4607484][INFO/main.cpp:233] Registered service instances...
+[21:32:56.4610263][INFO/main.cpp:254] Scripts registered.
+[21:32:56.5355194][INFO/main.cpp:257] Hooking enabled.
+[21:32:56.5381808][INFO/main.cpp:260] Dynamic native hooker initialized.
+[21:32:56.5389180][INFO/main.cpp:264] Lua manager initialized.
+[21:32:56.6562704][INFO/backend.cpp:53] Starting script: Self
+[21:32:56.6563090][INFO/backend.cpp:78] Starting script: Weapons
+[21:32:56.6563254][INFO/backend.cpp:101] Starting script: Vehicles
+[21:32:56.6563364][INFO/backend.cpp:117] Starting script: Miscellaneous
+[21:32:56.6563801][INFO/backend.cpp:138] Starting script: Remote
+[21:32:56.6563985][INFO/backend.cpp:153] Starting script: Ls customs
+[21:32:56.6564052][INFO/backend.cpp:165] Starting script: Rainbow paint
+[21:32:56.6564077][INFO/backend.cpp:177] Starting script: Disable Control Action
+[21:32:56.6564110][INFO/backend.cpp:190] Starting script: World
+[21:32:56.6879843][INFO/tunables_service.cpp:36] Loading tunables from cache
+[21:35:12.7101442][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[21:35:12.7101991][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[21:35:12.7103600][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[21:35:12.7193124][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[21:35:12.7206834][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[21:35:12.7209082][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[21:35:12.7209220][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[21:35:12.7485003][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[21:35:12.7485390][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[21:35:46.7152537][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[21:35:46.7153144][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[21:36:34.7346782][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[21:36:34.7347157][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[21:37:37.4777428][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: DIG; DATA: "gamer":"SC 22047975","action":"RTB","id":-5909003097598001610
+[21:42:09.0349940][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":27,"char":{"slot":0,"cash":27,"bank":130537294,"evc":130537321,"pvc":0,"pxr":0.00000,"nonce":638457901225475584},"c":[-170.85463,6167.95410,31.20638],"pt":3796107786,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:42:09.0350384][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":27,"char":{"slot":0,"cash":27,"bank":130537294,"evc":130537321,"pvc":0,"pxr":0.00000,"nonce":638457901225475584},"c":[-170.85463,6167.95410,31.20638],"pt":3796107786,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:44:12.3071032][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":34,"char":{"slot":0,"cash":92,"bank":130537294,"evc":130537386,"pvc":0,"pxr":0.00000,"nonce":638457902456657178},"c":[-83.73037,6216.71875,31.09003],"pt":3796225189,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:44:12.3071545][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":34,"char":{"slot":0,"cash":92,"bank":130537294,"evc":130537386,"pvc":0,"pxr":0.00000,"nonce":638457902456657178},"c":[-83.73037,6216.71875,31.09003],"pt":3796225189,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:44:17.6977338][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":11,"char":{"slot":0,"cash":120,"bank":130537294,"evc":130537414,"pvc":0,"pxr":0.00000,"nonce":638457902511639954},"c":[-90.02322,6233.23047,31.08989],"pt":3796235206,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:44:17.6977911][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":11,"char":{"slot":0,"cash":120,"bank":130537294,"evc":130537414,"pvc":0,"pxr":0.00000,"nonce":638457902511639954},"c":[-90.02322,6233.23047,31.08989],"pt":3796235206,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:44:35.7155096][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796067695,"slot":0
+[21:44:35.7157724][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796087745,"slot":0
+[21:44:35.7157844][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796087745,"slot":0
+[21:44:35.7157926][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796087745,"slot":0
+[21:44:35.7157997][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796097765,"slot":0
+[21:44:35.7158230][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796117813,"slot":0
+[21:44:35.7158312][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796127830,"slot":0
+[21:44:35.7158385][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796127830,"slot":0
+[21:44:35.7158882][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796134962,"slot":0
+[21:44:35.7159473][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796144991,"slot":0
+[21:44:35.7159599][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796144991,"slot":0
+[21:44:35.7159684][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796155019,"slot":0
+[21:44:35.7159765][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796165020,"slot":0
+[21:44:35.7159851][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796165020,"slot":0
+[21:44:35.7159932][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796165020,"slot":0
+[21:44:35.7160010][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796175058,"slot":0
+[21:44:35.7160093][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796175058,"slot":0
+[21:44:35.7160190][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796175058,"slot":0
+[21:44:35.7160304][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796185081,"slot":0
+[21:44:35.7160580][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796195105,"slot":0
+[21:44:35.7160661][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796195105,"slot":0
+[21:44:35.7160729][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796215167,"slot":0
+[21:44:35.7160798][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796215167,"slot":0
+[21:44:35.7160880][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796225189,"slot":0
+[21:44:35.7160978][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796225189,"slot":0
+[21:44:35.7161044][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796255257,"slot":0
+[21:45:03.5961816][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":24,"char":{"slot":0,"cash":144,"bank":130537294,"evc":130537438,"pvc":0,"pxr":0.00000,"nonce":638457902969312999},"c":[-72.49538,6259.43994,31.09010],"pt":3796275297,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:45:03.5962556][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":24,"char":{"slot":0,"cash":144,"bank":130537294,"evc":130537438,"pvc":0,"pxr":0.00000,"nonce":638457902969312999},"c":[-72.49538,6259.43994,31.09010],"pt":3796275297,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:46:11.9136656][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":17,"char":{"slot":0,"cash":161,"bank":130537294,"evc":130537455,"pvc":0,"pxr":0.00000,"nonce":638457903653360906},"c":[-80.75896,6219.22656,31.08985],"pt":3796345387,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:46:11.9137211][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":17,"char":{"slot":0,"cash":161,"bank":130537294,"evc":130537455,"pvc":0,"pxr":0.00000,"nonce":638457903653360906},"c":[-80.75896,6219.22656,31.08985],"pt":3796345387,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:46:55.7763378][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":31,"char":{"slot":0,"cash":221,"bank":130537294,"evc":130537515,"pvc":0,"pxr":0.00000,"nonce":638457904091812426},"c":[-81.93537,6237.63477,31.09126],"pt":3796385454,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:46:55.7763834][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":31,"char":{"slot":0,"cash":221,"bank":130537294,"evc":130537515,"pvc":0,"pxr":0.00000,"nonce":638457904091812426},"c":[-81.93537,6237.63477,31.09126],"pt":3796385454,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:47:36.7307923][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":32,"char":{"slot":0,"cash":253,"bank":130537294,"evc":130537547,"pvc":0,"pxr":0.00000,"nonce":638457904501034568},"c":[-81.66263,6221.31201,31.08984],"pt":3796435552,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:47:36.7308497][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":32,"char":{"slot":0,"cash":253,"bank":130537294,"evc":130537547,"pvc":0,"pxr":0.00000,"nonce":638457904501034568},"c":[-81.66263,6221.31201,31.08984],"pt":3796435552,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[21:48:35.7620303][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796255257,"slot":0
+[21:48:35.7620645][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796265262,"slot":0
+[21:48:35.7620702][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796265262,"slot":0
+[21:48:35.7620753][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796275297,"slot":0
+[21:48:35.7620799][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796275297,"slot":0
+[21:48:35.7620845][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796285305,"slot":0
+[21:48:35.7621237][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796325355,"slot":0
+[21:48:35.7621295][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796345387,"slot":0
+[21:48:35.7621340][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796355391,"slot":0
+[21:48:35.7621385][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796365422,"slot":0
+[21:48:35.7622322][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796385454,"slot":0
+[21:48:35.7622438][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796395471,"slot":0
+[21:48:35.7622555][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796405473,"slot":0
+[21:48:35.7622621][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796425522,"slot":0
+[21:48:35.7622668][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796435552,"slot":0
+[21:48:35.7623178][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-68.51,6254.01,31.09],"wantedlvl":3
+[21:50:07.6808767][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":16,"char":{"slot":0,"cash":269,"bank":130537294,"evc":130537563,"pvc":0,"pxr":0.00000,"nonce":638457906010244782},"c":[-133.76901,6161.59326,31.02498],"pt":3796585889,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[21:50:07.6809319][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":16,"char":{"slot":0,"cash":269,"bank":130537294,"evc":130537563,"pvc":0,"pxr":0.00000,"nonce":638457906010244782},"c":[-133.76901,6161.59326,31.02498],"pt":3796585889,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[21:53:35.8376943][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-74.16,6265.18,31.19],"name":353883353,"cd":[-74,6265],"wlvl":3
+[21:53:35.8377623][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796575852,"slot":0
+[21:53:35.8377694][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796575852,"slot":0
+[21:53:35.8377748][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796575852,"slot":0
+[21:53:35.8377795][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796595898,"slot":0
+[21:53:35.8378027][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796615944,"slot":0
+[21:58:35.9714095][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3796806363,"slot":0
+[21:58:35.9715130][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[2027.00,6101.95,47.35],"name":353883353,"cd":[2027,6101],"wlvl":3
+[21:58:35.9716368][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":31,"type":2435321038,"cat":2131309714,"pt":3797021388,"slot":0
+[21:58:35.9716601][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":31,"type":2435321038,"cat":2131309714,"pt":3797041446,"slot":0
+[21:58:35.9716657][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":31,"type":2435321038,"cat":2131309714,"pt":3797051455,"slot":0
+[21:58:35.9716735][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[2744.17,3405.85,56.13],"name":353883353,"cd":[2744,3405],"wlvl":3
+[22:03:12.6965986][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":50000,"char":{"slot":0,"cash":50269,"bank":130537294,"evc":130587563,"pvc":0,"pxr":0.00000,"nonce":638457913862826799},"c":[298.42581,196.40260,105.31210],"pt":3797306510,"vct":0,"vcp":0,"mid":0,"action":"CHICKEN","cat":"FINALE","ctx":{
+[22:03:12.6966409][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":50000,"char":{"slot":0,"cash":50269,"bank":130537294,"evc":130587563,"pvc":0,"pxr":0.00000,"nonce":638457913862826799},"c":[298.42581,196.40260,105.31210],"pt":3797306510,"vct":0,"vcp":0,"mid":0,"action":"CHICKEN","cat":"FINALE","ctx":{
+[22:03:22.0091437][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[795.81,197.27,80.82],"name":353883353,"cd":[795,197],"wlvl":3
+[22:03:22.0092443][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[372.36,-471.60,33.42],"wantedlvl":0
+[22:03:22.0093988][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":100,"type":2658791846,"cat":70407654,"pt":3797301943,"slot":0
+[22:03:22.0094590][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":3391,"type":2658791846,"cat":2053762773,"pt":3797306510,"slot":0
+[22:03:22.0094705][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3797306510,"slot":0
+[22:05:36.1390885][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[22:05:36.1393047][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[22:21:01.7380898][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":3419251281,"cat":2807728335,"pt":3798192879,"slot":0
+[22:21:01.7382232][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":3419251281,"cat":2807728335,"pt":3798303112,"slot":0
+[22:21:01.7382609][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":180,"type":2658791846,"cat":453064240,"pt":3798363186,"slot":0
+[22:22:37.9481039][WARN/reaction.cpp:60] Received Modder Detection from HELDER_tuga (184127459)
+[22:23:22.8897799][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":250000,"char":{"slot":0,"cash":50269,"bank":130787294,"evc":130837563,"pvc":0,"pxr":0.00000,"nonce":638457925963397053},"c":[-898.95526,-1206.39075,4.38034],"pt":3798506981,"vct":0,"vcp":0,"mid":0,"action":"AWARD","cat":"CHICKEN","ctx":{
+[22:23:22.8898350][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":250000,"char":{"slot":0,"cash":50269,"bank":130787294,"evc":130837563,"pvc":0,"pxr":0.00000,"nonce":638457925963397053},"c":[-898.95526,-1206.39075,4.38034],"pt":3798506981,"vct":0,"vcp":0,"mid":0,"action":"AWARD","cat":"CHICKEN","ctx":{
+[22:23:36.8380997][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":52269,"bank":130787294,"evc":130839563,"pvc":0,"pxr":0.00000,"nonce":638457926102871030},"c":[-624.59436,-960.33276,20.83133],"pt":3798518871,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[22:23:36.8381451][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":52269,"bank":130787294,"evc":130839563,"pvc":0,"pxr":0.00000,"nonce":638457926102871030},"c":[-624.59436,-960.33276,20.83133],"pt":3798518871,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[22:24:07.7291284][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[22:24:07.7292877][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[22:24:07.7295292][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":800,"type":2467613365,"cat":777706678,"pt":3798506981,"slot":0
+[22:33:42.1890602][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-631.58,-423.80,34.25],"wantedlvl":1
+[22:34:32.9336028][WARN/reaction.cpp:60] Received Modder Detection from justinrtx1 (170115173)
+[22:35:25.9927132][WARN/interloper_reaction.cpp:30] Received Spectate Others from alexxeyj (175680606), victim is justinrtx1
+[22:36:08.5080128][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-731.31,-1103.21,10.95],"wantedlvl":0
+[22:37:02.0808032][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":25000,"char":{"slot":0,"cash":0,"bank":130814563,"evc":130814563,"pvc":0,"pxr":0.00000,"nonce":638457934155750844},"c":[-3034.89990,245.55324,16.00101],"pt":3799302656,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"ARMORED_TR
+[22:37:02.0808602][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":25000,"char":{"slot":0,"cash":0,"bank":130814563,"evc":130814563,"pvc":0,"pxr":0.00000,"nonce":638457934155750844},"c":[-3034.89990,245.55324,16.00101],"pt":3799302656,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"ARMORED_TR
+[22:38:08.5668115][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-3034.93,245.66,16.00],"wantedlvl":2
+[22:38:08.5669306][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3799302656,"slot":0
+[22:40:21.3638737][WARN/interloper_reaction.cpp:30] Received Spectate Others from alexxeyj (175680606), victim is justinrtx1
+[22:42:01.4011360][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":0,"bank":130834563,"evc":130834563,"pvc":0,"pxr":0.00000,"nonce":638457937147336963},"c":[1170.95850,-2975.81226,5.29741],"pt":3799607661,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[22:42:01.4011813][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":0,"bank":130834563,"evc":130834563,"pvc":0,"pxr":0.00000,"nonce":638457937147336963},"c":[1170.95850,-2975.81226,5.29741],"pt":3799607661,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[22:42:08.6840423][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1351.78,-752.66,21.78],"wantedlvl":0
+[22:42:08.6840716][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3799392907,"slot":0
+[22:42:08.6844623][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2435321038,"cat":3285634639,"pt":3799607661,"slot":0
+[22:45:34.4533517][WARN/reaction.cpp:60] Received Modder Detection from Robotron91 (171507851)
+[22:46:08.8034069][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[789.24,-1002.85,26.13],"wantedlvl":1
+[22:46:08.8035317][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[737.34,-1008.75,27.22],"wantedlvl":2
+[22:46:08.8036714][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-915.19,-1191.55,4.43],"wantedlvl":0
+[22:46:08.8036790][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3799815734,"slot":0
+[22:46:57.7485547][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":26500,"char":{"slot":0,"cash":26500,"bank":130834563,"evc":130861063,"pvc":0,"pxr":0.00000,"nonce":638457940110463732},"c":[-1615.68359,-3015.73511,-75.20506],"pt":3799876658,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[22:46:57.7486015][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":26500,"char":{"slot":0,"cash":26500,"bank":130834563,"evc":130861063,"pvc":0,"pxr":0.00000,"nonce":638457940110463732},"c":[-1615.68359,-3015.73511,-75.20506],"pt":3799876658,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[22:47:43.0067011][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":36500,"bank":130834563,"evc":130871063,"pvc":0,"pxr":0.00000,"nonce":638457940564167371},"c":[-1580.65564,-3015.84473,-79.00591],"pt":3799927206,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NO
+[22:47:43.0067483][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":36500,"bank":130834563,"evc":130871063,"pvc":0,"pxr":0.00000,"nonce":638457940564167371},"c":[-1580.65564,-3015.84473,-79.00591],"pt":3799927206,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NO
+[22:49:01.0735328][WARN/reaction.cpp:60] Received Modder Detection from taratronic (236384028)
+[22:50:28.0394719][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2467613365,"cat":4079347841,"pt":3799927206,"slot":0
+[22:50:28.0395106][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RANK_UP; DATA: "rank":446,"time":3799927206,"evc":0
+[22:50:41.6373970][WARN/reaction.cpp:60] Received Modder Detection from Robotron91 (171507851)
+[22:52:17.2449472][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":36500,"bank":130854563,"evc":130891063,"pvc":0,"pxr":0.00000,"nonce":638457943306066736},"c":[1169.35815,-2971.82397,5.26531],"pt":3800183643,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[22:52:17.2450133][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":36500,"bank":130854563,"evc":130891063,"pvc":0,"pxr":0.00000,"nonce":638457943306066736},"c":[1169.35815,-2971.82397,5.26531],"pt":3800183643,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[22:54:09.0444099][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2435321038,"cat":3285634639,"pt":3800183643,"slot":0
+[23:10:09.3124238][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-101.27,-224.83,44.68],"wantedlvl":1
+[23:10:09.3126064][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-660.63,307.62,83.08],"wantedlvl":0
+[23:10:09.3126163][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":100,"type":2892279813,"cat":3893038019,"pt":3801100026,"slot":0
+[23:10:37.2768881][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":7007,"char":{"slot":0,"cash":46500,"bank":130831985,"evc":130878485,"pvc":0,"pxr":0.00000,"nonce":638457954306001270},"c":[225.51198,318.30673,105.56886],"pt":3801240310,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"RANDOM_E
+[23:10:37.2769453][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":7007,"char":{"slot":0,"cash":46500,"bank":130831985,"evc":130878485,"pvc":0,"pxr":0.00000,"nonce":638457954306001270},"c":[225.51198,318.30673,105.56886],"pt":3801240310,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"RANDOM_E
+[23:11:32.7079908][WARN/reaction.cpp:60] Received Modder Detection from Fiko522 (21800828)
+[23:13:45.8065889][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14465808,"type":3136273443,"cat":654913086,"pt":3801430592,"slot":0
+[23:18:25.9508259][WARN/reaction.cpp:60] Received Modder Detection from justinrtx1 (170115173)
+[23:18:56.6639531][WARN/reaction.cpp:60] Received Modder Detection from andradethroat842 (210758681)
+[23:19:41.9197043][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60000,"char":{"slot":0,"cash":106000,"bank":130831946,"evc":130937946,"pvc":0,"pxr":0.00000,"nonce":638457959755028195},"c":[-336.80411,-137.43159,38.49819],"pt":3801781315,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[23:19:41.9197520][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60000,"char":{"slot":0,"cash":106000,"bank":130831946,"evc":130937946,"pvc":0,"pxr":0.00000,"nonce":638457959755028195},"c":[-336.80411,-137.43159,38.49819],"pt":3801781315,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[23:31:13.8059056][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":500,"type":2658791846,"cat":1814661405,"pt":3802460104,"slot":0
+[23:31:19.6070346][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":59600,"char":{"slot":0,"cash":0,"bank":130962546,"evc":130962546,"pvc":0,"pxr":0.00000,"nonce":638457966731141558},"c":[48.03970,574.36786,180.40724],"pt":3802460104,"vct":0,"vcp":0,"mid":0,"action":"AUTOSHOP","cat":"BUSINESS","ctx":{
+[23:31:19.6070902][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":59600,"char":{"slot":0,"cash":0,"bank":130962546,"evc":130962546,"pvc":0,"pxr":0.00000,"nonce":638457966731141558},"c":[48.03970,574.36786,180.40724],"pt":3802460104,"vct":0,"vcp":0,"mid":0,"action":"AUTOSHOP","cat":"BUSINESS","ctx":{
+[23:41:21.6588585][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15,"char":{"slot":0,"cash":15,"bank":130962546,"evc":130962561,"pvc":0,"pxr":0.00000,"nonce":638457972751338394},"c":[208.44470,-2511.40894,5.99608],"pt":3803050612,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[23:41:21.6589183][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15,"char":{"slot":0,"cash":15,"bank":130962546,"evc":130962561,"pvc":0,"pxr":0.00000,"nonce":638457972751338394},"c":[208.44470,-2511.40894,5.99608],"pt":3803050612,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[23:41:49.8517768][WARN/reaction.cpp:60] Received Remote Ragdoll from Laphino13 (91920694)
+[23:42:21.0728411][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3803030556,"slot":0
+[23:42:21.0728743][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3803040589,"slot":0
+[23:42:21.0729309][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3803080658,"slot":0
+[23:44:41.7813403][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":19800,"char":{"slot":0,"cash":19815,"bank":130962546,"evc":130982361,"pvc":0,"pxr":0.00000,"nonce":638457974754372381},"c":[367.53586,-276.71280,53.42437],"pt":3803251005,"vct":0,"vcp":0,"mid":0,"action":"CHICKEN","cat":"SETUP","ctx":{
+[23:44:41.7814020][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":19800,"char":{"slot":0,"cash":19815,"bank":130962546,"evc":130982361,"pvc":0,"pxr":0.00000,"nonce":638457974754372381},"c":[367.53586,-276.71280,53.42437],"pt":3803251005,"vct":0,"vcp":0,"mid":0,"action":"CHICKEN","cat":"SETUP","ctx":{
+[23:44:44.8924733][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3803150809,"slot":0
+[23:44:44.8926403][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":3053,"type":2658791846,"cat":2053762773,"pt":3803251005,"slot":0
+[23:44:44.8926538][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3803251005,"slot":0
+[23:44:47.1979619][WARN/reaction.cpp:60] Received Modder Detection from Xenuzax (238242332)
+[23:45:18.4721110][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:18.6814903][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:18.8749610][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:19.0844113][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:19.2297995][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:19.4229363][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:19.6332666][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:19.8263431][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:20.0365148][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:20.2291467][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:20.4386358][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:20.6317660][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:20.8075973][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:20.9898579][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:21.0437907][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:21.1850686][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:21.3782771][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:21.6267115][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:21.7980073][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:21.8512974][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.0923877][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.1488818][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.2593816][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.4514348][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.4947116][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.5950576][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.6860932][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.7966833][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.9864316][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:22.9864707][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:23.1555024][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:23.1555348][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:23.3313111][WARN/reaction.cpp:60] Received Modder Detection from wrathyr (10820682)
+[23:45:23.3519483][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:23.5429620][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:23.5429966][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:23.6990871][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:23.8479968][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:23.8480415][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.0035785][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.0036113][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.1407472][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.2957838][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.3500443][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.5057958][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.5408900][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.6563242][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.8061070][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.8062777][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:24.9586897][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:25.0465411][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:25.1112340][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:25.2501412][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:25.2501738][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:25.4467631][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:25.5007991][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:25.6070528][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:25.7990119][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:25.9631157][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.1072706][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.2071346][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.3072732][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.4095513][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.5653639][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.5654166][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.6003577][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.7538587][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.7539101][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.7539213][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.7539288][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.7539357][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.7539428][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.7539496][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.7539564][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.8066412][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.9103843][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:26.9104268][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.0164985][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.0165353][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.0165501][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.1071123][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.2117654][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.3170058][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.3170475][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.4220670][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.4220996][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.4221049][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.4221089][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.4221135][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.4221172][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.4221211][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.5163151][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.5679851][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.6201187][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.6722008][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.6722402][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.7085458][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.7085924][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.8650363][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.8650870][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.9182875][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:27.9720159][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.0602098][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.0602778][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.1123944][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.1637760][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.2153602][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.3179246][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.4186850][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.5256762][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.5257187][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.5257287][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.5257378][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.5257467][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.5257553][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.5257631][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.5257848][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.6154465][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.6669122][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.7182869][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.7183204][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.7710275][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.9247319][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.9247754][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.9775987][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:28.9776356][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.1647762][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.1648093][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.1648146][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.1648192][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.1648229][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.1648268][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.1648307][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.1648398][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.3661389][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.3661790][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.3661851][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.3661896][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.3661938][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.3661974][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.3662014][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.3662052][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.4347422][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.4687075][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.5767133][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.5767700][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.5767808][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.5767883][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.5767954][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.5768024][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.5768089][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.6831113][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.7691527][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.7691919][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:29.8703074][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.0250372][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.0250717][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.0250769][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.0250810][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.0250848][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.0250886][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.1766520][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.2278214][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.4266084][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.4266537][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.4266599][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.4266641][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.4266682][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.4266720][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.4266760][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.4266797][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.6518461][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.6518959][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.6519067][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:30.8327224][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.0344538][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.0853080][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.0853460][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.0853556][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.0853627][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.0853699][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.0853768][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.0853833][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.2352008][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.2857522][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.2857879][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.4860202][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.6942541][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.6943192][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.6943304][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.6943375][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.6943441][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.6943509][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.6943574][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.6943639][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.9372220][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.9372662][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.9372738][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.9372785][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.9372831][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.9372869][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.9372907][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.9374293][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:31.9905523][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.1284909][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.1285353][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.1285452][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.1285538][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.1285616][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.1285691][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.1285769][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.1285931][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.3361455][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.3361943][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.3362059][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.3362156][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.3362245][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.3362336][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.3362422][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.3897421][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.5940272][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.5940670][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.5940772][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.5940848][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.5940916][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.5940983][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.5941049][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.5941259][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.7361750][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.7897618][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.7897913][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.7897965][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.7898009][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.7898050][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.7898088][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.7898125][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.7898209][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.9382795][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.9873322][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.9873647][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.9873697][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.9873739][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.9873785][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.9873824][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:32.9873860][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.0378409][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.1868036][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.1868433][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.1868537][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.1868608][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.1868678][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.1868743][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.1868811][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.1868984][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.2867053][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.3366236][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.3863188][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.3863471][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.3863521][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.3863564][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.3863601][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.3863637][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.3863674][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.5902201][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.5902486][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.5902536][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.5902578][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.5902621][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.5902659][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.5902696][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.5902731][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.8025273][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.8553815][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.8554163][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.8554217][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.8554259][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.8554300][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.8554338][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.8554376][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:33.9910368][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.0429323][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.0429655][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.0429704][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.0429746][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.0429788][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.0429825][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.0429864][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.0951669][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.1950047][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.2453545][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.2453986][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.2454089][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.2454178][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.2454257][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.2454336][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.2454412][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.4512303][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.4512867][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.4512979][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.4513048][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.4513116][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.4513190][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.4513256][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.5030361][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.6057174][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.6548757][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.7563888][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.8468262][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:34.9482432][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.1018604][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.1019007][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.1019181][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.1019341][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.1019440][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.1019514][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.1019585][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.2554944][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.3063274][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.3063621][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.5068154][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.5068543][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.7082629][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.7568943][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.7569269][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.7569322][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.7569370][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.7569409][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.7569448][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.7569487][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.9496599][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.9496863][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.9496913][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.9496953][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.9496991][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.9497029][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:35.9497064][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.1032836][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.1542738][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.1543061][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.1543111][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.1543153][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.1543192][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.1543255][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.1543291][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.3043586][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.3545192][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.3545521][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.3545570][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.5581440][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:36.7110106][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:37.1582784][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:37.2578971][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:37.3589047][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:37.6115734][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:37.8102264][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:37.9511954][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:38.0563394][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:38.1637677][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:38.3059014][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:38.4613802][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:38.5153237][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:38.8184158][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:39.0108502][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:39.2087424][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:39.3214117][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:39.7116539][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:39.7603069][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:39.9696862][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:40.1719066][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:40.5136895][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:40.7255515][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:40.9211778][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:41.3194020][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:41.5934207][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:41.9826374][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:42.4235477][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:42.5359171][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:42.6499535][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:42.9509866][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:43.1390049][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:43.2902891][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:43.4031956][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:43.5532555][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:43.5913332][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:43.7821481][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:43.7821814][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:44.0079418][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:44.1959854][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:44.4541995][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:44.6007430][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:44.6383654][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:45.0433769][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:45.0434147][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:45.3034914][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:45.4920142][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:45.9002758][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:46.0874292][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:46.3188349][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:46.7213592][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:47.2870157][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:47.5656071][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:47.7659183][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:48.2033138][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:48.4004015][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:48.5990097][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:48.7951521][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:49.2296320][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:49.5478795][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:45:50.0561642][WARN/reaction.cpp:60] Received Give Collectible from Xenuzax (238242332)
+[23:46:06.8814753][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[23:46:06.8815614][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RDEV; DATA: "g":"SC 238242332"
+[23:46:06.8815654][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RQA; DATA: "g":"SC 238242332"
+[23:46:06.8821496][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[23:51:21.2355850][WARN/reaction.cpp:60] Received Modder Detection from Ethan_Rides_ (193111395)
+[23:58:44.4086517][WARN/notify.hpp:67] Blocked sound spam crash from GynoADV (156675561)
+[23:59:13.8441107][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: IDLEKICK; DATA: "idle":120000
+[23:59:13.8443758][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RDEV; DATA: "g":"SC 105736921"
+[00:00:19.7530319][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: IDLEKICK; DATA: "idle":300000
+[00:14:15.6716125][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:14:15.6717047][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14469661,"type":3136273443,"cat":654913086,"pt":3805011813,"slot":0
+[00:18:17.1787773][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":43200,"char":{"slot":0,"cash":63015,"bank":130962546,"evc":131025561,"pvc":0,"pxr":0.00000,"nonce":638457994905560426},"c":[1075.45776,-2284.00757,-46.59989],"pt":3805238420,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[00:18:17.1788516][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":43200,"char":{"slot":0,"cash":63015,"bank":130962546,"evc":131025561,"pvc":0,"pxr":0.00000,"nonce":638457994905560426},"c":[1075.45776,-2284.00757,-46.59989],"pt":3805238420,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[00:24:06.3816410][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3805542715,"slot":0
+[00:28:06.5174183][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3805745951,"slot":0
+[00:31:29.1591580][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14471661,"type":3136273443,"cat":654913086,"pt":3806001977,"slot":0
+[00:32:02.8899932][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14471661,"type":3136273443,"cat":654913086,"pt":3806030144,"slot":0
+[00:34:06.0598349][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14471661,"type":3136273443,"cat":654913086,"pt":3806147741,"slot":0
+[00:39:31.1592615][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14471661,"type":3136273443,"cat":654913086,"pt":3806467758,"slot":0
+[00:39:50.7747436][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":500,"char":{"slot":0,"cash":61515,"bank":130942546,"evc":131004061,"pvc":0,"pxr":0.00000,"nonce":638458007842355036},"c":[39.97232,-2647.54004,6.00806],"pt":3806477786,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[00:39:50.7747900][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":500,"char":{"slot":0,"cash":61515,"bank":130942546,"evc":131004061,"pvc":0,"pxr":0.00000,"nonce":638458007842355036},"c":[39.97232,-2647.54004,6.00806],"pt":3806477786,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[00:44:06.9685108][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3806646706,"slot":0
+[00:46:47.5630130][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14472661,"type":3136273443,"cat":654913086,"pt":3806877205,"slot":0
+[00:52:05.2283131][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1772.72,-2766.29,14.85],"wantedlvl":2
+[00:52:05.2284069][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-604.64,-2266.14,6.84],"wantedlvl":0
+[00:52:05.2285046][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3807082726,"slot":0
+[00:56:17.2628148][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[129.38,-208.02,54.57],"wantedlvl":2
+[00:56:17.2629451][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-718.40,-1250.17,9.37],"wantedlvl":0
+[00:56:17.2629536][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3807311318,"slot":0
+[01:01:07.3501549][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3807443024,"slot":0
+[01:05:07.4273312][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3807874224,"slot":0
+[01:08:25.4588649][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14475861,"type":3136273443,"cat":654913086,"pt":3808112462,"slot":0
+[01:11:25.2703833][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":35000,"char":{"slot":0,"cash":60515,"bank":130968531,"evc":131029046,"pvc":0,"pxr":0.00000,"nonce":638458026787886532},"c":[79.29323,6433.28516,213.05202],"pt":3808280983,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"SALVAGE","ctx":{
+[01:11:25.2704826][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":35000,"char":{"slot":0,"cash":60515,"bank":130968531,"evc":131029046,"pvc":0,"pxr":0.00000,"nonce":638458026787886532},"c":[79.29323,6433.28516,213.05202],"pt":3808280983,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"SALVAGE","ctx":{
+[01:14:07.6512862][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3808285757,"slot":0
+[01:15:00.6283122][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":32000,"char":{"slot":0,"cash":60515,"bank":131000531,"evc":131061046,"pvc":0,"pxr":0.00000,"nonce":638458028941456021},"c":[-1532.56934,-765.17621,72.54836],"pt":3808489891,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"SALVAGE","ctx":{
+[01:15:00.6283696][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":32000,"char":{"slot":0,"cash":60515,"bank":131000531,"evc":131061046,"pvc":0,"pxr":0.00000,"nonce":638458028941456021},"c":[-1532.56934,-765.17621,72.54836],"pt":3808489891,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"SALVAGE","ctx":{
+[01:18:07.7290413][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-358.20,-1098.93,83.38],"wantedlvl":2
+[01:18:07.7291609][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[1098.91,-2266.04,-49.00],"wantedlvl":0
+[01:27:07.9262986][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":100,"type":2467613365,"cat":1230953670,"pt":3808923719,"slot":0
+[01:33:30.3875908][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14476961,"type":3136273443,"cat":654913086,"pt":3809569617,"slot":0
+[01:37:59.2913027][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":60015,"bank":131010531,"evc":131070546,"pvc":0,"pxr":0.00000,"nonce":638458042728201560},"c":[-13.15324,-1306.82080,18.55138],"pt":3809822972,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"FINALE","ctx":{
+[01:37:59.2913537][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":60015,"bank":131010531,"evc":131070546,"pvc":0,"pxr":0.00000,"nonce":638458042728201560},"c":[-13.15324,-1306.82080,18.55138],"pt":3809822972,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"FINALE","ctx":{
+[01:38:08.2109943][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3809822972,"slot":0
+[01:38:40.7829382][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":31200,"char":{"slot":0,"cash":91215,"bank":131010531,"evc":131101746,"pvc":0,"pxr":0.00000,"nonce":638458043143059295},"c":[1075.45776,-2284.00757,-46.59989],"pt":3809844604,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[01:38:40.7830037][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":31200,"char":{"slot":0,"cash":91215,"bank":131010531,"evc":131101746,"pvc":0,"pxr":0.00000,"nonce":638458043143059295},"c":[1075.45776,-2284.00757,-46.59989],"pt":3809844604,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[01:40:12.2634814][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":13190,"char":{"slot":0,"cash":104405,"bank":131010531,"evc":131114936,"pvc":0,"pxr":0.00000,"nonce":638458044057170292},"c":[2728.02368,-374.30295,-47.39749],"pt":3809925924,"vct":0,"vcp":0,"mid":0,"action":"ARCADE","cat":"ARCADE_AWARD","ctx":{
+[01:40:12.2635400][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":13190,"char":{"slot":0,"cash":104405,"bank":131010531,"evc":131114936,"pvc":0,"pxr":0.00000,"nonce":638458044057170292},"c":[2728.02368,-374.30295,-47.39749],"pt":3809925924,"vct":0,"vcp":0,"mid":0,"action":"ARCADE","cat":"ARCADE_AWARD","ctx":{
+[01:41:42.3247996][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60000,"char":{"slot":0,"cash":164405,"bank":131010531,"evc":131174936,"pvc":0,"pxr":0.00000,"nonce":638458044958545946},"c":[-578.10187,-715.06982,116.80526],"pt":3810007676,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"INCOME","ctx":{}
+[01:41:42.3248581][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60000,"char":{"slot":0,"cash":164405,"bank":131010531,"evc":131174936,"pvc":0,"pxr":0.00000,"nonce":638458044958545946},"c":[-578.10187,-715.06982,116.80526],"pt":3810007676,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"INCOME","ctx":{}
+[01:43:25.2239063][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":145000,"char":{"slot":0,"cash":309405,"bank":131010531,"evc":131319936,"pvc":0,"pxr":0.00000,"nonce":638458045986677670},"c":[-1615.53857,-3015.62573,-75.20506],"pt":3810091525,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[01:43:25.2239635][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":145000,"char":{"slot":0,"cash":309405,"bank":131010531,"evc":131319936,"pvc":0,"pxr":0.00000,"nonce":638458045986677670},"c":[-1615.53857,-3015.62573,-75.20506],"pt":3810091525,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[01:45:33.0152098][INFO/main.cpp:272] Scripts unregistered.
+[01:45:33.0152435][INFO/main.cpp:275] Lua manager uninitialized.
+[01:45:33.0675958][INFO/main.cpp:278] Hooking disabled.
+[01:45:33.0682802][INFO/main.cpp:281] Dynamic native hooker uninitialized.
+[01:45:33.0683142][DEBUG/thread_pool.cpp:109] Thread 12952 exiting...
+[01:45:33.0689239][DEBUG/thread_pool.cpp:109] Thread 16460 exiting...
+[01:45:33.0689371][DEBUG/thread_pool.cpp:109] Thread 9708 exiting...
+[01:45:33.1063100][DEBUG/thread_pool.cpp:109] Thread 12816 exiting...
+[01:45:33.1081253][INFO/main.cpp:286] Destroyed thread pool.
+[01:45:33.1081391][INFO/main.cpp:289] Script Connection Service reset.
+[01:45:33.1222157][INFO/main.cpp:291] Tunables Service reset.
+[01:45:33.1222374][INFO/main.cpp:293] Hotkey Service reset.
+[01:45:33.1222410][INFO/main.cpp:295] Matchmaking Service reset.
+[01:45:33.1232982][INFO/main.cpp:297] Player Database Service reset.
+[01:45:33.1233060][INFO/main.cpp:299] API Service reset.
+[01:45:33.1623926][INFO/main.cpp:301] Script Patcher Service reset.
+[01:45:33.1624301][INFO/main.cpp:303] Gui Service reset.
+[01:45:33.1640830][INFO/main.cpp:305] GTA Data Service reset.
+[01:45:33.1641130][INFO/main.cpp:307] Vehicle Service reset.
+[01:45:33.1641186][INFO/main.cpp:309] Model Preview Service reset.
+[01:45:33.1641223][INFO/main.cpp:311] Mobile Service reset.
+[01:45:33.1641257][INFO/main.cpp:313] Player Service reset.
+[01:45:33.1641275][INFO/main.cpp:315] Pickup Service reset.
+[01:45:33.1641325][INFO/main.cpp:317] Custom Text Service reset.
+[01:45:33.1642239][INFO/main.cpp:319] Context Service reset.
+[01:45:33.1645497][INFO/main.cpp:321] Xml Vehicles Service reset.
+[01:45:33.1645558][INFO/main.cpp:322] Services uninitialized.
+[01:45:33.1645897][INFO/main.cpp:325] Hooking uninitialized.
+[01:45:33.1648141][INFO/main.cpp:328] Fiber pool uninitialized.
+[01:45:33.1915893][INFO/main.cpp:331] Renderer uninitialized.
+[01:45:33.1920036][INFO/main.cpp:334] Byte Patch Manager uninitialized.
+[01:45:33.1920202][INFO/main.cpp:337] Pointers uninitialized.
+[01:45:33.1920300][INFO/main.cpp:340] Thread pool uninitialized.
+[01:45:33.1920341][INFO/main.cpp:342] Farewell!

@@ -1,0 +1,338 @@
+[23:15:26.8503597][INFO/main.cpp:159] Yim's Menu Initializing
+[23:15:26.8507426][INFO/main.cpp:160] Git Info
+	Branch:	master
+	Hash:	d737c01b333f349ff9d4803784fee1051ee93cb9
+	Date:	Tue Feb 20 18:29:02 2024
+[23:15:26.8509428][INFO/main.cpp:172] Windows 10 Home Version 22H2 (OS Build 19045.4046)
+[23:15:26.8593423][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[23:15:26.8595848][INFO/main.cpp:180] Thread pool initialized.
+[23:15:26.8766404][INFO/main.cpp:183] Settings Loaded.
+[23:15:26.8766443][DEBUG/thread_pool.cpp:96] Thread 10316 executing settings.cpp:12
+[23:15:26.8870929][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[23:15:26.8871363][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[23:15:26.8871391][INFO/pointers.cpp:1821] Pointers cache: Loading 215 fields from the cache
+[23:15:26.8871580][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[23:15:26.8947398][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[23:15:26.8947575][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[23:15:26.8947604][INFO/pointers.cpp:1821] Pointers cache: Loading 5 fields from the cache
+[23:15:26.8948114][INFO/main.cpp:186] Pointers initialized.
+[23:15:26.8948651][INFO/main.cpp:193] Disabled anticheat gameskeleton.
+[23:15:26.8951706][INFO/main.cpp:196] Byte Patch Manager initialized.
+[23:15:26.8994676][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF73A4B0000 Size: 67215872
+ntdll.dll Base Address: 0x7FFE6A470000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFE68D80000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFE68080000 Size: 1255936
+USER32.dll Base Address: 0x7FFE6A0C0000 Size: 584704
+win32u.dll Base Address: 0x7FFE68480000 Size: 42496
+GDI32.dll Base Address: 0x7FFE68D50000 Size: 57856
+gdi32full.dll Base Address: 0x7FFE67B80000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFE67D10000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFE68380000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFE69630000 Size: 2048
+WS2_32.dll Base Address: 0x7FFE6A050000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFE69E80000 Size: 923648
+CRYPT32.dll Base Address: 0x7FFE67E60000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFE67CA0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFE68560000 Size: 477184
+IMM32.dll Base Address: 0x7FFE69530000 Size: 125440
+VERSION.dll Base Address: 0x7FFE62760000 Size: 10752
+bcrypt.dll Base Address: 0x7FFE68050000 Size: 102912
+DSOUND.dll Base Address: 0x7FFE48B80000 Size: 380928
+SHLWAPI.dll Base Address: 0x7FFE68ED0000 Size: 182784
+advapi32.dll Base Address: 0x7FFE69570000 Size: 438784
+SHELL32.dll Base Address: 0x7FFE68600000 Size: 5806592
+sechost.dll Base Address: 0x7FFE69FB0000 Size: 421888
+ole32.dll Base Address: 0x7FFE68F40000 Size: 833024
+combase.dll Base Address: 0x7FFE691D0000 Size: 2328064
+OLEAUT32.dll Base Address: 0x7FFE69100000 Size: 608768
+WININET.dll Base Address: 0x7FFE3DEC0000 Size: 2019840
+WINMM.dll Base Address: 0x7FFE5F1D0000 Size: 81408
+MF.dll Base Address: 0x7FFE2E300000 Size: 340992
+MFPlat.DLL Base Address: 0x7FFE2E0A0000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFE67B30000 Size: 219136
+msdmo.dll Base Address: 0x7FFE53FF0000 Size: 13312
+shcore.dll Base Address: 0x7FFE684B0000 Size: 476672
+MFReadWrite.dll Base Address: 0x7FFE306E0000 Size: 918016
+PROPSYS.dll Base Address: 0x7FFE63430000 Size: 631296
+WTSAPI32.dll Base Address: 0x7FFE637C0000 Size: 37888
+d3d9.dll Base Address: 0x7FFE3B240000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFE26C40000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFE450E0000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFE69A10000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFE66F00000 Size: 166400
+powrprof.dll Base Address: 0x7FFE67280000 Size: 70656
+winmmbase.dll Base Address: 0x7FFE2E7B0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFE659C0000 Size: 16384
+dwmapi.dll Base Address: 0x7FFE656D0000 Size: 98816
+windows.storage.dll Base Address: 0x7FFE65BC0000 Size: 5845504
+Wldp.dll Base Address: 0x7FFE67480000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFE4C9C0000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFE16F30000 Size: 909312
+GLU32.dll Base Address: 0x7FFE16A80000 Size: 122880
+bink2w64.dll Base Address: 0x7FFE494D0000 Size: 307712
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFE24930000 Size: 96256
+MFCORE.DLL Base Address: 0x7FFE13C20000 Size: 3960320
+ksuser.dll Base Address: 0x7FFE3E3E0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFE673F0000 Size: 10752
+d3dx9_43.dll Base Address: 0x7FFDFA9C0000 Size: 2280960
+UMPDC.dll Base Address: 0x7FFE671F0000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFE67FC0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFE2E000000 Size: 105472
+MSASN1.dll Base Address: 0x7FFE67850000 Size: 34816
+inputhost.dll Base Address: 0x7FFE5BA00000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFE64FF0000 Size: 607744
+wintypes.dll Base Address: 0x7FFE63930000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFE64C90000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFE66C00000 Size: 140288
+dbghelp.dll Base Address: 0x7FFE614A0000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFE55390000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFE677D0000 Size: 46080
+uxtheme.dll Base Address: 0x7FFE65470000 Size: 382976
+rsaenh.dll Base Address: 0x7FFE66AE0000 Size: 142336
+clbcatq.dll Base Address: 0x7FFE6A380000 Size: 437760
+amsi.dll Base Address: 0x7FFE4C7C0000 Size: 62464
+USERENV.dll Base Address: 0x7FFE67A20000 Size: 108032
+profapi.dll Base Address: 0x7FFE67A60000 Size: 88064
+mbamsi64.dll Base Address: 0x7FFE23340000 Size: 2192384
+NETAPI32.dll Base Address: 0x7FFE56460000 Size: 47616
+MPR.dll Base Address: 0x7FFE56AF0000 Size: 71168
+AUTHZ.dll Base Address: 0x7FFE66810000 Size: 176640
+sfc.dll Base Address: 0x21730BC0000 Size: 0
+NETUTILS.DLL Base Address: 0x7FFE67070000 Size: 19456
+sfc_os.DLL Base Address: 0x7FFE52B20000 Size: 28672
+gpapi.dll Base Address: 0x7FFE66370000 Size: 69120
+imagehlp.dll Base Address: 0x7FFE690E0000 Size: 45056
+MpOav.dll Base Address: 0x7FFE417D0000 Size: 212992
+dxcore.dll Base Address: 0x7FFE5F3C0000 Size: 150016
+apphelp.dll Base Address: 0x7FFE65310000 Size: 319488
+wbemprox.dll Base Address: 0x7FFE534E0000 Size: 27648
+wbemcomn.dll Base Address: 0x7FFE56390000 Size: 328704
+wbemsvc.dll Base Address: 0x7FFE52B00000 Size: 7168
+fastprox.dll Base Address: 0x7FFE51E20000 Size: 708608
+D3D11.DLL Base Address: 0x7FFE63A90000 Size: 1853440
+dxgi.dll Base Address: 0x7FFE663A0000 Size: 614912
+DEVOBJ.dll Base Address: 0x7FFE678C0000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFE4B280000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFE565C0000 Size: 7680
+MSCTF.dll Base Address: 0x7FFE6A260000 Size: 864256
+textinputframework.dll Base Address: 0x7FFE5BB60000 Size: 722944
+WINSTA.dll Base Address: 0x7FFE66D70000 Size: 190976
+aticfx64.dll Base Address: 0x7FFE5F200000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFE5F190000 Size: 190464
+atidxx64.dll Base Address: 0x7FFE5D210000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFE5C7E0000 Size: 117248
+HID.DLL Base Address: 0x7FFE66360000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFE60CF0000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFE2A700000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFE610B0000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFE655D0000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFE5BC60000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFE61260000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFE60EA0000 Size: 1456640
+avrt.dll Base Address: 0x7FFE627A0000 Size: 5632
+napinsp.dll Base Address: 0x7FFE58DF0000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFE58540000 Size: 66048
+wshbth.dll Base Address: 0x7FFE583A0000 Size: 43008
+NLAapi.dll Base Address: 0x7FFE635D0000 Size: 68608
+mswsock.dll Base Address: 0x7FFE67210000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFE66F40000 Size: 600576
+NSI.dll Base Address: 0x7FFE68F30000 Size: 7680
+winrnr.dll Base Address: 0x7FFE54180000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFE5CC40000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFE5CC20000 Size: 7168
+cryptnet.dll Base Address: 0x7FFE4E9D0000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFE62790000 Size: 11776
+SspiCli.dll Base Address: 0x7FFE679E0000 Size: 123904
+socialclub.dll Base Address: 0x7FFE24D00000 Size: 2599424
+chrome_elf.dll Base Address: 0x7FFE407E0000 Size: 901120
+libcef.dll Base Address: 0x7FFDFB270000 Size: 151009280
+COMDLG32.dll Base Address: 0x7FFE69640000 Size: 684032
+OLEACC.dll Base Address: 0x7FFE39E10000 Size: 260608
+COMCTL32.dll Base Address: 0x7FFE4B010000 Size: 560128
+UIAutomationCore.DLL Base Address: 0x7FFE39600000 Size: 2040832
+Secur32.dll Base Address: 0x7FFE4D490000 Size: 11264
+DWrite.dll Base Address: 0x7FFE597C0000 Size: 1601024
+WINHTTP.dll Base Address: 0x7FFE60AE0000 Size: 845312
+WINSPOOL.DRV Base Address: 0x7FFE3EC10000 Size: 389632
+ncrypt.dll Base Address: 0x7FFE674F0000 Size: 102400
+urlmon.dll Base Address: 0x7FFE59C10000 Size: 1281536
+USP10.dll Base Address: 0x7FFE16630000 Size: 512
+dxva2.dll Base Address: 0x7FFE2DAE0000 Size: 96256
+wevtapi.dll Base Address: 0x7FFE62DA0000 Size: 296960
+credui.dll Base Address: 0x7FFE2FD10000 Size: 55808
+CRYPTUI.dll Base Address: 0x7FFE45D80000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFE624D0000 Size: 61440
+ESENT.dll Base Address: 0x7FFE4F340000 Size: 2585088
+iertutil.dll Base Address: 0x7FFE5A170000 Size: 551424
+srvcli.dll Base Address: 0x7FFE5B730000 Size: 54272
+DSROLE.DLL Base Address: 0x7FFE63530000 Size: 7680
+WKSCLI.DLL Base Address: 0x7FFE66C40000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFE54310000 Size: 61440
+NTASN1.dll Base Address: 0x7FFE674B0000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFE66700000 Size: 329728
+fwbase.dll Base Address: 0x7FFE66690000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFE58170000 Size: 205824
+wdmaud.drv Base Address: 0x7FFDF0400000 Size: 193024
+msacm32.drv Base Address: 0x7FFE44550000 Size: 17920
+MSACM32.dll Base Address: 0x7FFE31780000 Size: 74240
+midimap.dll Base Address: 0x7FFE30A20000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFE37F30000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFE62770000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFE15390000 Size: 9238016
+MSVCP140.dll Base Address: 0x7FFE391F0000 Size: 340480
+VCRUNTIME140.dll Base Address: 0x7FFE391D0000 Size: 73728
+MSVCP140_2.dll Base Address: 0x7FFE16AB0000 Size: 196096
+D3DCOMPILER_47.dll Base Address: 0x7FFE63D00000 Size: 3396608
+VCRUNTIME140_1.dll Base Address: 0x7FFE36600000 Size: 15360
+winbrand.dll Base Address: 0x7FFE4D2C0000 Size: 161280
+xinput1_4.dll Base Address: 0x7FFE4D500000 Size: 30208
+Dumping registers:
+RAX: 0x34
+RCX: 0x217D0D79A30
+RDX: 0x0
+RBX: 0x217409E8558
+RSI: 0x2186E79BFFF
+RDI: 0x2186EBCBE50
+RSP: 0x1BF5B2F4D0
+RBP: 0x1BF5B2F569
+R8:  0x7FF73D3A59A0
+R9:  0x21873EA0000
+R10: 0x2
+R11: 0x217409BF9F0
+R12: 0x8
+R13: 0x21873EDECE0
+R14: 0x217409E8530
+R15: 0x21740F78208
+Dumping stacktrace:
+[0]	GTA5.exe+0x161F988 0x7FF73BACF988
+[1]	GTA5.exe+0x16204CF 0x7FF73BAD04CF
+[2]	GTA5.exe+0xA59780 0x7FF73AF09780
+[3]	GTA5.exe+0x1620BB1 0x7FF73BAD0BB1
+[4]	GTA5.exe+0xA4DFC4 0x7FF73AEFDFC4
+[5]	GTA5.exe+0xA51880 0x7FF73AF01880
+[6]	GTA5.exe+0x162FA85 0x7FF73BADFA85
+[7]	GTA5.exe+0x162FA85 0x7FF73BADFA85
+[8]	GTA5.exe+0x162F2B7 0x7FF73BADF2B7
+[9]	GTA5.exe+0x27B94 0x7FF73A4D7B94
+[10]	GTA5.exe+0x21283 0x7FF73A4D1283
+[11]	GTA5.exe+0x162EEC0 0x7FF73BADEEC0
+[12]	GTA5.exe+0x1494 0x7FF73A4B1494
+[13]	GTA5.exe+0x130538F 0x7FF73B7B538F
+[14]	GTA5.exe+0x1821344 0x7FF73BCD1344
+[15]	KERNEL32.DLL BaseThreadInitThunk
+[16]	ntdll.dll RtlUserThreadStart
+--------End of exception--------
+
+[23:15:27.5199963][INFO/main.cpp:199] Renderer initialized.
+[23:15:27.8591323][INFO/main.cpp:203] Fiber pool initialized.
+[23:15:27.8714957][INFO/main.cpp:206] HTTP Client initialized.
+[23:15:28.1538233][INFO/main.cpp:209] Translation Service initialized.
+[23:15:28.1813758][INFO/main.cpp:212] Hooking initialized.
+[23:15:28.2138301][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[23:15:28.2138461][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[23:15:28.2143120][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[23:15:28.2146919][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[23:15:28.2146980][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[23:15:28.2147139][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[23:15:28.2320506][DEBUG/thread_pool.cpp:96] Thread 4332 executing player_database_service.cpp:285
+[23:15:28.2336245][INFO/main.cpp:233] Registered service instances...
+[23:15:28.2339349][INFO/main.cpp:254] Scripts registered.
+[23:15:28.3052144][INFO/main.cpp:257] Hooking enabled.
+[23:15:28.3087295][INFO/main.cpp:260] Dynamic native hooker initialized.
+[23:15:28.3097710][INFO/main.cpp:264] Lua manager initialized.
+[23:15:28.4492801][INFO/backend.cpp:53] Starting script: Self
+[23:15:28.4493270][INFO/backend.cpp:78] Starting script: Weapons
+[23:15:28.4496749][INFO/backend.cpp:101] Starting script: Vehicles
+[23:15:28.4497002][INFO/backend.cpp:117] Starting script: Miscellaneous
+[23:15:28.4501137][INFO/backend.cpp:138] Starting script: Remote
+[23:15:28.4501292][INFO/backend.cpp:153] Starting script: Ls customs
+[23:15:28.4501362][INFO/backend.cpp:165] Starting script: Rainbow paint
+[23:15:28.4501396][INFO/backend.cpp:177] Starting script: Disable Control Action
+[23:15:28.4501434][INFO/backend.cpp:190] Starting script: World
+[23:15:28.4774159][INFO/tunables_service.cpp:36] Loading tunables from cache
+[23:16:10.4355272][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[23:16:10.8415249][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[23:16:10.8415698][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[23:16:10.8416069][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[23:16:10.8506334][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[23:16:10.8508148][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[23:16:10.8508341][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[23:16:10.9796313][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[23:16:10.9796814][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[23:16:10.9797137][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[23:16:10.9797260][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[23:18:36.6834186][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[23:18:36.6834835][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[23:22:28.6292956][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":100,"type":2658791846,"cat":2113013421,"pt":3668717558,"slot":0
+[23:22:28.6295334][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-0.94,-658.90,16.12],"wantedlvl":5
+[23:22:28.6295956][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[11.10,-670.20,33.45],"wantedlvl":4
+[23:22:28.6296200][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[11.10,-670.20,33.45],"wantedlvl":3
+[23:22:28.6296386][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[11.10,-670.20,33.45],"name":353883353,"cd":[11,-670],"wlvl":3
+[23:24:24.3797592][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-162.83,-618.27,31.89],"name":353883353,"cd":[-162,-618],"wlvl":5
+[23:24:24.3798204][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-162.83,-618.27,31.89],"wantedlvl":5
+[23:29:28.8563222][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-127.34,-705.76,34.26],"name":353883353,"cd":[-127,-705],"wlvl":5
+[23:29:28.8563626][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2892279813,"cat":1924582434,"pt":3669049429,"slot":0
+[23:29:28.8564125][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[1116.47,402.60,83.01],"name":353883353,"cd":[1116,402],"wlvl":5
+[23:29:28.8564208][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2892279813,"cat":1924582434,"pt":3669109575,"slot":0
+[23:29:28.8564434][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[1920.04,1056.86,262.08],"name":353883353,"cd":[1920,1056],"wlvl":5
+[23:29:28.8564512][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[1950.74,1320.58,162.68],"name":353883353,"cd":[1950,1320],"wlvl":5
+[23:29:28.8564561][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2892279813,"cat":1924582434,"pt":3669169721,"slot":0
+[23:29:28.8565299][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2892279813,"cat":1924582434,"pt":3669229870,"slot":0
+[23:29:28.8565775][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[2305.41,1618.03,57.64],"wantedlvl":0
+[23:32:02.0963354][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":2544,"type":2658791846,"cat":2053762773,"pt":3669449078,"slot":0
+[23:32:02.0963634][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3669449078,"slot":0
+[23:32:02.0963699][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":210,"type":2435321038,"cat":2131309714,"pt":3669449078,"slot":0
+[23:32:07.6720837][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":270000,"char":{"slot":0,"cash":270000,"bank":128463383,"evc":128733383,"pvc":0,"pxr":0.00000,"nonce":638447599227946612},"c":[3323.94751,5167.02881,19.40860],"pt":3669449078,"vct":0,"vcp":0,"mid":0,"action":"FINALE","cat":"TUNER_ROB","ctx":{
+[23:32:07.6721323][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":270000,"char":{"slot":0,"cash":270000,"bank":128463383,"evc":128733383,"pvc":0,"pxr":0.00000,"nonce":638447599227946612},"c":[3323.94751,5167.02881,19.40860],"pt":3669449078,"vct":0,"vcp":0,"mid":0,"action":"FINALE","cat":"TUNER_ROB","ctx":{
+[23:37:14.4058925][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[23:37:14.4061847][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[23:37:14.4063288][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1975.03,2986.73,32.81],"wantedlvl":3
+[23:37:14.4063871][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1908.88,2604.56,238.84],"name":353883353,"cd":[-1908,2604],"wlvl":3
+[23:37:14.4064490][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-765.79,554.50,451.16],"wantedlvl":0
+[23:37:14.4065076][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[659.10,-706.63,97.04],"wantedlvl":1
+[23:42:14.4928391][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1357.88,167.23,-98.87],"wantedlvl":0
+[23:47:14.5934145][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":500,"type":2658791846,"cat":1814661405,"pt":3670322898,"slot":0
+[23:47:20.9447872][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60000,"char":{"slot":0,"cash":0,"bank":128733383,"evc":128733383,"pvc":0,"pxr":0.00000,"nonce":638447608358774462},"c":[-1162.18359,-1459.57227,4.24865],"pt":3670322898,"vct":0,"vcp":0,"mid":0,"action":"AUTOSHOP","cat":"BUSINESS","ctx":{
+[23:47:20.9448478][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60000,"char":{"slot":0,"cash":0,"bank":128733383,"evc":128733383,"pvc":0,"pxr":0.00000,"nonce":638447608358774462},"c":[-1162.18359,-1459.57227,4.24865],"pt":3670322898,"vct":0,"vcp":0,"mid":0,"action":"AUTOSHOP","cat":"BUSINESS","ctx":{
+[23:49:07.8760759][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":25,"char":{"slot":0,"cash":25,"bank":128733383,"evc":128733408,"pvc":0,"pxr":0.00000,"nonce":638447609428259903},"c":[-1155.43445,-1422.96191,4.77282],"pt":3670425196,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[23:49:07.8761315][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":25,"char":{"slot":0,"cash":25,"bank":128733383,"evc":128733408,"pvc":0,"pxr":0.00000,"nonce":638447609428259903},"c":[-1155.43445,-1422.96191,4.77282],"pt":3670425196,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[00:07:04.2872291][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-152.63,-1381.45,29.79],"wantedlvl":1
+[00:07:50.0535960][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":16800,"char":{"slot":0,"cash":16825,"bank":128697983,"evc":128714808,"pvc":0,"pxr":0.00000,"nonce":638447620649902256},"c":[1075.45776,-2284.00757,-46.59989],"pt":3670773448,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[00:07:50.0536439][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":16800,"char":{"slot":0,"cash":16825,"bank":128697983,"evc":128714808,"pvc":0,"pxr":0.00000,"nonce":638447620649902256},"c":[1075.45776,-2284.00757,-46.59989],"pt":3670773448,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[00:10:55.6961278][INFO/main.cpp:272] Scripts unregistered.
+[00:10:55.6964085][INFO/main.cpp:275] Lua manager uninitialized.
+[00:10:55.7523866][INFO/main.cpp:278] Hooking disabled.
+[00:10:55.7531849][INFO/main.cpp:281] Dynamic native hooker uninitialized.
+[00:10:55.7532243][DEBUG/thread_pool.cpp:109] Thread 10316 exiting...
+[00:10:55.7532870][DEBUG/thread_pool.cpp:109] Thread 4332 exiting...
+[00:10:55.7532855][DEBUG/thread_pool.cpp:109] Thread 17196 exiting...
+[00:10:55.7532821][DEBUG/thread_pool.cpp:109] Thread 19536 exiting...
+[00:10:55.7570661][INFO/main.cpp:286] Destroyed thread pool.
+[00:10:55.7570811][INFO/main.cpp:289] Script Connection Service reset.
+[00:10:55.7629777][INFO/main.cpp:291] Tunables Service reset.
+[00:10:55.7630132][INFO/main.cpp:293] Hotkey Service reset.
+[00:10:55.7630721][INFO/main.cpp:295] Matchmaking Service reset.
+[00:10:55.7639794][INFO/main.cpp:297] Player Database Service reset.
+[00:10:55.7639901][INFO/main.cpp:299] API Service reset.
+[00:10:55.7769852][INFO/main.cpp:301] Script Patcher Service reset.
+[00:10:55.7770293][INFO/main.cpp:303] Gui Service reset.
+[00:10:55.7810311][INFO/main.cpp:305] GTA Data Service reset.
+[00:10:55.7810483][INFO/main.cpp:307] Vehicle Service reset.
+[00:10:55.7814618][INFO/main.cpp:309] Model Preview Service reset.
+[00:10:55.7814689][INFO/main.cpp:311] Mobile Service reset.
+[00:10:55.7814722][INFO/main.cpp:313] Player Service reset.
+[00:10:55.7814742][INFO/main.cpp:315] Pickup Service reset.
+[00:10:55.7814780][INFO/main.cpp:317] Custom Text Service reset.
+[00:10:55.7818897][INFO/main.cpp:319] Context Service reset.
+[00:10:55.7818968][INFO/main.cpp:321] Xml Vehicles Service reset.
+[00:10:55.7818984][INFO/main.cpp:322] Services uninitialized.
+[00:10:55.7819604][INFO/main.cpp:325] Hooking uninitialized.
+[00:10:55.7819872][INFO/main.cpp:328] Fiber pool uninitialized.
+[00:10:55.8001053][INFO/main.cpp:331] Renderer uninitialized.
+[00:10:55.8005191][INFO/main.cpp:334] Byte Patch Manager uninitialized.
+[00:10:55.8007071][INFO/main.cpp:337] Pointers uninitialized.
+[00:10:55.8007180][INFO/main.cpp:340] Thread pool uninitialized.
+[00:10:55.8007205][INFO/main.cpp:342] Farewell!

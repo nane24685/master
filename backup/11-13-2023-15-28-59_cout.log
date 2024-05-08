@@ -1,0 +1,45 @@
+[23:28:50.3453156][INFO/main.cpp:65] Yim's Menu Initializing
+[23:28:50.3458588][INFO/main.cpp:66] Git Info
+	Branch:	master
+	Hash:	0de9182735fd952febe5fb9bd9f447502df64764
+	Date:	Mon Oct 23 23:33:01 2023
+[23:28:50.3458741][DEBUG/thread_pool.cpp:21] Resizing thread pool from 0 to 4
+[23:28:50.3461289][INFO/main.cpp:69] Thread pool initialized.
+[23:28:50.3515232][INFO/main.cpp:72] Settings Loaded.
+[23:28:50.3515281][DEBUG/thread_pool.cpp:95] Thread 8952 executing settings.cpp:12
+[23:28:50.3525484][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[23:28:50.3525654][INFO/pointers.cpp:1752] Loading pointers instance from cache
+[23:28:50.3525674][INFO/pointers.cpp:1761] Pointers cache: Loading 208 fields from the cache
+[23:28:50.3525801][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[23:28:50.3531472][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[23:28:50.3531518][INFO/pointers.cpp:1752] Loading pointers instance from cache
+[23:28:50.3531533][INFO/pointers.cpp:1761] Pointers cache: Loading 5 fields from the cache
+[23:28:50.3531832][INFO/main.cpp:75] Pointers initialized.
+[23:28:50.3534033][INFO/main.cpp:78] Byte Patch Manager initialized.
+[23:28:50.9827304][INFO/main.cpp:81] Renderer initialized.
+[23:28:51.2405682][INFO/main.cpp:85] Fiber pool initialized.
+[23:28:51.5346950][INFO/translation_service.cpp:39] Languages outdated, downloading new translations.
+[23:28:51.8827333][INFO/main.cpp:88] Translation Service initialized.
+[23:28:51.9098790][INFO/main.cpp:91] Hooking initialized.
+[23:28:51.9196108][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[23:28:51.9196193][INFO/gta_data_service.cpp:172] Loading 1029 peds from cache.
+[23:28:51.9200939][INFO/gta_data_service.cpp:190] Loading 810 vehicles from cache.
+[23:28:51.9204484][INFO/gta_data_service.cpp:207] Loading 117 weapons from cache.
+[23:28:51.9204541][INFO/gta_data_service.cpp:208] Loading 378 weapon components from cache.
+[23:28:51.9204742][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[23:28:51.9222299][DEBUG/thread_pool.cpp:95] Thread 5480 executing player_database_service.cpp:285
+[23:28:51.9230264][INFO/main.cpp:111] Registered service instances...
+[23:28:51.9232050][INFO/main.cpp:132] Scripts registered.
+[23:28:51.9664750][INFO/main.cpp:135] Hooking enabled.
+[23:28:51.9710926][INFO/main.cpp:138] Dynamic native hooker initialized.
+[23:28:51.9714439][INFO/main.cpp:141] Lua manager initialized.
+[23:28:59.3825287][INFO/backend.cpp:51] Starting script: Self
+[23:28:59.3825495][INFO/backend.cpp:76] Starting script: Weapons
+[23:28:59.3825677][INFO/backend.cpp:99] Starting script: Vehicles
+[23:28:59.3825808][INFO/backend.cpp:115] Starting script: Miscellaneous
+[23:28:59.3826099][INFO/backend.cpp:136] Starting script: Remote
+[23:28:59.3826138][INFO/backend.cpp:151] Starting script: Ls customs
+[23:28:59.3826165][INFO/backend.cpp:163] Starting script: Rainbow paint
+[23:28:59.3826209][INFO/backend.cpp:175] Starting script: Disable Control Action
+[23:28:59.3826258][INFO/backend.cpp:188] Starting script: World
+[23:28:59.3926635][INFO/tunables_service.cpp:36] Loading tunables from cache

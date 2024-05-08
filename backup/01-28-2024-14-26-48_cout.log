@@ -1,0 +1,1057 @@
+[20:32:36.4443540][INFO/main.cpp:104] Yim's Menu Initializing
+[20:32:36.4456789][INFO/main.cpp:105] Git Info
+	Branch:	master
+	Hash:	e005640c7515cf4c396fbaecc9fc9b0e3001c4f0
+	Date:	Wed Jan 17 11:08:35 2024
+[20:32:36.4457100][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[20:32:36.4462424][INFO/main.cpp:108] Thread pool initialized.
+[20:32:36.4629505][INFO/main.cpp:111] Settings Loaded.
+[20:32:36.4629606][DEBUG/thread_pool.cpp:96] Thread 17484 executing settings.cpp:12
+[20:32:36.4759611][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[20:32:36.4760099][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[20:32:36.4760124][INFO/pointers.cpp:1813] Pointers cache: Loading 215 fields from the cache
+[20:32:36.4760325][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[20:32:36.4832381][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[20:32:36.4832554][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[20:32:36.4832580][INFO/pointers.cpp:1813] Pointers cache: Loading 5 fields from the cache
+[20:32:36.4833029][INFO/main.cpp:114] Pointers initialized.
+[20:32:36.4833360][INFO/main.cpp:121] Disabled anticheat gameskeleton.
+[20:32:36.4841265][INFO/main.cpp:124] Byte Patch Manager initialized.
+[20:32:37.1432901][INFO/main.cpp:127] Renderer initialized.
+[20:32:37.4380266][INFO/main.cpp:131] Fiber pool initialized.
+[20:32:37.4487075][INFO/main.cpp:134] HTTP Client initialized.
+[20:32:37.7132021][INFO/translation_service.cpp:38] Languages outdated, downloading new translations.
+[20:32:37.8131422][INFO/main.cpp:137] Translation Service initialized.
+[20:32:37.8510134][INFO/main.cpp:140] Hooking initialized.
+[20:32:37.8862096][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[20:32:37.8862346][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[20:32:37.8868608][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[20:32:37.8888039][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[20:32:37.8888348][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[20:32:37.8888784][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[20:32:37.9023323][DEBUG/thread_pool.cpp:96] Thread 5096 executing player_database_service.cpp:285
+[20:32:37.9033328][INFO/main.cpp:161] Registered service instances...
+[20:32:37.9035745][INFO/main.cpp:182] Scripts registered.
+[20:32:37.9889869][INFO/main.cpp:185] Hooking enabled.
+[20:32:37.9922657][INFO/main.cpp:188] Dynamic native hooker initialized.
+[20:32:37.9934249][INFO/main.cpp:192] Lua manager initialized.
+[20:32:38.0990275][INFO/backend.cpp:53] Starting script: Self
+[20:32:38.0990586][INFO/backend.cpp:78] Starting script: Weapons
+[20:32:38.0993363][INFO/backend.cpp:101] Starting script: Vehicles
+[20:32:38.0993539][INFO/backend.cpp:117] Starting script: Miscellaneous
+[20:32:38.0994107][INFO/backend.cpp:138] Starting script: Remote
+[20:32:38.0994348][INFO/backend.cpp:153] Starting script: Ls customs
+[20:32:38.0994397][INFO/backend.cpp:165] Starting script: Rainbow paint
+[20:32:38.0994418][INFO/backend.cpp:177] Starting script: Disable Control Action
+[20:32:38.0994451][INFO/backend.cpp:190] Starting script: World
+[20:32:38.1319378][INFO/tunables_service.cpp:36] Loading tunables from cache
+[20:32:57.5568335][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[20:35:15.5394111][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[20:35:15.5555786][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[20:35:15.5556443][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[20:35:15.5585113][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[20:35:15.5585385][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[20:35:15.5585576][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[20:35:15.5585644][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[20:35:15.5737323][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[20:35:15.5737687][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[20:35:15.5738651][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[20:35:15.5838156][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[20:35:15.5842919][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[20:35:15.5843031][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[20:35:21.4818866][WARN/reaction.cpp:60] Received Spectate from -Loe777- (201446963)
+[20:35:22.3812298][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.3813117][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.4233403][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.4234012][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.4235371][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.5052283][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.5052783][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.5054133][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.5428858][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.5429696][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.5888462][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.5889298][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.5889532][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.6258435][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.6259063][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.7115717][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.7116998][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.7120468][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.7489887][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.7491728][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.7962099][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.7962665][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.7962814][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.8358867][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.8361068][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.8361788][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.8765646][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.8766500][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.9545559][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.9546013][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.9546407][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.9957071][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.9958078][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:22.9958329][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.0363802][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.0364278][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.1068938][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.1069967][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.1074310][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.1489241][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.1489888][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.1490282][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.1920372][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.1922298][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.1923816][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.2741457][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.2741924][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.2753731][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.2754221][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.2755155][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.3566002][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.3566447][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.3566999][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.3975200][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.3975834][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.4395553][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.4396663][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.4397122][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.4813195][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.4813539][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.4814933][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.5626989][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.5629205][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.5629614][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.6049716][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.6050142][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.6473221][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.6475616][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.6476584][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.6879380][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.6881552][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.6882130][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.7296277][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.7301521][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.8129277][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.8133176][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.8133904][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.8512871][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.8515452][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.8516324][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.8972903][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.8973257][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.8974676][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.9412359][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.9412819][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.9413837][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.9849167][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:23.9849821][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.0277947][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.0278645][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.0278774][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.1096799][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.1099440][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.1100553][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.1534210][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.1534621][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.1534755][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.1956094][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.1957860][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.2357175][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.2357768][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.2358135][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.3188056][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.3189119][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.3193493][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.3587445][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.3588181][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.3588650][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.3954547][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.3955083][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.3955591][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.4313697][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.4314710][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.4314877][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.5036110][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.5036782][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.5394042][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.5394611][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.5396240][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.5820060][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.5823133][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.5823564][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.6622601][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.6623076][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.6623664][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.7016703][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.7017331][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.7019044][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.7428162][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.7430321][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.7445568][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.7840189][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.7840739][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.8615374][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.8616801][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.8617228][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.9009803][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.9010511][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:24.9011544][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:26.7578475][WARN/notify.hpp:67] Blocked remove unarmed crash from -Loe777- (201446963)
+[20:35:27.2982729][WARN/notify.hpp:67] Blocked remove unarmed crash from -Loe777- (201446963)
+[20:35:27.4720785][WARN/notify.hpp:67] Blocked remove unarmed crash from -Loe777- (201446963)
+[20:35:30.1936386][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.2346740][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.2347219][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.2743781][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.2744975][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.2745090][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.3172221][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.3172739][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.3172920][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.4055909][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.4057689][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.4487918][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.4490723][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.4492055][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.5002996][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.5003636][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.5009031][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.5397206][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.5401261][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.5401816][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.5933278][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.5934203][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.6312927][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.6314142][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.6315090][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.6823907][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.6824867][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.6825058][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.7224637][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.7225135][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.7753972][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.7754408][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.7754853][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.8152145][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.8156659][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.9054623][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.9057249][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.9058763][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.9448966][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.9450683][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.9912810][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.9914449][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:30.9915056][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.0365168][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.0366052][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.0801635][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.0802774][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.0803265][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.1246160][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.1266211][WARN/reaction.cpp:60] Received Modder Detection from -Loe777- (201446963)
+[20:35:31.1267413][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.1269338][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.1716211][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.1717411][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.2630460][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.2631271][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.2631904][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.3104588][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.3107153][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.3108493][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.3621407][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.3622551][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.4091172][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:31.4094693][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:34.4550157][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[58.03,347.62,162.46],"wantedlvl":1
+[20:35:43.6642128][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.7288808][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.7298559][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.7313197][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.7934032][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.7942021][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.8423321][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.8423993][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.8430324][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.8767078][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.8771250][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.9390030][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.9392987][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:43.9406350][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.0044107][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.0047272][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.0368438][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.0371097][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.0372311][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.1334510][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.1337793][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.1341199][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.1362702][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.1364041][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.1850574][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.1853477][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.1854306][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.2478148][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.2479107][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.2479631][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.2819872][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.2820852][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.2821398][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.2828409][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.3322750][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.3326408][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.3956046][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.3956569][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.3964720][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.4593275][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.4595967][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.4606488][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.4912662][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.4914464][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.4915158][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.5566069][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.5567186][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.5568468][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.5896369][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.5897731][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.5898220][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.6538658][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.6539475][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.6541623][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.6863019][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.6864793][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.6865363][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.6865810][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.7502767][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.7506363][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.7506966][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.7826605][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.7827833][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.7828291][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.8472959][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.8473660][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.8474058][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.8793296][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.8793827][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.8802654][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.8803103][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.9443708][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:44.9453418][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.0091968][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.0095694][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.0099070][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.0416457][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.0419099][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.0427467][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.1063208][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.1065071][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.1562790][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.1563543][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.1565491][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.1953237][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.1958747][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.1959247][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.2716137][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.2716741][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.2719572][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.3133104][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.3136104][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.3136972][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.3490838][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.3491547][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.3494156][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.3878512][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.3881901][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.4623848][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.4627445][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.4632010][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.4973130][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.4976363][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.4976901][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.5354099][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.5354560][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.5361784][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.6084403][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.6087421][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.6087928][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.6438759][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.6439429][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.6440189][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.7164590][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.7165336][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.7165607][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.7527708][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.7528406][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.7913673][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.7914436][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.7914850][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.8625000][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.8626060][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.8626716][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.8988229][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.8990863][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.9359870][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.9360440][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:45.9360693][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.0090396][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.0094126][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.0096956][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.0444216][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.0444890][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.0445239][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.0862701][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[397.62,210.62,103.06],"wantedlvl":0
+[20:35:46.0863271][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13445347,"type":3136273443,"cat":654913086,"pt":3342721213,"slot":0
+[20:35:46.1186718][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.1187566][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.1188006][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.1555255][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.1556093][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.1556542][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.1913910][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.1914398][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.1914677][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.2644913][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.2645655][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.2646045][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.2995309][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.2996788][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.2997138][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.3375801][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.3376390][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.4106174][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.4106805][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.4108204][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.4479789][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.4480475][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.4480872][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.5189436][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.5204508][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.5205675][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.5548229][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.5549324][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.5549849][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.5915254][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.5917906][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.5918648][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.6659350][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.6660488][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.6660903][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.7029753][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.7030890][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.7031282][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.7413423][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.7414324][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.7414803][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.8130917][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.8132052][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.8134603][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.8486458][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.8488728][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.8489014][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.9206412][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.9207173][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.9207622][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.9572397][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.9573220][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.9573664][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.9939540][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.9940792][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:46.9941259][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.0716481][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.0717392][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.0717950][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.1110596][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.1112054][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.1129723][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.1510271][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.1511191][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.1511629][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.1920426][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.1924796][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.1927215][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.2654557][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.2658941][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.2659779][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.3141191][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.3142719][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.3143337][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.3532554][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.3533477][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:47.3534110][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.2426933][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.3063538][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.3064260][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.3071538][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.3401016][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.3406055][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.3406638][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.4039075][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.4039887][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.4364662][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.4365309][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.4365572][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.5011723][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.5012780][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.5013529][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.5337294][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.5338465][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.5338887][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.5948701][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.5951381][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.5952098][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.6624323][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.6625264][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.6626994][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.6627283][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.6627995][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.6628221][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7017636][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7018872][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7019134][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7019494][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7020634][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7021036][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7389236][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7390277][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7390999][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.7391446][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8155221][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8156238][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8156378][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8156566][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8157773][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8158103][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8534754][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8535567][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8535821][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8536041][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8536371][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8536585][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8976679][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8977455][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8977735][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8977958][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8978074][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.8978254][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.9411910][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.9412832][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.9413257][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:58.9413534][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0203622][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0204493][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0206488][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0207229][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0207986][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0579319][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0580204][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0580597][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0972177][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0973134][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.0975604][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.1712320][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.1714404][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.1714824][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.2089738][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.2092888][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.2478803][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.2479427][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.2479676][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.2852998][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.2854687][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.2854964][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.3618088][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.3618823][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.3619394][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.3983475][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.3984016][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.4379082][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.4379891][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.4382513][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.5140182][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.5141018][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.5141532][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.5503435][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.5504052][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.5894593][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.5895179][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.5895435][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.6652305][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.6653046][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.7007752][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.7012593][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.7402074][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.7402785][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.8151634][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.8523268][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.8525235][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.8901642][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.9648786][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:35:59.9649457][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.0029202][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.0421293][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.0423163][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.1174744][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.1541676][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.1543315][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.1949164][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.1949929][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.2683883][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.3062542][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.3063372][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.3455286][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.3456949][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.4236648][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.4237322][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.4607725][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.4994077][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.4994795][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.5757674][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.5758602][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.6154352][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.6156008][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.6562039][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.6562755][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.6949833][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.6951051][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.7860740][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.8313420][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.8314159][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.8752733][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.8753465][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:00.9234209][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13445347,"type":3136273443,"cat":654913086,"pt":3342725303,"slot":0
+[20:36:04.9143999][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 21632. Trying to free some memory
+[20:36:04.9145078][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31536. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9145337][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9145523][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9145808][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9146105][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9146346][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9146535][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9146840][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9147134][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9147351][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9147564][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9148174][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31168. Trying to free some memory
+[20:36:04.9148538][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31168. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9148994][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9149409][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9149765][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9150014][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9150221][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9150405][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9150581][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9150764][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9150986][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31584. Trying to free some memory
+[20:36:04.9151509][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 31584. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:04.9160560][WARN/reaction.cpp:60] Received Modder Detection from -Loe777- (201446963)
+[20:36:05.0135518][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:36:05.1569359][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:36:05.1570927][WARN/reaction.cpp:60] Received Null Function Kick from -Loe777- (201446963)
+[20:36:06.5183845][WARN/reaction.cpp:60] Received Null Function Kick from -Loe777- (201446963)
+[20:36:06.6638904][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:36:09.9359736][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:36:12.6215428][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.6543938][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.6547063][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.6547643][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.7205830][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.7207478][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.7209768][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.7532550][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.7533419][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.8346216][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.8346969][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.8347300][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.8659208][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.8659983][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.8660803][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.8989961][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.8990917][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.9479588][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.9480244][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:12.9480718][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.0112547][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.0117234][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.0764601][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.0765161][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.0765670][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.1206211][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.1207561][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.1208295][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.1587635][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.1588744][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.2005405][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.2006692][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.2008677][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.2727572][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.2728525][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.2731197][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.3132555][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.3133307][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.3554076][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.3554638][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.3555032][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.3957933][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.3958918][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.3960735][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.4773893][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.4774622][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.4775269][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.5154893][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.5155915][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.5559413][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.5560358][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.5560971][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.6309620][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.6310326][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.6311227][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.6685037][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.6685891][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.6686482][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.7091843][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.7092625][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.7093491][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.7465018][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.7465723][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.8260516][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.8261195][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.8261625][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.8636632][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.8637659][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.8638380][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.9046637][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.9049306][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.9049824][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.9793951][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:13.9794529][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.0175195][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.0175956][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.0176726][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.0558332][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.0559374][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.0559796][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.1331779][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.1332538][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.1332942][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.1712460][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.1713263][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.1716372][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.2098488][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.2100978][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.2101599][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.2861919][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.2862584][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.3247376][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.3247964][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.3248453][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.3638099][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.3638826][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.3639236][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.4019792][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.4020488][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.4020887][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.4789707][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.4790268][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.4790521][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.5184242][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.5184961][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.5562122][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.5562656][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.5562938][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.6353988][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.6354712][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.6355111][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.6729496][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.6731698][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.6731979][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.7124384][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.7125091][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.7125491][WARN/reaction.cpp:60] Received Remote Ragdoll from -Loe777- (201446963)
+[20:36:14.7841944][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13445347,"type":3136273443,"cat":654913086,"pt":3342727985,"slot":0
+[20:36:15.0305612][DEBUG/script_function.cpp:35] Found pattern RSD in script PauseMenu_Multiplayer
+[20:36:46.7349660][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[20:36:55.1604710][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13445347,"type":3136273443,"cat":654913086,"pt":3342753965,"slot":0
+[20:36:56.5282753][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 27664. Trying to free some memory
+[20:36:56.5284534][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29424. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5284849][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29472. Trying to free some memory
+[20:36:56.5285042][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5285311][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29232. Trying to free some memory
+[20:36:56.5285512][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5285714][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29472. Trying to free some memory
+[20:36:56.5285892][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5286097][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29472. Trying to free some memory
+[20:36:56.5286278][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5286473][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29472. Trying to free some memory
+[20:36:56.5286654][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5287402][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29056. Trying to free some memory
+[20:36:56.5287725][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29056. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5288060][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29472. Trying to free some memory
+[20:36:56.5288269][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5288452][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29472. Trying to free some memory
+[20:36:56.5288642][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5288844][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29472. Trying to free some memory
+[20:36:56.5289028][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5289199][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29472. Trying to free some memory
+[20:36:56.5289386][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.5289609][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 29472. Trying to free some memory
+[20:36:56.5289800][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 29472. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:36:56.6952825][WARN/reaction.cpp:60] Received Null Function Kick from -Loe777- (201446963)
+[20:37:22.7283498][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 31376. Trying to free some memory
+[20:37:22.7284510][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7284772][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7284961][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7285182][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7285360][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7285558][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7285735][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7285940][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7286118][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7286314][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7286491][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7286815][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 32704. Trying to free some memory
+[20:37:22.7287021][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 32704. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7287231][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7287411][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7287702][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7288162][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7288494][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7288899][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7289539][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7289806][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.7290043][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 33120. Trying to free some memory
+[20:37:22.7290226][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 33120. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:37:22.9599062][WARN/reaction.cpp:60] Received Null Function Kick from -Loe777- (201446963)
+[20:37:32.5604597][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[20:37:38.8165097][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13445347,"type":3136273443,"cat":654913086,"pt":3342800273,"slot":0
+[20:39:25.7189942][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[20:39:25.7191320][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13445347,"type":3136273443,"cat":654913086,"pt":3342880138,"slot":0
+[20:39:32.7506523][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 78761574","b":959275690,"c":401263359,"d":[491.00,277.83,103.04],"e":[1148.07,269.85,-180.00],"f":-3497796576444043309,"g":1224752068696886679,"h":1164726040,"i":1104331669,"et":35590194,"es":1386042463,"ep":47861,"ec":true,"n":1444,"op":[1105.64
+[20:40:07.6631491][DEBUG/thread_pool.cpp:96] Thread 8948 executing view_player_database.cpp:231
+[20:41:09.6718242][WARN/reaction.cpp:60] Received Modder Detection from nesko91290 (237612185)
+[20:41:17.1530934][WARN/interloper_reaction.cpp:30] Received Spectate Others from nesko91290 (237612185), victim is Leon_Crafter
+[20:41:20.2245852][WARN/interloper_reaction.cpp:30] Received Spectate Others from nesko91290 (237612185), victim is Damianeqzebra206
+[20:41:24.2904145][WARN/interloper_reaction.cpp:30] Received Spectate Others from nesko91290 (237612185), victim is HeavyBru
+[20:41:26.2788858][WARN/interloper_reaction.cpp:30] Received Spectate Others from nesko91290 (237612185), victim is Leon_Crafter
+[20:41:29.3279096][WARN/interloper_reaction.cpp:30] Received Spectate Others from nesko91290 (237612185), victim is -Loe777-
+[20:41:42.0026273][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[20:41:42.0028104][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13445347,"type":3136273443,"cat":654913086,"pt":3343004383,"slot":0
+[20:41:59.2668183][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 32800. Trying to free some memory
+[20:41:59.2669438][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38704. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2669719][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2669910][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2670128][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2670310][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2670507][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2670688][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2670900][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2671085][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2671282][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2671459][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2671793][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38304. Trying to free some memory
+[20:41:59.2671995][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38304. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2672253][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2672596][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2673197][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2673654][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2674116][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2674460][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2674693][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2674890][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.2675114][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 38720. Trying to free some memory
+[20:41:59.2675301][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 38720. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:41:59.4491499][WARN/reaction.cpp:60] Received Null Function Kick from -Loe777- (201446963)
+[20:41:59.8492067][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:42:04.8674764][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:42:04.9795459][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:42:33.8521322][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 34240. Trying to free some memory
+[20:42:33.8522709][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8523080][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8523358][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8523807][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8524136][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8524441][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8524780][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8525122][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8525419][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8525753][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8526107][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8526788][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 35696. Trying to free some memory
+[20:42:33.8527195][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 35696. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8527649][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8528022][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8528255][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8528445][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8528642][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8528832][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8528999][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8529184][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:33.8529389][WARN/allocate_memory_reliable.cpp:35] Failed to allocate 910 bytes for reliable message, free space: 36112. Trying to free some memory
+[20:42:33.8529568][WARN/allocate_memory_reliable.cpp:45] Failed to allocate 910 bytes for reliable message, free space: 36112. Failed to free some memory, clearing all messages (including reliables) for connection
+[20:42:34.0270100][WARN/reaction.cpp:60] Received Null Function Kick from -Loe777- (201446963)
+[20:42:37.2903914][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:42:37.3391636][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:42:37.4485559][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:42:39.3800350][WARN/reaction.cpp:60] Received End Session Kick from -Loe777- (201446963)
+[20:42:43.6719566][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[20:42:51.7905438][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13445347,"type":3136273443,"cat":654913086,"pt":3343060021,"slot":0
+[20:44:56.8814135][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[20:45:06.3124481][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13445347,"type":3136273443,"cat":654913086,"pt":3343180379,"slot":0
+[20:45:24.7450403][WARN/reaction.cpp:60] Received Modder Detection from WubbaSchlab (196704181)
+[20:50:17.2786411][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":36400,"char":{"slot":0,"cash":51930,"bank":111151203,"evc":111203133,"pvc":0,"pxr":0.00000,"nonce":638420718158901876},"c":[198.79788,-166.46071,56.31853],"pt":3343475185,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[20:50:17.2786930][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":36400,"char":{"slot":0,"cash":51930,"bank":111151203,"evc":111203133,"pvc":0,"pxr":0.00000,"nonce":638420718158901876},"c":[198.79788,-166.46071,56.31853],"pt":3343475185,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[20:50:24.5186736][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20700,"char":{"slot":0,"cash":72630,"bank":111151203,"evc":111223833,"pvc":0,"pxr":0.00000,"nonce":638420718192894500},"c":[198.79788,-166.46071,56.31853],"pt":3343475185,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":2
+[20:50:24.5187309][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20700,"char":{"slot":0,"cash":72630,"bank":111151203,"evc":111223833,"pvc":0,"pxr":0.00000,"nonce":638420718192894500},"c":[198.79788,-166.46071,56.31853],"pt":3343475185,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":2
+[20:50:29.7464197][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15650,"char":{"slot":0,"cash":102280,"bank":111151203,"evc":111253483,"pvc":0,"pxr":0.00000,"nonce":638420718245918458},"c":[198.79788,-166.46071,56.31853],"pt":3343485192,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[20:50:29.7464759][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15650,"char":{"slot":0,"cash":102280,"bank":111151203,"evc":111253483,"pvc":0,"pxr":0.00000,"nonce":638420718245918458},"c":[198.79788,-166.46071,56.31853],"pt":3343485192,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[20:52:47.2759134][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":480050,"char":{"slot":0,"cash":0,"bank":111733446,"evc":111733446,"pvc":0,"pxr":0.00000,"nonce":638420719620557632},"c":[730.30273,-1088.41833,21.52867],"pt":3343615360,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[20:52:47.2759727][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":480050,"char":{"slot":0,"cash":0,"bank":111733446,"evc":111733446,"pvc":0,"pxr":0.00000,"nonce":638420719620557632},"c":[730.30273,-1088.41833,21.52867],"pt":3343615360,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[21:00:13.6866286][WARN/reaction.cpp:60] Received Modder Detection from GER_Rain (145258170)
+[21:02:58.6973953][WARN/reaction.cpp:60] Received Modder Detection from ThepuG96 (142259420)
+[21:12:32.2578192][WARN/reaction.cpp:60] Received Vehicle Kick from ProfessorJeebus (135167076)
+[21:12:33.2549333][WARN/reaction.cpp:60] Received Vehicle Kick from ProfessorJeebus (135167076)
+[21:12:34.2881008][WARN/reaction.cpp:60] Received Vehicle Kick from ProfessorJeebus (135167076)
+[21:12:34.9089421][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:35.0838578][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:35.2124249][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:35.3803498][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:35.5491095][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:35.7601318][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:35.9288671][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:36.0929786][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:36.2578871][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:36.4673403][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:36.6423525][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:36.8172554][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:37.0183896][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:37.2352921][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:37.4064657][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:37.5340516][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:37.7356635][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:37.9378125][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:38.0967038][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:12:38.2965284][WARN/reaction.cpp:60] Received Request Control Event from ProfessorJeebus (135167076)
+[21:13:55.9572965][WARN/reaction.cpp:60] Received Remote Ragdoll from ProfessorJeebus (135167076)
+[21:16:47.0144439][WARN/reaction.cpp:60] Received Modder Detection from ButRacecar (242265131)
+[21:17:34.8930896][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":0,"bank":111753446,"evc":111753446,"pvc":0,"pxr":0.00000,"nonce":638420734496746000},"c":[-151.06860,-298.44699,39.43093],"pt":3345088340,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"fm_content
+[21:17:34.8931353][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":0,"bank":111753446,"evc":111753446,"pvc":0,"pxr":0.00000,"nonce":638420734496746000},"c":[-151.06860,-298.44699,39.43093],"pt":3345088340,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"fm_content
+[21:18:11.2518523][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-247.02,-314.94,21.66],"wantedlvl":1
+[21:18:11.2519445][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":2500,"type":2658791846,"cat":404533672,"pt":3345088340,"slot":0
+[21:18:11.2520057][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-151.07,-298.45,39.43],"wantedlvl":2
+[21:18:11.2520432][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-151.07,-298.45,39.43],"wantedlvl":3
+[21:18:11.2520600][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-115.67,-261.74,43.46],"name":353883353,"cd":[-115,-261],"wlvl":3
+[21:21:33.4242754][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[407.32,-767.15,29.15],"name":353883353,"cd":[407,-767],"wlvl":3
+[21:21:33.4243243][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-229.35,-988.39,29.15],"wantedlvl":0
+[21:23:03.8062658][WARN/interloper_reaction.cpp:30] Received Spectate Others from form777666 (79470692), victim is Pitrusss_
+[21:23:05.4157091][WARN/interloper_reaction.cpp:30] Received Spectate Others from form777666 (79470692), victim is Dokkon15
+[21:24:31.6572542][WARN/interloper_reaction.cpp:30] Received Spectate Others from form777666 (79470692), victim is ProfessorJeebus
+[21:25:28.2384031][WARN/interloper_reaction.cpp:30] Received Spectate Others from form777666 (79470692), victim is Operator_Olix
+[21:27:16.4235610][WARN/reaction.cpp:60] Received Modder Detection from form777666 (79470692)
+[21:30:28.7311229][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13447847,"type":3136273443,"cat":654913086,"pt":3345831329,"slot":0
+[21:30:52.3160314][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13447847,"type":3136273443,"cat":654913086,"pt":3345843241,"slot":0
+[21:31:29.9454292][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13447847,"type":3136273443,"cat":654913086,"pt":3345869208,"slot":0
+[21:33:05.5555823][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13447847,"type":3136273443,"cat":654913086,"pt":3345889230,"slot":0
+[21:36:38.1007672][WARN/reaction.cpp:60] Received Modder Detection from Bulletsps4 (175435911)
+[21:37:20.2749500][WARN/reaction.cpp:60] Received Modder Detection from frksdmnk (235818844)
+[21:37:31.9945152][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[21:37:52.3754242][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13447847,"type":3136273443,"cat":654913086,"pt":3346101411,"slot":0
+[21:56:07.0468498][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":7007,"char":{"slot":0,"cash":0,"bank":111703938,"evc":111703938,"pvc":0,"pxr":0.00000,"nonce":638420757617853380},"c":[488.48547,-1542.36597,29.27909],"pt":3347142842,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"RANDOM_EVEN
+[21:56:07.0469008][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":7007,"char":{"slot":0,"cash":0,"bank":111703938,"evc":111703938,"pvc":0,"pxr":0.00000,"nonce":638420757617853380},"c":[488.48547,-1542.36597,29.27909],"pt":3347142842,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"RANDOM_EVEN
+[21:59:22.1674517][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":70000,"char":{"slot":0,"cash":70000,"bank":111703938,"evc":111773938,"pvc":0,"pxr":0.00000,"nonce":638420759567633077},"c":[-1616.11914,-3016.04883,-75.20506],"pt":3347332531,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[21:59:22.1675188][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":70000,"char":{"slot":0,"cash":70000,"bank":111703938,"evc":111773938,"pvc":0,"pxr":0.00000,"nonce":638420759567633077},"c":[-1616.11914,-3016.04883,-75.20506],"pt":3347332531,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[22:03:28.1245926][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-865.21,-1181.94,5.44],"wantedlvl":1
+[22:03:28.1246620][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-632.84,-841.87,24.26],"wantedlvl":2
+[22:03:28.1248588][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[4.28,-275.34,46.72],"wantedlvl":3
+[22:03:28.1248705][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[500.12,-348.72,43.47],"name":353883353,"cd":[500,-348],"wlvl":3
+[22:03:28.1249010][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[728.79,-464.60,36.72],"wantedlvl":2
+[22:03:28.1249211][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[757.70,-501.59,35.20],"wantedlvl":3
+[22:03:28.1250015][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-15.84,-1304.19,29.21],"name":353883353,"cd":[-15,-1304],"wlvl":3
+[22:03:28.1250338][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[1098.91,-2266.04,-49.00],"wantedlvl":0
+[22:03:47.5818792][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":24000,"char":{"slot":0,"cash":94000,"bank":111703938,"evc":111797938,"pvc":0,"pxr":0.00000,"nonce":638420762222638537},"c":[1075.45776,-2284.00757,-46.59989],"pt":3347580448,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[22:03:47.5819452][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":24000,"char":{"slot":0,"cash":94000,"bank":111703938,"evc":111797938,"pvc":0,"pxr":0.00000,"nonce":638420762222638537},"c":[1075.45776,-2284.00757,-46.59989],"pt":3347580448,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[22:09:02.2861289][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:02.5240167][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:02.7302261][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:03.0846842][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:03.7851881][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:21.2061251][WARN/reaction.cpp:60] Received Remote Ragdoll from Bulletsps4 (175435911)
+[22:09:21.3786880][WARN/reaction.cpp:60] Received Remote Ragdoll from JacusRakietaPL (40336945)
+[22:09:21.4666962][WARN/reaction.cpp:60] Received Remote Ragdoll from Bulletsps4 (175435911)
+[22:09:21.5084976][WARN/reaction.cpp:60] Received Remote Ragdoll from kingofdoom11 (62926903)
+[22:09:21.5999142][WARN/reaction.cpp:60] Received Remote Ragdoll from JacusRakietaPL (40336945)
+[22:09:21.6926752][WARN/reaction.cpp:60] Received Remote Ragdoll from kingofdoom11 (62926903)
+[22:09:21.9265802][WARN/reaction.cpp:60] Received Remote Ragdoll from kingofdoom11 (62926903)
+[22:09:22.1625151][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:22.3562164][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:22.5468853][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:22.8964398][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:23.1318220][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:23.3809737][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:24.8343408][WARN/reaction.cpp:60] Received Remote Ragdoll from JacusRakietaPL (40336945)
+[22:09:25.0432169][WARN/reaction.cpp:60] Received Remote Ragdoll from JacusRakietaPL (40336945)
+[22:09:25.2428204][WARN/reaction.cpp:60] Received Remote Ragdoll from JacusRakietaPL (40336945)
+[22:09:28.1028198][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:29.6533931][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:31.5741965][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:31.6273842][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:31.8350280][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:31.9383808][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:32.1472262][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:32.4769737][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:32.4779044][WARN/reaction.cpp:60] Received Remote Ragdoll from Susel2115White (222525741)
+[22:09:39.6039414][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 175435911","b":2063962179,"c":401263359,"d":[-140.13,-1358.55,29.32],"e":[-144.10,-1358.23,29.50],"f":-8446330305034179398,"g":4029045360700902928,"h":-996066219,"i":-996066219,"et":52499872,"es":4069707824,"ep":190,"ec":true,"n":1424,"op":[
+[22:09:39.6039834][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 175435911","b":2063962179,"c":401263359,"d":[-140.13,-1358.55,29.32],"e":[-144.10,-1358.23,29.50],"f":-8446330305034179398,"g":4029045360700902928,"h":-996066219,"i":-996066219,"et":52499872,"es":4069707824,"ep":190,"ec":true,"n":1438,"op":[
+[22:09:39.6041199][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-139.27,-1361.31,29.30],"wantedlvl":1
+[22:09:39.6043260][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-242.33,-1127.67,23.02],"wantedlvl":0
+[22:09:39.6043894][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13447847,"type":3136273443,"cat":654913086,"pt":3347934748,"slot":0
+[22:11:21.9120411][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 40336945","b":2063962179,"c":401263359,"d":[-242.33,-1127.67,23.02],"e":[-138.33,-1489.69,33.61],"f":-8446330305034179398,"g":4029045360700902928,"h":2124916078,"i":857755945,"et":52499872,"es":4069707824,"ep":190,"ec":true,"n":1424,"op":[-131.84
+[22:11:21.9120915][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 40336945","b":2063962179,"c":401263359,"d":[-242.33,-1127.67,23.02],"e":[-139.14,-1489.00,33.57],"f":-8446330305034179398,"g":4029045360700902928,"h":2124916078,"i":857755945,"et":52499872,"es":4069707824,"ep":190,"ec":true,"n":1438,"op":[-131.84
+[22:11:21.9121285][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 40336945","b":2063962179,"c":401263359,"d":[-196.11,-1422.19,31.90],"e":[-173.34,-1441.33,31.30],"f":-8446330305034179398,"g":4029045360700902928,"h":-996066219,"i":857755945,"et":52499872,"es":4069707824,"ep":190,"ec":true,"n":1424,"op":[-131.84
+[22:11:21.9121458][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 40336945","b":2063962179,"c":401263359,"d":[-197.58,-1424.95,31.91],"e":[-172.67,-1440.48,31.30],"f":-8446330305034179398,"g":4029045360700902928,"h":-996066219,"i":857755945,"et":52499872,"es":4069707824,"ep":190,"ec":true,"n":1438,"op":[-131.84
+[22:11:21.9123976][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-191.84,-1615.17,33.84],"wantedlvl":0
+[22:11:21.9124354][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13447847,"type":3136273443,"cat":654913086,"pt":3348015267,"slot":0
+[22:13:33.0863164][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 175435911","b":2063962179,"c":401263359,"d":[-182.70,-1410.28,30.80],"e":[-169.29,-1302.59,31.29],"f":-8446330305034179398,"g":4029045360700902928,"h":-996066219,"i":-996066219,"et":52499872,"es":4069707824,"ep":190,"ec":true,"n":1438,"op":[
+[22:13:33.0863581][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: REPORT_INVALIDMODEL; DATA: "a":"SC 175435911","b":2063962179,"c":401263359,"d":[-181.75,-1409.61,30.78],"e":[-169.29,-1302.59,31.29],"f":-8446330305034179398,"g":4029045360700902928,"h":-996066219,"i":-996066219,"et":52499872,"es":4069707824,"ep":190,"ec":true,"n":1424,"op":[
+[22:13:33.0863938][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-141.34,-1375.26,29.18],"wantedlvl":1
+[22:13:33.0864463][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-148.37,-1374.83,29.09],"wantedlvl":2
+[22:13:33.0865578][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-100.13,-1359.85,29.41],"wantedlvl":3
+[22:13:33.0865690][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-141.21,-1369.98,29.33],"name":353883353,"cd":[-141,-1369],"wlvl":3
+[22:13:33.0866917][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-153.00,-1476.17,32.73],"wantedlvl":0
+[22:13:33.0867269][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13447847,"type":3136273443,"cat":654913086,"pt":3348140505,"slot":0
+[22:25:27.3787833][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13447847,"type":3136273443,"cat":654913086,"pt":3348842988,"slot":0
+[22:26:48.5872191][INFO/main.cpp:200] Scripts unregistered.
+[22:26:48.5880034][INFO/main.cpp:203] Lua manager uninitialized.
+[22:26:48.6910186][INFO/main.cpp:206] Hooking disabled.
+[22:26:48.6913734][INFO/main.cpp:209] Dynamic native hooker uninitialized.
+[22:26:48.6914063][DEBUG/thread_pool.cpp:109] Thread 17484 exiting...
+[22:26:48.6914023][DEBUG/thread_pool.cpp:109] Thread 5096 exiting...
+[22:26:48.6914578][DEBUG/thread_pool.cpp:109] Thread 8948 exiting...
+[22:26:48.6914630][DEBUG/thread_pool.cpp:109] Thread 6428 exiting...
+[22:26:48.6932610][INFO/main.cpp:214] Destroyed thread pool.
+[22:26:48.6932752][INFO/main.cpp:217] Script Connection Service reset.
+[22:26:48.6978422][INFO/main.cpp:219] Tunables Service reset.
+[22:26:48.6978653][INFO/main.cpp:221] Hotkey Service reset.
+[22:26:48.6980269][INFO/main.cpp:223] Matchmaking Service reset.
+[22:26:48.6981402][INFO/main.cpp:225] Player Database Service reset.
+[22:26:48.6986502][INFO/main.cpp:227] API Service reset.
+[22:26:48.7577505][INFO/main.cpp:229] Script Patcher Service reset.
+[22:26:48.7577929][INFO/main.cpp:231] Gui Service reset.
+[22:26:48.7713310][INFO/main.cpp:233] GTA Data Service reset.
+[22:26:48.7714016][INFO/main.cpp:235] Vehicle Service reset.
+[22:26:48.7714082][INFO/main.cpp:237] Model Preview Service reset.
+[22:26:48.7714110][INFO/main.cpp:239] Mobile Service reset.
+[22:26:48.7714152][INFO/main.cpp:241] Player Service reset.
+[22:26:48.7714171][INFO/main.cpp:243] Pickup Service reset.
+[22:26:48.7717249][INFO/main.cpp:245] Custom Text Service reset.
+[22:26:48.7719883][INFO/main.cpp:247] Context Service reset.
+[22:26:48.7722487][INFO/main.cpp:249] Xml Vehicles Service reset.
+[22:26:48.7722541][INFO/main.cpp:250] Services uninitialized.
+[22:26:48.7722969][INFO/main.cpp:253] Hooking uninitialized.
+[22:26:48.7723018][INFO/main.cpp:256] Fiber pool uninitialized.
+[22:26:48.8016791][INFO/main.cpp:259] Renderer uninitialized.
+[22:26:48.8025448][INFO/main.cpp:262] Byte Patch Manager uninitialized.
+[22:26:48.8025693][INFO/main.cpp:265] Pointers uninitialized.
+[22:26:48.8025765][INFO/main.cpp:268] Thread pool uninitialized.
+[22:26:48.8025789][INFO/main.cpp:270] Farewell!

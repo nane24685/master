@@ -1,0 +1,369 @@
+[16:31:48.1303930][INFO/main.cpp:104] Yim's Menu Initializing
+[16:31:48.1310762][INFO/main.cpp:105] Git Info
+	Branch:	master
+	Hash:	e005640c7515cf4c396fbaecc9fc9b0e3001c4f0
+	Date:	Wed Jan 17 11:08:35 2024
+[16:31:48.1313664][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[16:31:48.1321896][INFO/main.cpp:108] Thread pool initialized.
+[16:31:48.1475515][INFO/main.cpp:111] Settings Loaded.
+[16:31:48.1475539][DEBUG/thread_pool.cpp:96] Thread 8080 executing settings.cpp:12
+[16:31:48.1566688][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[16:31:48.1566977][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[16:31:48.1567046][INFO/pointers.cpp:1813] Pointers cache: Loading 215 fields from the cache
+[16:31:48.1567260][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[16:31:48.1646930][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[16:31:48.1647111][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[16:31:48.1647139][INFO/pointers.cpp:1813] Pointers cache: Loading 5 fields from the cache
+[16:31:48.1647458][INFO/main.cpp:114] Pointers initialized.
+[16:31:48.1647621][INFO/main.cpp:121] Disabled anticheat gameskeleton.
+[16:31:48.1650017][INFO/main.cpp:124] Byte Patch Manager initialized.
+[16:31:48.8419141][INFO/main.cpp:127] Renderer initialized.
+[16:31:49.1059059][INFO/main.cpp:131] Fiber pool initialized.
+[16:31:49.1159804][INFO/main.cpp:134] HTTP Client initialized.
+[16:31:49.6638898][INFO/main.cpp:137] Translation Service initialized.
+[16:31:49.7196432][INFO/main.cpp:140] Hooking initialized.
+[16:31:49.7571378][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[16:31:49.7571551][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[16:31:49.7576444][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[16:31:49.7581568][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[16:31:49.7581745][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[16:31:49.7581959][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[16:31:49.7717983][DEBUG/thread_pool.cpp:96] Thread 3252 executing player_database_service.cpp:285
+[16:31:49.7723276][INFO/main.cpp:161] Registered service instances...
+[16:31:49.7725111][INFO/main.cpp:182] Scripts registered.
+[16:31:49.8679303][INFO/main.cpp:185] Hooking enabled.
+[16:31:49.8708861][INFO/main.cpp:188] Dynamic native hooker initialized.
+[16:31:49.8718009][INFO/main.cpp:192] Lua manager initialized.
+[16:31:49.9786732][INFO/backend.cpp:53] Starting script: Self
+[16:31:49.9788825][INFO/backend.cpp:78] Starting script: Weapons
+[16:31:49.9791476][INFO/backend.cpp:101] Starting script: Vehicles
+[16:31:49.9791612][INFO/backend.cpp:117] Starting script: Miscellaneous
+[16:31:49.9792105][INFO/backend.cpp:138] Starting script: Remote
+[16:31:49.9792371][INFO/backend.cpp:153] Starting script: Ls customs
+[16:31:49.9792426][INFO/backend.cpp:165] Starting script: Rainbow paint
+[16:31:49.9792456][INFO/backend.cpp:177] Starting script: Disable Control Action
+[16:31:49.9792492][INFO/backend.cpp:190] Starting script: World
+[16:31:50.0114881][INFO/tunables_service.cpp:36] Loading tunables from cache
+[16:32:11.9016485][WARN/reaction.cpp:60] Received Modder Detection from titilesportif (224135734)
+[16:32:44.4331991][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[16:32:44.5542746][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[16:32:44.5543181][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[16:32:44.5544735][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[16:32:44.5879151][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[16:32:44.5879616][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[16:32:44.6094460][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[16:32:44.6098000][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[16:32:58.0181750][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:32:58.1604362][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:32:58.3187965][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:32:58.5431465][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:32:58.7718476][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:32:58.9582351][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:32:59.1823989][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:32:59.3753768][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:32:59.6188158][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:32:59.8743550][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:00.1231684][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:00.3670031][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:00.5741868][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:00.7869951][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:01.0378706][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:01.2854975][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:01.4967943][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:01.7126860][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:01.9179517][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:02.1276487][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:02.3760647][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:02.6256287][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:02.8726698][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:03.1214243][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:03.2899769][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:03.5439460][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:03.7921326][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:04.0367809][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:04.2772777][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:04.5232885][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:04.7647691][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:05.0148156][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:05.1880322][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:05.4033583][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:05.5942593][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:05.7998994][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:05.9791507][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:06.2025825][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:06.3754155][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:06.5825530][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:06.7859972][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:07.0318393][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:07.2821559][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:07.5343667][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:07.7808098][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:08.2570580][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:08.4997629][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:08.7377049][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:09.0087522][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:09.3024821][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:09.5270138][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:09.7905556][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:10.0576696][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:10.2492563][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:10.4842647][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:10.7450414][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:10.9976151][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:11.2429806][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:11.4536685][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:11.7374356][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:11.9671173][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:12.1857838][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:12.3926881][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:12.6553470][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:12.9002748][WARN/notify.hpp:67] Blocked invalid object model crash from Iustin2007 (108544091)
+[16:33:37.5108849][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:37.6954040][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:37.9760283][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:38.2527390][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:38.5002087][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:38.7452710][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:39.0030694][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:39.2655722][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:39.5265577][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:39.7875954][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:40.0478584][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:40.2622547][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:40.5331189][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:40.7633374][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:40.9950711][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:41.2254057][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:41.4610229][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:41.7056619][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:41.9558232][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:42.2041333][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:42.4913643][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:42.7310191][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:43.0353390][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:43.5586206][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:43.8379358][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:44.1154381][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:44.4391565][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:44.7237146][WARN/notify.hpp:67] Blocked invalid object model crash from juuu4u (207148180)
+[16:33:45.0881657][WARN/notify.hpp:67] Blocked invalid object model crash from misterhuk (211829814)
+[16:33:45.3148126][WARN/notify.hpp:67] Blocked invalid object model crash from misterhuk (211829814)
+[16:33:45.6012036][WARN/notify.hpp:67] Blocked invalid object model crash from misterhuk (211829814)
+[16:33:45.8514668][WARN/notify.hpp:67] Blocked invalid object model crash from misterhuk (211829814)
+[16:33:55.8868369][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:56.1313006][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:56.4578353][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:56.6986563][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:56.9730395][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:57.2872594][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:57.5651290][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:57.8390851][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:58.1234699][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:58.4372307][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:58.7066778][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:33:59.2034350][WARN/notify.hpp:67] Blocked invalid object model crash from VivienneLie (192943092)
+[16:34:12.4059232][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[16:34:12.4214361][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[16:34:12.4214894][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[16:34:12.4232330][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[16:34:12.4232563][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[16:37:45.5743670][WARN/interloper_reaction.cpp:30] Received Spectate Others from scamerrrr (238298860), victim is FranasSMC
+[16:38:21.9005985][WARN/reaction.cpp:60] Received Modder Detection from North-Dev (34049615)
+[16:38:24.5517877][WARN/reaction.cpp:60] Received Modder Detection from North-Dev (34049615)
+[16:38:44.1698280][WARN/interloper_reaction.cpp:30] Received Spectate Others from scamerrrr (238298860), victim is FranasSMC
+[16:39:02.3458147][WARN/interloper_reaction.cpp:30] Received Spectate Others from scamerrrr (238298860), victim is FranasSMC
+[16:40:10.0475963][WARN/reaction.cpp:60] Received Modder Detection from speyzix-_- (242237898)
+[16:43:13.3590473][WARN/reaction.cpp:60] Received Modder Detection from PureBloodHound (231747179)
+[16:46:27.0152371][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":279000,"bank":114443835,"evc":114722835,"pvc":0,"pxr":0.00000,"nonce":638423163819074831},"c":[1172.63831,-2973.40454,5.23176],"pt":3364464082,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[16:46:27.0152955][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":279000,"bank":114443835,"evc":114722835,"pvc":0,"pxr":0.00000,"nonce":638423163819074831},"c":[1172.63831,-2973.40454,5.23176],"pt":3364464082,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[16:46:45.9672188][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2435321038,"cat":3285634639,"pt":3364464082,"slot":0
+[16:48:14.7186643][WARN/reaction.cpp:60] Received Modder Detection from LaurisPro (237050623)
+[16:48:39.6133247][WARN/reaction.cpp:60] Received Modder Detection from Na7Snow (224237407)
+[16:49:14.1947728][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: DIG; DATA: "gamer":"SC 237050623","action":"RTB","id":-6988560345884391687
+[16:51:16.7537072][WARN/reaction.cpp:60] Received Modder Detection from misterhuk (211829814)
+[16:52:36.0411681][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[83.86,-789.17,31.86],"wantedlvl":2
+[16:54:14.5720202][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[122.14,-706.81,32.71],"wantedlvl":0
+[16:54:14.5720556][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3364883116,"slot":0
+[16:55:51.1953138][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":279000,"bank":114463835,"evc":114742835,"pvc":0,"pxr":0.00000,"nonce":638423169459589031},"c":[1171.78357,-2971.65308,-3.08825],"pt":3365011673,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[16:55:51.1953695][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":279000,"bank":114463835,"evc":114742835,"pvc":0,"pxr":0.00000,"nonce":638423169459589031},"c":[1171.78357,-2971.65308,-3.08825],"pt":3365011673,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[16:56:11.7304521][WARN/reaction.cpp:60] Received Modder Detection from xNiksu_ (199382889)
+[16:56:14.3760045][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2435321038,"cat":3285634639,"pt":3365011673,"slot":0
+[17:04:56.4255564][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3365449899,"slot":0
+[17:04:56.4255949][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":110,"type":2435321038,"cat":2131309714,"pt":3365449899,"slot":0
+[17:07:35.3363943][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365473670,"slot":0
+[17:07:35.3364239][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365473670,"slot":0
+[17:07:35.3364294][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365493715,"slot":0
+[17:07:35.3364341][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365493715,"slot":0
+[17:07:35.3364386][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365503736,"slot":0
+[17:07:35.3364544][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365503736,"slot":0
+[17:07:35.3364928][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365523797,"slot":0
+[17:07:35.3364981][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365533799,"slot":0
+[17:07:35.3365027][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365533799,"slot":0
+[17:07:35.3365083][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365543829,"slot":0
+[17:07:35.3365134][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365553839,"slot":0
+[17:07:35.3365182][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365563881,"slot":0
+[17:07:35.3365228][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3365563881,"slot":0
+[17:07:35.3365450][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2658791846,"cat":2053762773,"pt":3365583935,"slot":0
+[17:07:35.3365498][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":700,"type":2435321038,"cat":2131309714,"pt":3365583935,"slot":0
+[17:07:35.3365643][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":2886,"type":2658791846,"cat":2053762773,"pt":3365583935,"slot":0
+[17:07:42.1919466][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15020,"char":{"slot":0,"cash":15020,"bank":114742335,"evc":114757355,"pvc":0,"pxr":0.00000,"nonce":638423176569632050},"c":[-206.45795,-1308.08472,31.28671],"pt":3365585222,"vct":0,"vcp":0,"mid":0,"action":"JOB","cat":"JOBS","ctx":{"mid":"kfHWM_jeQk
+[17:07:42.1920085][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15020,"char":{"slot":0,"cash":15020,"bank":114742335,"evc":114757355,"pvc":0,"pxr":0.00000,"nonce":638423176569632050},"c":[-206.45795,-1308.08472,31.28671],"pt":3365585222,"vct":0,"vcp":0,"mid":0,"action":"JOB","cat":"JOBS","ctx":{"mid":"kfHWM_jeQk
+[17:08:55.7176699][WARN/reaction.cpp:60] Received Modder Detection from Exotic-0kto (226533682)
+[17:11:39.4588520][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[17:11:39.4590209][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[17:20:48.1774389][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[17:23:34.1774873][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[17:23:34.1775838][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-787.04,285.06,85.75],"wantedlvl":2
+[17:23:48.8680873][WARN/reaction.cpp:60] Received Modder Detection from Denny_O24 (54478855)
+[17:24:18.0744815][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RDEV; DATA: "g":"SC 54478855"
+[17:24:18.0747054][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[17:24:18.0747776][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":13474481,"type":3136273443,"cat":654913086,"pt":3366505151,"slot":0
+[17:30:59.2018096][WARN/reaction.cpp:60] Received Modder Detection from medveszar (165887074)
+[17:38:59.9484415][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is ShalomJackie2020
+[17:39:12.5903003][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is ShalomJackie2020
+[17:39:45.1450108][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is giannisyros
+[17:40:07.5187987][WARN/reaction.cpp:60] Received Modder Detection from donerboy2000 (173369607)
+[17:40:12.3840125][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is Denny_O24
+[17:40:44.7346111][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":29800,"char":{"slot":0,"cash":44820,"bank":114723559,"evc":114768379,"pvc":0,"pxr":0.00000,"nonce":638423196436170835},"c":[-44.66651,-2015.72400,18.01695],"pt":3367436460,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":4
+[17:40:44.7346620][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":29800,"char":{"slot":0,"cash":44820,"bank":114723559,"evc":114768379,"pvc":0,"pxr":0.00000,"nonce":638423196436170835},"c":[-44.66651,-2015.72400,18.01695],"pt":3367436460,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":4
+[17:40:52.3630077][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":18100,"char":{"slot":0,"cash":62920,"bank":114723559,"evc":114786479,"pvc":0,"pxr":0.00000,"nonce":638423196470466000},"c":[-44.66651,-2015.72400,18.01695],"pt":3367436460,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[17:40:52.3630627][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":18100,"char":{"slot":0,"cash":62920,"bank":114723559,"evc":114786479,"pvc":0,"pxr":0.00000,"nonce":638423196470466000},"c":[-44.66651,-2015.72400,18.01695],"pt":3367436460,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[17:40:58.3453744][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15550,"char":{"slot":0,"cash":97770,"bank":114723559,"evc":114821329,"pvc":0,"pxr":0.00000,"nonce":638423196530546226},"c":[-44.66651,-2015.72400,18.01695],"pt":3367446467,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[17:40:58.3454197][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15550,"char":{"slot":0,"cash":97770,"bank":114723559,"evc":114821329,"pvc":0,"pxr":0.00000,"nonce":638423196530546226},"c":[-44.66651,-2015.72400,18.01695],"pt":3367446467,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[17:40:59.9092178][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is Denny_O24
+[17:41:08.0114372][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is DavidKaras2015
+[17:41:39.3357242][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is BUFFER_95
+[17:41:51.5563371][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is LOLLO2021
+[17:42:58.2168393][WARN/reaction.cpp:60] Received Modder Detection from JimmyIIDD (193718541)
+[17:43:43.5913715][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is swedendeaf
+[17:44:00.8173616][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is zNorvus
+[17:44:30.0968452][WARN/interloper_reaction.cpp:30] Received Spectate Others from Hitman370 (105131718), victim is LOLLO2021
+[17:44:40.8054685][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[2252.22,6004.95,50.54],"wantedlvl":1
+[17:46:40.8372422][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[625.45,6536.43,27.68],"wantedlvl":2
+[17:49:18.0084587][WARN/reaction.cpp:60] Received Modder Detection from H.Schulz23 (114079855)
+[17:52:08.5032604][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-352.93,-135.77,38.50],"wantedlvl":0
+[17:58:12.2222171][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":99770,"bank":114723360,"evc":114823130,"pvc":0,"pxr":0.00000,"nonce":638423206868453884},"c":[-2362.72412,4027.55884,28.31413],"pt":3368477087,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[17:58:12.2222778][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":99770,"bank":114723360,"evc":114823130,"pvc":0,"pxr":0.00000,"nonce":638423206868453884},"c":[-2362.72412,4027.55884,28.31413],"pt":3368477087,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[18:04:56.0628154][WARN/reaction.cpp:60] Received Remote Ragdoll from H.Schulz23 (114079855)
+[18:09:41.3386994][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[13.02,10.03,69.90],"wantedlvl":1
+[18:09:41.3387538][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[57.56,-5.58,68.46],"wantedlvl":2
+[18:09:41.3387739][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[217.74,-55.86,68.41],"wantedlvl":0
+[18:26:41.6975045][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-9.97,6261.79,31.25],"wantedlvl":3
+[18:26:41.6976300][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":38,"type":679931529,"cat":2304783455,"pt":3369968589,"slot":0
+[18:26:41.6976402][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3369968589,"slot":0
+[18:26:41.6976457][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":144,"type":679931529,"cat":2304783455,"pt":3369978589,"slot":0
+[18:26:41.6978424][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3370038799,"slot":0
+[18:26:41.6979385][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[729.86,6501.42,26.52],"wantedlvl":0
+[18:32:10.4679202][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":109770,"bank":114700465,"evc":114810235,"pvc":0,"pxr":0.00000,"nonce":638423227252356107},"c":[766.52740,-838.13330,25.31347],"pt":3370477887,"vct":0,"vcp":0,"mid":0,"action":"WAGE","cat":"WAGE_PAYMENT","ctx":{}
+[18:32:10.4679698][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":109770,"bank":114700465,"evc":114810235,"pvc":0,"pxr":0.00000,"nonce":638423227252356107},"c":[766.52740,-838.13330,25.31347],"pt":3370477887,"vct":0,"vcp":0,"mid":0,"action":"WAGE","cat":"WAGE_PAYMENT","ctx":{}
+[18:33:41.8719271][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":3419251281,"cat":1626430110,"pt":3370404787,"slot":0
+[18:33:41.8850487][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3370467882,"slot":0
+[18:33:41.8851753][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[1317.01,-2261.45,68.19],"wantedlvl":4
+[18:33:41.8851874][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[1320.79,-2265.52,67.61],"name":353883353,"cd":[1320,-2265],"wlvl":4
+[18:35:31.8332874][WARN/notify.hpp:67] Blocked invalid vehicle task crash from Balekuye (86360854)
+[18:35:31.8337627][DEBUG/can_apply_data.cpp:1634] 7 CTaskVehicleGoToHelicopter (456)
+[18:37:26.3485553][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[1296.46,-2336.99,97.22],"name":353883353,"cd":[1296,-2336],"wlvl":4
+[18:37:26.3486973][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3370688381,"slot":0
+[18:37:26.3487677][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[1239.86,-2372.35,49.74],"name":353883353,"cd":[1239,-2372],"wlvl":4
+[18:37:26.3488625][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3370768594,"slot":0
+[18:37:26.3488721][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[976.50,-2594.99,10.18],"name":353883353,"cd":[976,-2594],"wlvl":4
+[18:38:49.5182692][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[726.48,-2566.56,11.12],"wantedlvl":0
+[18:38:49.5184173][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3370838770,"slot":0
+[18:42:42.0482879][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3370898860,"slot":0
+[18:42:42.0483910][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":800,"type":3419251281,"cat":1626430110,"pt":3370943698,"slot":0
+[18:42:42.0484988][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3370968703,"slot":0
+[18:42:42.0486426][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3371057461,"slot":0
+[18:46:42.1771465][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3371127593,"slot":0
+[18:46:42.1771740][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":3455376767,"cat":2563418546,"pt":3371127593,"slot":0
+[18:46:42.1772947][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3371187718,"slot":0
+[18:46:42.1773340][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3371257925,"slot":0
+[18:46:42.1773893][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":400,"type":3455376767,"cat":2563418546,"pt":3371277984,"slot":0
+[18:46:42.1774394][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3371318079,"slot":0
+[18:46:52.1255849][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":119770,"bank":114700465,"evc":114820235,"pvc":0,"pxr":0.00000,"nonce":638423236068111970},"c":[986.41986,1476.60535,219.32428],"pt":3371348122,"vct":0,"vcp":0,"mid":0,"action":"WAGE","cat":"WAGE_PAYMENT","ctx":{}
+[18:46:52.1256453][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":119770,"bank":114700465,"evc":114820235,"pvc":0,"pxr":0.00000,"nonce":638423236068111970},"c":[986.41986,1476.60535,219.32428],"pt":3371348122,"vct":0,"vcp":0,"mid":0,"action":"WAGE","cat":"WAGE_PAYMENT","ctx":{}
+[18:49:32.6245006][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3371388200,"slot":0
+[18:49:32.6246061][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":700,"type":3419251281,"cat":1626430110,"pt":3371428328,"slot":0
+[18:49:32.6250505][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[278.48,825.55,190.75],"wantedlvl":2
+[18:53:18.4480169][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[490.02,78.57,95.56],"wantedlvl":0
+[18:55:29.9012097][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-2427.90,-251.40,15.89],"wantedlvl":2
+[18:55:29.9013111][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-2427.90,-254.12,15.73],"wantedlvl":0
+[18:55:29.9013553][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-2425.15,-257.20,15.58],"wantedlvl":2
+[18:55:29.9016380][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-2425.15,-257.20,15.58],"wantedlvl":0
+[18:57:42.7766575][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3371921608,"slot":0
+[18:57:42.7766972][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3371942550,"slot":0
+[18:57:42.7767352][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3371952580,"slot":0
+[18:57:42.7767410][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3371952580,"slot":0
+[19:02:30.1084035][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3371962588,"slot":0
+[19:02:30.1084353][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3371972598,"slot":0
+[19:02:30.1084412][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3371972598,"slot":0
+[19:02:30.1084466][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3371972598,"slot":0
+[19:02:30.1084515][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3371982629,"slot":0
+[19:02:30.1084562][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3371982629,"slot":0
+[19:02:30.1084607][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3371992639,"slot":0
+[19:02:30.1084847][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3372052784,"slot":0
+[19:02:30.1085198][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3372112889,"slot":0
+[19:02:30.1086225][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372132940,"slot":0
+[19:02:30.1086283][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372132940,"slot":0
+[19:02:30.1086331][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372132940,"slot":0
+[19:02:30.1086377][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372142973,"slot":0
+[19:02:30.1086422][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372162987,"slot":0
+[19:02:30.1086467][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372162987,"slot":0
+[19:02:30.1086513][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372162987,"slot":0
+[19:02:30.1086557][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372173024,"slot":0
+[19:02:30.1086614][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372173024,"slot":0
+[19:02:30.1086661][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372183047,"slot":0
+[19:02:30.1087056][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372183047,"slot":0
+[19:02:30.1087107][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372183047,"slot":0
+[19:02:30.1087157][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372183047,"slot":0
+[19:02:30.1087203][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3372183047,"slot":0
+[19:02:30.1087421][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372183047,"slot":0
+[19:02:30.1087470][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372203081,"slot":0
+[19:02:30.1087518][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372203081,"slot":0
+[19:02:30.1087572][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":25,"type":2435321038,"cat":2131309714,"pt":3372213093,"slot":0
+[19:07:30.2560369][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3372253142,"slot":0
+[19:07:30.2562249][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3372316243,"slot":0
+[19:07:30.2563270][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3372376400,"slot":0
+[19:08:22.5808560][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":2713,"type":2658791846,"cat":2053762773,"pt":3372425794,"slot":0
+[19:08:22.5808920][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":580,"type":2435321038,"cat":2131309714,"pt":3372425794,"slot":0
+[19:08:28.9940520][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":50000,"char":{"slot":0,"cash":169770,"bank":114700465,"evc":114870235,"pvc":0,"pxr":0.00000,"nonce":638423249039478435},"c":[-3023.64917,80.44230,12.60810],"pt":3372425794,"vct":0,"vcp":0,"mid":0,"action":"FINALE","cat":"AGENCY_STORY","ctx":{
+[19:08:28.9941070][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":50000,"char":{"slot":0,"cash":169770,"bank":114700465,"evc":114870235,"pvc":0,"pxr":0.00000,"nonce":638423249039478435},"c":[-3023.64917,80.44230,12.60810],"pt":3372425794,"vct":0,"vcp":0,"mid":0,"action":"FINALE","cat":"AGENCY_STORY","ctx":{
+[19:08:35.0125649][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2435321038,"cat":3741565104,"pt":3372425794,"slot":0
+[19:08:35.0126392][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: DIG; DATA: "gamer":"SC 203324268","action":"SCRIPT","data":{"a":3,"b":0},"id":-6599660717087048528
+[19:10:00.7794638][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[19:10:00.7800119][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[19:13:49.9195742][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":145000,"char":{"slot":0,"cash":314770,"bank":114700465,"evc":115015235,"pvc":0,"pxr":0.00000,"nonce":638423252244742029},"c":[-1615.61572,-3015.68384,-75.20506],"pt":3372709193,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[19:13:49.9196457][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":145000,"char":{"slot":0,"cash":314770,"bank":114700465,"evc":115015235,"pvc":0,"pxr":0.00000,"nonce":638423252244742029},"c":[-1615.61572,-3015.68384,-75.20506],"pt":3372709193,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[19:14:51.2472341][INFO/main.cpp:200] Scripts unregistered.
+[19:14:51.2479079][INFO/main.cpp:203] Lua manager uninitialized.
+[19:14:51.3657736][INFO/main.cpp:206] Hooking disabled.
+[19:14:51.3659076][INFO/main.cpp:209] Dynamic native hooker uninitialized.
+[19:14:51.3659335][DEBUG/thread_pool.cpp:109] Thread 8080 exiting...
+[19:14:51.3659963][DEBUG/thread_pool.cpp:109] Thread 23276 exiting...
+[19:14:51.3660074][DEBUG/thread_pool.cpp:109] Thread 11868 exiting...
+[19:14:52.1455672][DEBUG/thread_pool.cpp:109] Thread 3252 exiting...
+[19:14:52.1463095][INFO/main.cpp:214] Destroyed thread pool.
+[19:14:52.1463251][INFO/main.cpp:217] Script Connection Service reset.
+[19:14:52.1493709][INFO/main.cpp:219] Tunables Service reset.
+[19:14:52.1493910][INFO/main.cpp:221] Hotkey Service reset.
+[19:14:52.1493976][INFO/main.cpp:223] Matchmaking Service reset.
+[19:14:52.1499816][INFO/main.cpp:225] Player Database Service reset.
+[19:14:52.1502682][INFO/main.cpp:227] API Service reset.
+[19:14:52.1643844][INFO/main.cpp:229] Script Patcher Service reset.
+[19:14:52.1644201][INFO/main.cpp:231] Gui Service reset.
+[19:14:52.1675352][INFO/main.cpp:233] GTA Data Service reset.
+[19:14:52.1675638][INFO/main.cpp:235] Vehicle Service reset.
+[19:14:52.1679852][INFO/main.cpp:237] Model Preview Service reset.
+[19:14:52.1682835][INFO/main.cpp:239] Mobile Service reset.
+[19:14:52.1683276][INFO/main.cpp:241] Player Service reset.
+[19:14:52.1685875][INFO/main.cpp:243] Pickup Service reset.
+[19:14:52.1692271][INFO/main.cpp:245] Custom Text Service reset.
+[19:14:52.1694071][INFO/main.cpp:247] Context Service reset.
+[19:14:52.1838893][INFO/main.cpp:249] Xml Vehicles Service reset.
+[19:14:52.1839125][INFO/main.cpp:250] Services uninitialized.
+[19:14:52.1840170][INFO/main.cpp:253] Hooking uninitialized.
+[19:14:52.1840315][INFO/main.cpp:256] Fiber pool uninitialized.
+[19:14:52.2201359][INFO/main.cpp:259] Renderer uninitialized.
+[19:14:52.2210413][INFO/main.cpp:262] Byte Patch Manager uninitialized.
+[19:14:52.2210661][INFO/main.cpp:265] Pointers uninitialized.
+[19:14:52.2210728][INFO/main.cpp:268] Thread pool uninitialized.
+[19:14:52.2210752][INFO/main.cpp:270] Farewell!

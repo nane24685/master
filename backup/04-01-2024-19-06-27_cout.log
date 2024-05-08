@@ -1,0 +1,369 @@
+[00:15:32.3449740][INFO/main.cpp:159] Yim's Menu Initializing
+[00:15:32.3453991][INFO/main.cpp:160] Git Info
+	Branch:	master
+	Hash:	d737c01b333f349ff9d4803784fee1051ee93cb9
+	Date:	Tue Feb 20 18:29:02 2024
+[00:15:32.3455520][INFO/main.cpp:172] Windows 10 Home Version 22H2 (OS Build 19045.4239)
+[00:15:32.3513454][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[00:15:32.3515613][INFO/main.cpp:180] Thread pool initialized.
+[00:15:32.3677179][WARN/settings.cpp:55] Detected corrupt settings, writing default config...
+[00:15:32.3849063][INFO/main.cpp:183] Settings Loaded.
+[00:15:32.3849111][DEBUG/thread_pool.cpp:96] Thread 17668 executing settings.cpp:12
+[00:15:32.4006186][INFO/batch.hpp:106] Found 'ISA' GTA5.exe+0xF193
+[00:15:32.4010358][INFO/batch.hpp:106] Found 'SR' GTA5.exe+0x16C993
+[00:15:32.4025885][INFO/batch.hpp:106] Found 'GS' GTA5.exe+0x2C66D4
+[00:15:32.4041176][INFO/batch.hpp:106] Found 'GL' GTA5.exe+0x6D9020
+[00:15:32.4045467][INFO/batch.hpp:106] Found 'SGL' GTA5.exe+0x6D9014
+[00:15:32.4047698][INFO/batch.hpp:106] Found 'PF' GTA5.exe+0x73508C
+[00:15:32.4160169][INFO/batch.hpp:106] Found 'NPM' GTA5.exe+0x10B1B94
+[00:15:32.4169065][INFO/batch.hpp:106] Found 'SP' GTA5.exe+0xA4B929
+[00:15:32.4172562][INFO/batch.hpp:106] Found 'FV' GTA5.exe+0x161DBA0
+[00:15:32.4172739][INFO/batch.hpp:106] Found 'ST' GTA5.exe+0x1620B6F
+[00:15:32.4176726][INFO/batch.hpp:106] Found 'NRF' GTA5.exe+0x1BB87
+[00:15:32.4227511][INFO/batch.hpp:106] Found 'SG' GTA5.exe+0x16204C0
+[00:15:32.4250187][INFO/batch.hpp:106] Found 'S' GTA5.exe+0x138E3D9
+[00:15:32.4260187][INFO/batch.hpp:106] Found 'GTS' GTA5.exe+0x1620688
+[00:15:32.4263723][INFO/batch.hpp:106] Found 'OQ' GTA5.exe+0x5703BE
+[00:15:32.4269298][INFO/batch.hpp:106] Found 'TSE' GTA5.exe+0xD93FFC
+[00:15:32.4297379][INFO/batch.hpp:106] Found 'NH' GTA5.exe+0x1620C19
+[00:15:32.4315105][INFO/batch.hpp:106] Found 'CGSHM' GTA5.exe+0x16254D9
+[00:15:32.4323553][INFO/batch.hpp:106] Found 'TK' GTA5.exe+0xA4FA1C
+[00:15:32.4346065][INFO/batch.hpp:106] Found 'RBWD' GTA5.exe+0x10DD39D
+[00:15:32.4353249][INFO/batch.hpp:106] Found 'RBS' GTA5.exe+0x132C5EC
+[00:15:32.4406066][INFO/batch.hpp:106] Found 'RBA' GTA5.exe+0x132C2C8
+[00:15:32.4408072][INFO/batch.hpp:106] Found 'WBD' GTA5.exe+0x13E6874
+[00:15:32.4427853][INFO/batch.hpp:106] Found 'WBQ' GTA5.exe+0x1334130
+[00:15:32.4465314][INFO/batch.hpp:106] Found 'RBB' GTA5.exe+0x6705A8
+[00:15:32.4492818][INFO/batch.hpp:106] Found 'RC' GTA5.exe+0x146419C
+[00:15:32.4493988][INFO/batch.hpp:106] Found 'SEA' GTA5.exe+0x16DAE99
+[00:15:32.4571707][INFO/batch.hpp:106] Found 'WPGSDN' GTA5.exe+0x1184050
+[00:15:32.4579880][INFO/batch.hpp:106] Found 'WBI64' GTA5.exe+0x1134B35
+[00:15:32.4641056][INFO/batch.hpp:106] Found 'PTH' GTA5.exe+0x1624F95
+[00:15:32.4672861][INFO/batch.hpp:106] Found 'NPMI' GTA5.exe+0x118EE4F
+[00:15:32.4679462][INFO/batch.hpp:106] Found 'GSH' GTA5.exe+0x162643C
+[00:15:32.4699844][INFO/batch.hpp:106] Found 'CNOM' GTA5.exe+0xB299F0
+[00:15:32.4705792][INFO/batch.hpp:106] Found 'WBI32' GTA5.exe+0x11339F7
+[00:15:32.4773695][INFO/batch.hpp:106] Found 'GSCFWC' GTA5.exe+0xA4AA9C
+[00:15:32.4786475][INFO/batch.hpp:106] Found 'GPR' GTA5.exe+0x114F69C
+[00:15:32.4879055][INFO/batch.hpp:106] Found 'WBA' GTA5.exe+0x16C169A
+[00:15:32.4889399][INFO/batch.hpp:106] Found 'WBB' GTA5.exe+0x11334F8
+[00:15:32.4895122][INFO/batch.hpp:106] Found 'RNM' GTA5.exe+0x13FCF95
+[00:15:32.4997529][INFO/batch.hpp:106] Found 'API' GTA5.exe+0x16DD5B8
+[00:15:32.5010785][INFO/batch.hpp:106] Found 'FR' GTA5.exe+0xCEAB78
+[00:15:32.5033018][INFO/batch.hpp:106] Found 'GNED' GTA5.exe+0x1A30070
+[00:15:32.5043391][INFO/batch.hpp:106] Found 'GGCC' GTA5.exe+0xA7FCDA
+[00:15:32.5051774][INFO/batch.hpp:106] Found 'MHT' GTA5.exe+0xB4CE
+[00:15:32.5063953][INFO/batch.hpp:106] Found 'RCC' GTA5.exe+0x11996E0
+[00:15:32.5068407][INFO/batch.hpp:106] Found 'RCS/GSTFT/GNOFP/GNO/GSTI' GTA5.exe+0x119A67C
+[00:15:32.5074582][INFO/batch.hpp:106] Found 'WPGDN' GTA5.exe+0x1184B98
+[00:15:32.5077320][INFO/batch.hpp:106] Found 'NPMS' GTA5.exe+0x11C3AD2
+[00:15:32.5164100][INFO/batch.hpp:106] Found 'GLT' GTA5.exe+0xDB678F
+[00:15:32.5183660][INFO/batch.hpp:106] Found 'REH' GTA5.exe+0x16D720C
+[00:15:32.5213252][INFO/batch.hpp:106] Found 'CAD' GTA5.exe+0x1199F7E
+[00:15:32.5222623][INFO/batch.hpp:106] Found 'RBIST' GTA5.exe+0x1199860
+[00:15:32.5299055][INFO/batch.hpp:106] Found 'MCF' GTA5.exe+0x169AD6E
+[00:15:32.5301577][INFO/batch.hpp:106] Found 'FPFC' GTA5.exe+0x131C552
+[00:15:32.5326644][INFO/batch.hpp:106] Found 'SCP' GTA5.exe+0x2F5104
+[00:15:32.5339126][INFO/batch.hpp:106] Found 'FDGD' GTA5.exe+0x131FB9B
+[00:15:32.5360475][INFO/batch.hpp:106] Found 'IMCD' GTA5.exe+0x53F00D
+[00:15:32.5376381][INFO/batch.hpp:106] Found 'FPFD' GTA5.exe+0x131C7BC
+[00:15:32.5384965][INFO/batch.hpp:106] Found 'FPU&FPCA&FPOA&FPM' GTA5.exe+0x806092
+[00:15:32.5396623][INFO/batch.hpp:106] Found 'GGOS' GTA5.exe+0x14640B4
+[00:15:32.5418134][INFO/batch.hpp:106] Found 'SGSBGH' GTA5.exe+0x443D7C
+[00:15:32.5430773][INFO/batch.hpp:106] Found 'GMI' GTA5.exe+0x1672C56
+[00:15:32.5435437][INFO/batch.hpp:106] Found 'N' GTA5.exe+0x107B10D
+[00:15:32.5485445][INFO/batch.hpp:106] Found 'SCM' GTA5.exe+0x10C3F49
+[00:15:32.5485983][INFO/batch.hpp:106] Found 'JSBI' GTA5.exe+0x110C2EB
+[00:15:32.5492012][INFO/batch.hpp:106] Found 'NC' GTA5.exe+0x441419
+[00:15:32.5550612][INFO/batch.hpp:106] Found 'SGSBGH' GTA5.exe+0x14726CE
+[00:15:32.5654103][INFO/batch.hpp:106] Found 'IPBGH' GTA5.exe+0x441434
+[00:15:32.5760213][INFO/batch.hpp:106] Found 'VM' GTA5.exe+0x16204CA
+[00:15:32.5776450][INFO/batch.hpp:106] Found 'HT' GTA5.exe+0x1464E65
+[00:15:32.5785242][INFO/batch.hpp:106] Found 'SPBGH' GTA5.exe+0x4428BE
+[00:15:32.5860161][INFO/batch.hpp:106] Found 'GU' GTA5.exe+0x1492662
+[00:15:32.5883070][INFO/batch.hpp:106] Found 'WJRD' GTA5.exe+0x111264B
+[00:15:32.5911966][INFO/batch.hpp:106] Found 'C' GTA5.exe+0xCECBEC
+[00:15:32.5923642][INFO/batch.hpp:106] Found 'AFBGH' GTA5.exe+0x1071E28
+[00:15:32.5931407][INFO/batch.hpp:106] Found 'PIGI' GTA5.exe+0x10BDE9F
+[00:15:32.5959721][INFO/batch.hpp:106] Found 'PMFR' GTA5.exe+0x147D0D4
+[00:15:32.5986200][INFO/batch.hpp:106] Found 'RENC' GTA5.exe+0x142983A
+[00:15:32.6078617][INFO/batch.hpp:106] Found 'SND' GTA5.exe+0xF63023
+[00:15:32.6087418][INFO/batch.hpp:106] Found 'SGS' GTA5.exe+0x1126A2C
+[00:15:32.6119299][INFO/batch.hpp:106] Found 'HJR' GTA5.exe+0x11115B4
+[00:15:32.6125347][INFO/batch.hpp:106] Found 'QP' GTA5.exe+0x14218A2
+[00:15:32.6141836][INFO/batch.hpp:106] Found 'PGI' GTA5.exe+0x14820E8
+[00:15:32.6152835][INFO/batch.hpp:106] Found 'GCP' GTA5.exe+0x1403FAC
+[00:15:32.6154674][INFO/batch.hpp:106] Found 'RR' GTA5.exe+0xC1CAF3
+[00:15:32.6181573][INFO/batch.hpp:106] Found 'STOPVT' GTA5.exe+0x6A10AC
+[00:15:32.6183175][INFO/batch.hpp:106] Found 'SRGC' GTA5.exe+0x120C8EB
+[00:15:32.6208347][INFO/batch.hpp:106] Found 'SSMA' GTA5.exe+0x1474F68
+[00:15:32.6209965][INFO/batch.hpp:106] Found 'CD' GTA5.exe+0x1906D7
+[00:15:32.6245152][INFO/batch.hpp:106] Found 'RC' GTA5.exe+0xF94320
+[00:15:32.6257163][INFO/batch.hpp:106] Found 'IDC' GTA5.exe+0x67D4F4
+[00:15:32.6259609][INFO/batch.hpp:106] Found 'SPT' GTA5.exe+0xB8AE24
+[00:15:32.6306539][INFO/batch.hpp:106] Found 'HRGC' GTA5.exe+0x120550C
+[00:15:32.6333098][INFO/batch.hpp:106] Found 'SPDM' GTA5.exe+0x11AFB24
+[00:15:32.6359258][INFO/batch.hpp:106] Found 'SJRM' GTA5.exe+0x1299082
+[00:15:32.6401022][INFO/batch.hpp:106] Found 'TAC' GTA5.exe+0xAF7CA4
+[00:15:32.6418896][INFO/batch.hpp:106] Found 'LCF' GTA5.exe+0x5DD9B8
+[00:15:32.6437409][INFO/batch.hpp:106] Found 'RS' GTA5.exe+0xD17805
+[00:15:32.6466331][INFO/batch.hpp:106] Found 'MFO' GTA5.exe+0xA78A2B
+[00:15:32.6469884][INFO/batch.hpp:106] Found 'DPI' GTA5.exe+0x14022B0
+[00:15:32.6476613][INFO/batch.hpp:106] Found 'SAACF' GTA5.exe+0xA94380
+[00:15:32.6500787][INFO/batch.hpp:106] Found 'SJD' GTA5.exe+0xA93F24
+[00:15:32.6538039][INFO/batch.hpp:106] Found 'QD' GTA5.exe+0x130AF04
+[00:15:32.6580551][INFO/batch.hpp:106] Found 'DSI' GTA5.exe+0x14740FC
+[00:15:32.6599074][INFO/batch.hpp:106] Found 'BNA' GTA5.exe+0x16E760C
+[00:15:32.6605759][INFO/batch.hpp:106] Found 'NT' GTA5.exe+0xCDCC0E
+[00:15:32.6612284][INFO/batch.hpp:106] Found 'PMFS' GTA5.exe+0x145FFA4
+[00:15:32.6646932][INFO/batch.hpp:106] Found 'CTP' GTA5.exe+0x141136C
+[00:15:32.6647394][INFO/batch.hpp:106] Found 'SP' GTA5.exe+0x141F260
+[00:15:32.6689631][INFO/batch.hpp:106] Found 'GEAT' GTA5.exe+0xA92E00
+[00:15:32.6695766][INFO/batch.hpp:106] Found 'SCI' GTA5.exe+0x144E77B
+[00:15:32.6740966][INFO/batch.hpp:106] Found 'ICF' GTA5.exe+0xAAFB6B
+[00:15:32.6744357][INFO/batch.hpp:106] Found 'RAU' GTA5.exe+0x16D84CC
+[00:15:32.6759229][INFO/batch.hpp:106] Found 'ESI' GTA5.exe+0x1184CBA
+[00:15:32.6761622][INFO/batch.hpp:106] Found 'RPI' GTA5.exe+0x6B8204
+[00:15:32.6773106][INFO/batch.hpp:106] Found 'HSR' GTA5.exe+0x1425B18
+[00:15:32.6780893][INFO/batch.hpp:106] Found 'FPC2' GTA5.exe+0x14A6937
+[00:15:32.6796687][INFO/batch.hpp:106] Found 'SS' GTA5.exe+0x1077518
+[00:15:32.6798279][INFO/batch.hpp:106] Found 'SPCS' GTA5.exe+0x113AAB8
+[00:15:32.6814981][INFO/batch.hpp:106] Found 'CPTN' GTA5.exe+0xD672F0
+[00:15:32.6858044][INFO/batch.hpp:106] Found 'WPADN' GTA5.exe+0x1183728
+[00:15:32.6864868][INFO/batch.hpp:106] Found 'WPCDN' GTA5.exe+0x1176910
+[00:15:32.6899943][INFO/batch.hpp:106] Found 'WPCDN' GTA5.exe+0x1183BEC
+[00:15:32.6900485][INFO/batch.hpp:106] Found 'TPO' GTA5.exe+0xBC6C8E
+[00:15:32.6939071][INFO/batch.hpp:106] Found 'GVOV' GTA5.exe+0x2E7BEC
+[00:15:32.6947165][INFO/batch.hpp:106] Found 'WVPMDN' GTA5.exe+0x118A2F4
+[00:15:32.6959120][INFO/batch.hpp:106] Found 'PRP' GTA5.exe+0x118F2F
+[00:15:32.6980284][INFO/batch.hpp:106] Found 'PEP' GTA5.exe+0x9BBE87
+[00:15:32.6987299][INFO/batch.hpp:106] Found 'EAD' GTA5.exe+0x1205924
+[00:15:32.7009717][INFO/batch.hpp:106] Found 'VEP' GTA5.exe+0xD6A141
+[00:15:32.7014205][INFO/batch.hpp:106] Found 'AWIV' GTA5.exe+0xF134B3
+[00:15:32.7021329][INFO/batch.hpp:106] Found 'HCM' GTA5.exe+0x2D5FF8
+[00:15:32.7051253][INFO/batch.hpp:106] Found 'L&UL' GTA5.exe+0x1A43D0
+[00:15:32.7051837][INFO/batch.hpp:106] Found 'TJC' GTA5.exe+0xB022D8
+[00:15:32.7124646][INFO/batch.hpp:106] Found 'GHAHBI' GTA5.exe+0x1626510
+[00:15:32.7156289][INFO/batch.hpp:106] Found 'FPCR' GTA5.exe+0x11564C7
+[00:15:32.7175212][INFO/batch.hpp:106] Found 'RAI' GTA5.exe+0x1288BFA
+[00:15:32.7193705][INFO/batch.hpp:106] Found 'TFC' GTA5.exe+0xC22919
+[00:15:32.7220199][INFO/batch.hpp:106] Found 'MO' GTA5.exe+0x114F398
+[00:15:32.7232653][INFO/batch.hpp:106] Found 'SNT' GTA5.exe+0x1429FED
+[00:15:32.7235457][INFO/batch.hpp:106] Found 'RP' GTA5.exe+0x516668
+[00:15:32.7245584][INFO/batch.hpp:106] Found 'RE' GTA5.exe+0x508CE8
+[00:15:32.7249100][INFO/batch.hpp:106] Found 'RE' GTA5.exe+0x511FDC
+[00:15:32.7269098][INFO/batch.hpp:106] Found 'DSCC' GTA5.exe+0x1206A4D
+[00:15:32.7270699][INFO/batch.hpp:106] Found 'RR' GTA5.exe+0x1EB08
+[00:15:32.7296211][INFO/batch.hpp:106] Found 'RBS' GTA5.exe+0x132C898
+[00:15:32.7336537][INFO/batch.hpp:106] Found 'RBS' GTA5.exe+0x11C037C
+[00:15:32.7352184][INFO/batch.hpp:106] Found 'DHM' GTA5.exe+0x801F47
+[00:15:32.7379075][INFO/batch.hpp:106] Found 'AMR&CMTFM' GTA5.exe+0x13F4480
+[00:15:32.7403350][INFO/batch.hpp:106] Found 'IPP' GTA5.exe+0x925D66
+[00:15:32.7477277][INFO/batch.hpp:106] Found 'TCA' GTA5.exe+0xF6411E
+[00:15:32.7478361][INFO/batch.hpp:106] Found 'SNPPD' GTA5.exe+0x16DC022
+[00:15:32.7523563][INFO/batch.hpp:106] Found 'NEM&CEQ&NEP&GNPI&QNE' GTA5.exe+0x115071F
+[00:15:32.7528621][INFO/batch.hpp:106] Found 'RMFQ&RMFUR' GTA5.exe+0x141C12A
+[00:15:32.7559162][INFO/batch.hpp:106] Found 'DO' GTA5.exe+0x754298
+[00:15:32.7575901][INFO/batch.hpp:106] Found 'DP' GTA5.exe+0xCFDBAC
+[00:15:32.7576442][INFO/batch.hpp:106] Found 'ASA' GTA5.exe+0x114E5A0
+[00:15:32.7577078][INFO/batch.hpp:106] Found 'PD' GTA5.exe+0x144E5A9
+[00:15:32.7642734][INFO/batch.hpp:106] Found 'CDBE' GTA5.exe+0x1138C3C
+[00:15:32.7647719][INFO/batch.hpp:106] Found 'MWL' GTA5.exe+0x5DF7A3
+[00:15:32.7655819][INFO/batch.hpp:106] Found 'DV' GTA5.exe+0xD95BB8
+[00:15:32.7661509][INFO/batch.hpp:106] Found 'CW' GTA5.exe+0x166DD7
+[00:15:32.7679340][INFO/batch.hpp:106] Found 'BE' GTA5.exe+0xA7590F
+[00:15:32.7697448][INFO/batch.hpp:106] Found 'SWL' GTA5.exe+0x114E618
+[00:15:32.7721502][INFO/batch.hpp:106] Found 'EP' GTA5.exe+0xA75A0F
+[00:15:32.7759140][INFO/batch.hpp:106] Found 'NHM' GTA5.exe+0x10C41F9
+[00:15:32.7783325][INFO/batch.hpp:106] Found 'BP' GTA5.exe+0x16E7813
+[00:15:32.7818653][INFO/batch.hpp:106] Found 'IMSV' GTA5.exe+0x110A474
+[00:15:32.7842496][INFO/batch.hpp:106] Found 'DC' GTA5.exe+0x14B663B
+[00:15:32.7893525][INFO/batch.hpp:106] Found 'SOD' GTA5.exe+0x12B03A1
+[00:15:32.8043709][INFO/batch.hpp:106] Found 'CTSHP' GTA5.exe+0xA4969E
+[00:15:32.8082359][INFO/batch.hpp:106] Found 'FRC' GTA5.exe+0x14047F3
+[00:15:32.8091281][INFO/batch.hpp:106] Found 'DT' GTA5.exe+0x13E4
+[00:15:32.8123562][INFO/batch.hpp:106] Found 'WMSB' GTA5.exe+0xCFECD3
+[00:15:32.8174389][INFO/batch.hpp:106] Found 'BLPLST' GTA5.exe+0x2C7580
+[00:15:32.8179263][INFO/batch.hpp:106] Found 'GTCE0MB' GTA5.exe+0x1326700
+[00:15:32.8229611][INFO/batch.hpp:106] Found 'SVM1' GTA5.exe+0x161F9BB
+[00:15:32.8239030][INFO/batch.hpp:106] Found 'FEE' GTA5.exe+0x16C5989
+[00:15:32.8240786][INFO/batch.hpp:106] Found 'SVM3&4' GTA5.exe+0x161F982
+[00:15:32.8272077][INFO/batch.hpp:106] Found 'VEHMMGR' GTA5.exe+0xFD4981
+[00:15:32.8279495][INFO/batch.hpp:106] Found 'GS' GTA5.exe+0x27B56
+[00:15:32.8283011][INFO/batch.hpp:106] Found 'SVM2' GTA5.exe+0x161FB16
+[00:15:32.8291493][INFO/batch.hpp:106] Found 'NS' GTA5.exe+0x8A555
+[00:15:32.8292320][INFO/batch.hpp:106] Found 'E0MB' GTA5.exe+0x1321736
+[00:15:32.8317006][INFO/batch.hpp:106] Found 'ASAP' GTA5.exe+0x114A110
+[00:15:32.8366424][INFO/batch.hpp:106] Found 'SVM5&6' GTA5.exe+0x161FAC9
+[00:15:32.8403877][INFO/batch.hpp:106] Found 'TCYCL' GTA5.exe+0xE54FFC
+[00:15:32.8405399][INFO/batch.hpp:106] Found 'GPS' GTA5.exe+0x83BF39
+[00:15:32.8491232][INFO/batch.hpp:106] Found 'CT' GTA5.exe+0x1309060
+[00:15:32.8728151][INFO/batch.hpp:106] Found 'ISCOA' GTA5.exe+0x13BCE16
+[00:15:32.8941012][INFO/batch.hpp:106] Found 'DCLMGR' GTA5.exe+0xE2650C
+[00:15:32.8941576][INFO/pointers.hpp:79] Pointers cache: saved 215 fields to the cache
+[00:15:32.8950438][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[00:15:32.9104937][INFO/batch.hpp:106] Found 'PD' GTA5.exe+0x147C9A
+[00:15:32.9130899][INFO/batch.hpp:106] Found 'SGPA' GTA5.exe+0x1D3BF8
+[00:15:32.9134528][INFO/batch.hpp:106] Found 'RAP' GTA5.exe+0x1EAB1C
+[00:15:32.9134921][INFO/pointers.hpp:79] Pointers cache: saved 5 fields to the cache
+[00:15:32.9142109][INFO/main.cpp:186] Pointers initialized.
+[00:15:32.9142960][INFO/main.cpp:193] Disabled anticheat gameskeleton.
+[00:15:32.9146946][INFO/main.cpp:196] Byte Patch Manager initialized.
+[00:15:33.6591821][INFO/main.cpp:199] Renderer initialized.
+[00:15:33.9912994][INFO/main.cpp:203] Fiber pool initialized.
+[00:15:33.9928953][INFO/main.cpp:206] HTTP Client initialized.
+[00:15:34.2743281][WARN/translation_service.cpp:248] Failed to load local index. [json.exception.parse_error.101] parse error at line 11, column 1: syntax error while parsing object key - invalid literal; last read: '"en_US",<U+000D><U+000A><'; expected string literal
+[00:15:34.2743477][INFO/translation_service.cpp:58] Downloading translations...
+[00:15:34.2914906][WARN/translation_service.cpp:179] Failed to parse language pack. [json.exception.parse_error.101] parse error at line 115, column 1: syntax error while parsing object key - invalid literal; last read: '"Wait Terminate Singleplayer",<U+000D><U+000A><'; expected string literal
+[00:15:34.2925161][INFO/main.cpp:209] Translation Service initialized.
+[00:15:34.3288910][INFO/main.cpp:212] Hooking initialized.
+[00:15:34.3904036][DEBUG/thread_pool.cpp:96] Thread 2796 executing player_database_service.cpp:285
+[00:15:34.3914189][INFO/main.cpp:233] Registered service instances...
+[00:15:34.3917205][INFO/main.cpp:254] Scripts registered.
+[00:15:34.4990990][INFO/main.cpp:257] Hooking enabled.
+[00:15:34.5019777][INFO/main.cpp:260] Dynamic native hooker initialized.
+[00:15:34.5029884][INFO/main.cpp:264] Lua manager initialized.
+[00:15:34.5061861][INFO/translation_service.cpp:163] Translations for 'en_US' does not exist, downloading from https://raw.githubusercontent.com/YimMenu/Translations/master
+[00:15:34.8705834][INFO/backend.cpp:53] Starting script: Self
+[00:15:34.8706197][INFO/backend.cpp:78] Starting script: Weapons
+[00:15:34.8709126][INFO/backend.cpp:101] Starting script: Vehicles
+[00:15:34.8709541][INFO/backend.cpp:117] Starting script: Miscellaneous
+[00:15:34.8712827][INFO/backend.cpp:138] Starting script: Remote
+[00:15:34.8712974][INFO/backend.cpp:153] Starting script: Ls customs
+[00:15:34.8713070][INFO/backend.cpp:165] Starting script: Rainbow paint
+[00:15:34.8713104][INFO/backend.cpp:177] Starting script: Disable Control Action
+[00:15:34.8713149][INFO/backend.cpp:190] Starting script: World
+[00:15:35.1455166][INFO/tunables_service.cpp:85] Saving 35169 tunables to cache
+[00:15:35.1678934][INFO/tunables_service.cpp:36] Loading tunables from cache
+[00:15:46.9120577][INFO/gta_data_service.cpp:265] Rebuilding cache started...
+[00:15:46.9121677][DEBUG/yim_fipackfile.cpp:125] GTA install directory: D:\GTA V\Grand Theft Auto V
+[00:16:18.2038509][INFO/gta_data_service.cpp:520] Cache has been rebuilt.
+	Peds: 1051
+	Vehicles: 843
+	Weapons: 119
+	WeaponComponents: 380
+[00:16:18.2038880][DEBUG/gta_data_service.cpp:523] Starting cache saving procedure...
+[00:16:18.2045471][DEBUG/thread_pool.cpp:96] Thread 12080 executing gta_data_service.cpp:524
+[00:16:18.2156196][INFO/gta_data_service.cpp:576] Finished writing cache to disk.
+[00:16:18.2156452][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[00:16:18.2156499][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[00:16:18.2162493][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[00:16:18.2169078][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[00:16:18.2169196][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[00:16:18.2169490][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[00:17:02.5395473][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[00:17:02.5396169][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[00:17:02.5416331][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[00:17:02.5416745][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[00:17:02.5544952][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[00:17:02.5550614][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[00:17:02.5550808][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[00:18:22.9734795][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[00:18:23.5142342][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[00:18:23.5142834][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[00:18:23.5143900][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[00:18:23.5535025][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[00:18:23.5535412][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[00:21:18.2949842][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":20000,"type":2467613365,"cat":1223799452,"pt":3981893995,"slot":0
+[00:26:18.2306440][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[108.61,248.15,107.24],"wantedlvl":1
+[00:26:18.2307026][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[158.93,88.28,85.37],"wantedlvl":2
+[00:26:18.2307269][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-27.36,-421.71,38.99],"wantedlvl":3
+[00:26:18.2307548][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-238.93,-1021.90,28.23],"name":353883353,"cd":[-238,-1021],"wlvl":3
+[00:30:20.2414185][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1021.42,-859.53,8.77],"name":353883353,"cd":[-1021,-859],"wlvl":3
+[00:30:20.2415283][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1663.35,-754.28,9.41],"wantedlvl":0
+[00:30:20.2415424][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":300,"type":2892279813,"cat":3893038019,"pt":3982455440,"slot":0
+[00:35:18.6349728][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-585.64,-650.89,32.52],"wantedlvl":1
+[00:35:18.6350220][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-585.64,-650.90,32.52],"wantedlvl":2
+[00:35:18.6350425][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-585.64,-650.89,32.52],"wantedlvl":3
+[00:35:18.6350757][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-585.64,-650.90,32.52],"wantedlvl":4
+[00:35:18.6350850][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-585.64,-650.90,32.52],"name":353883353,"cd":[-585,-650],"wlvl":4
+[00:35:18.6351079][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-585.64,-650.90,32.52],"name":353883353,"cd":[-585,-650],"wlvl":4
+[00:35:18.6351283][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1025.15,-707.73,20.65],"name":353883353,"cd":[-1025,-707],"wlvl":4
+[00:35:18.6351608][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1577.97,-633.53,30.08],"name":353883353,"cd":[-1577,-633],"wlvl":4
+[00:35:18.6351816][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1276.68,-401.19,35.66],"name":353883353,"cd":[-1276,-401],"wlvl":4
+[00:35:18.6352027][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1439.16,-648.20,28.93],"name":353883353,"cd":[-1439,-648],"wlvl":4
+[00:35:18.6352099][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1255.44,-751.33,20.55],"name":353883353,"cd":[-1255,-751],"wlvl":4
+[00:35:18.6352400][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1199.14,-821.99,14.89],"wantedlvl":5
+[00:36:56.0651171][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2892279813,"cat":1924582434,"pt":3982896427,"slot":0
+[00:36:56.0651576][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[58.94,-787.31,31.69],"name":353883353,"cd":[58,-787],"wlvl":5
+[00:36:56.0653563][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2892279813,"cat":1924582434,"pt":3982956596,"slot":0
+[00:36:56.0653693][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[755.50,-849.72,43.36],"name":353883353,"cd":[755,-849],"wlvl":5
+[00:36:56.0653800][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[857.66,-843.79,43.42],"name":353883353,"cd":[857,-843],"wlvl":5
+[00:37:18.7172294][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[651.00,-407.83,41.80],"wantedlvl":0
+[00:37:18.7172903][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14730066,"type":3136273443,"cat":654913086,"pt":3983012939,"slot":0
+[00:42:29.0097788][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[763.21,-680.25,28.73],"wantedlvl":1
+[00:42:29.0098771][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1357.88,167.23,-98.87],"wantedlvl":0
+[00:43:16.2734434][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60000,"char":{"slot":0,"cash":16,"bank":133966427,"evc":133966443,"pvc":0,"pxr":0.00000,"nonce":638476153901645661},"c":[-1854.36841,-380.52078,48.45203],"pt":3983350077,"vct":0,"vcp":0,"mid":0,"action":"AUTOSHOP","cat":"BUSINESS","ctx":{
+[00:43:16.2735174][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60000,"char":{"slot":0,"cash":16,"bank":133966427,"evc":133966443,"pvc":0,"pxr":0.00000,"nonce":638476153901645661},"c":[-1854.36841,-380.52078,48.45203],"pt":3983350077,"vct":0,"vcp":0,"mid":0,"action":"AUTOSHOP","cat":"BUSINESS","ctx":{
+[00:47:18.9250894][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":500,"type":2658791846,"cat":1814661405,"pt":3983350077,"slot":0
+[00:47:18.9255567][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1546.53,-386.94,59.75],"wantedlvl":1
+[00:47:18.9256714][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1583.45,-400.39,59.75],"wantedlvl":0
+[00:47:18.9256866][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":100,"type":2892279813,"cat":3893038019,"pt":3983565660,"slot":0
+[00:49:08.3343071][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1560.21,-369.90,59.75],"wantedlvl":1
+[00:49:08.3343790][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1587.06,-440.96,56.71],"wantedlvl":0
+[00:49:08.3343870][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":100,"type":2892279813,"cat":3893038019,"pt":3983675872,"slot":0
+[00:49:08.3344827][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14730766,"type":3136273443,"cat":654913086,"pt":3983699213,"slot":0
+[00:59:19.1466506][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: IDLEKICK; DATA: "idle":120000
+[00:59:19.1469211][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: IDLEKICK; DATA: "idle":120000
+[01:04:19.2792272][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: IDLEKICK; DATA: "idle":300000
+[01:10:47.8896282][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":11000,"char":{"slot":0,"cash":0,"bank":133972468,"evc":133972468,"pvc":0,"pxr":0.00000,"nonce":638476170418192456},"c":[-1943.62061,461.51086,91.82953],"pt":3984956800,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NONE"
+[01:10:47.8896870][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":11000,"char":{"slot":0,"cash":0,"bank":133972468,"evc":133972468,"pvc":0,"pxr":0.00000,"nonce":638476170418192456},"c":[-1943.62061,461.51086,91.82953],"pt":3984956800,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NONE"
+[01:13:19.4846032][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1200,"type":2658791846,"cat":1037279541,"pt":3984956800,"slot":0
+[01:13:52.2499073][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":93000,"char":{"slot":0,"cash":93000,"bank":133972468,"evc":134065468,"pvc":0,"pxr":0.00000,"nonce":638476172261086278},"c":[-1615.69055,-3015.74048,-75.20506],"pt":3985120485,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[01:13:52.2499798][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":93000,"char":{"slot":0,"cash":93000,"bank":133972468,"evc":134065468,"pvc":0,"pxr":0.00000,"nonce":638476172261086278},"c":[-1615.69055,-3015.74048,-75.20506],"pt":3985120485,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[01:15:28.9001028][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":36000,"char":{"slot":0,"cash":129000,"bank":133972468,"evc":134101468,"pvc":0,"pxr":0.00000,"nonce":638476173227162862},"c":[1075.45776,-2284.00757,-46.59989],"pt":3985211311,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[01:15:28.9001919][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":36000,"char":{"slot":0,"cash":129000,"bank":133972468,"evc":134101468,"pvc":0,"pxr":0.00000,"nonce":638476173227162862},"c":[1075.45776,-2284.00757,-46.59989],"pt":3985211311,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[01:17:39.5741219][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":131000,"bank":133957568,"evc":134088568,"pvc":0,"pxr":0.00000,"nonce":638476174533098578},"c":[-211.56204,-1324.30298,30.19276],"pt":3985332409,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[01:17:39.5741885][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":131000,"bank":133957568,"evc":134088568,"pvc":0,"pxr":0.00000,"nonce":638476174533098578},"c":[-211.56204,-1324.30298,30.19276],"pt":3985332409,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[01:31:19.8841474][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-3165.36,1059.82,20.86],"wantedlvl":2
+[01:31:19.8842502][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-2047.01,59.32,190.37],"wantedlvl":0
+[01:31:19.8842620][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3986041835,"slot":0
+[01:31:19.8843564][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3986112477,"slot":0
+[01:40:20.0259769][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-519.24,-2848.29,6.92],"wantedlvl":2
+[01:40:20.0260630][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-209.04,-1428.53,32.26],"wantedlvl":0
+[01:40:20.0260714][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3986551439,"slot":0
+[01:40:20.0261608][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3986671635,"slot":0
+[01:49:05.5720088][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":59400,"char":{"slot":0,"cash":190250,"bank":133945773,"evc":134136023,"pvc":0,"pxr":0.00000,"nonce":638476193394465511},"c":[-1156.39612,-2007.47815,12.82336],"pt":3987189673,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[01:49:05.5720979][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":59400,"char":{"slot":0,"cash":190250,"bank":133945773,"evc":134136023,"pvc":0,"pxr":0.00000,"nonce":638476193394465511},"c":[-1156.39612,-2007.47815,12.82336],"pt":3987189673,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[01:53:50.5949770][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2400,"char":{"slot":0,"cash":192650,"bank":133945773,"evc":134138423,"pvc":0,"pxr":0.00000,"nonce":638476196244101809},"c":[1075.45776,-2284.00757,-46.59989],"pt":3987474783,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[01:53:50.5950403][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2400,"char":{"slot":0,"cash":192650,"bank":133945773,"evc":134138423,"pvc":0,"pxr":0.00000,"nonce":638476196244101809},"c":[1075.45776,-2284.00757,-46.59989],"pt":3987474783,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[02:01:20.4235363][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1492.15,887.82,183.08],"wantedlvl":2
+[02:01:20.4236763][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-550.81,-299.50,35.75],"wantedlvl":0
+[02:01:20.4236871][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3987885813,"slot":0
+[02:05:16.4274369][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":80000,"char":{"slot":0,"cash":80000,"bank":134138423,"evc":134218423,"pvc":0,"pxr":0.00000,"nonce":638476203103935102},"c":[-578.09637,-715.20868,116.80526],"pt":3988129216,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"INCOME","ctx":{}
+[02:05:16.4274909][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":80000,"char":{"slot":0,"cash":80000,"bank":134138423,"evc":134218423,"pvc":0,"pxr":0.00000,"nonce":638476203103935102},"c":[-578.09637,-715.20868,116.80526],"pt":3988129216,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"INCOME","ctx":{}
+[02:05:20.5317419][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3987962015,"slot":0
+[02:06:26.9645926][INFO/main.cpp:272] Scripts unregistered.
+[02:06:26.9647260][INFO/main.cpp:275] Lua manager uninitialized.
+[02:06:27.0507500][INFO/main.cpp:278] Hooking disabled.
+[02:06:27.0514971][INFO/main.cpp:281] Dynamic native hooker uninitialized.
+[02:06:27.0516096][DEBUG/thread_pool.cpp:109] Thread 12080 exiting...
+[02:06:27.0516143][DEBUG/thread_pool.cpp:109] Thread 17668 exiting...
+[02:06:27.0516745][DEBUG/thread_pool.cpp:109] Thread 14204 exiting...
+[02:06:27.2327168][DEBUG/thread_pool.cpp:109] Thread 2796 exiting...
+[02:06:27.2334349][INFO/main.cpp:286] Destroyed thread pool.
+[02:06:27.2334622][INFO/main.cpp:289] Script Connection Service reset.
+[02:06:27.2383238][INFO/main.cpp:291] Tunables Service reset.
+[02:06:27.2383550][INFO/main.cpp:293] Hotkey Service reset.
+[02:06:27.2383628][INFO/main.cpp:295] Matchmaking Service reset.
+[02:06:27.2387721][INFO/main.cpp:297] Player Database Service reset.
+[02:06:27.2387825][INFO/main.cpp:299] API Service reset.
+[02:06:27.2647153][INFO/main.cpp:301] Script Patcher Service reset.
+[02:06:27.2647723][INFO/main.cpp:303] Gui Service reset.
+[02:06:27.2679284][INFO/main.cpp:305] GTA Data Service reset.
+[02:06:27.2679594][INFO/main.cpp:307] Vehicle Service reset.
+[02:06:27.2679660][INFO/main.cpp:309] Model Preview Service reset.
+[02:06:27.2679703][INFO/main.cpp:311] Mobile Service reset.
+[02:06:27.2679746][INFO/main.cpp:313] Player Service reset.
+[02:06:27.2679810][INFO/main.cpp:315] Pickup Service reset.
+[02:06:27.2679924][INFO/main.cpp:317] Custom Text Service reset.
+[02:06:27.2681558][INFO/main.cpp:319] Context Service reset.
+[02:06:27.2681687][INFO/main.cpp:321] Xml Vehicles Service reset.
+[02:06:27.2681717][INFO/main.cpp:322] Services uninitialized.
+[02:06:27.2682352][INFO/main.cpp:325] Hooking uninitialized.
+[02:06:27.2682695][INFO/main.cpp:328] Fiber pool uninitialized.
+[02:06:27.3098450][INFO/main.cpp:331] Renderer uninitialized.
+[02:06:27.3102969][INFO/main.cpp:334] Byte Patch Manager uninitialized.
+[02:06:27.3103150][INFO/main.cpp:337] Pointers uninitialized.
+[02:06:27.3103208][INFO/main.cpp:340] Thread pool uninitialized.
+[02:06:27.3103233][INFO/main.cpp:342] Farewell!

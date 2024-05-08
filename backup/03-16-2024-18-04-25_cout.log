@@ -1,0 +1,395 @@
+[22:38:48.1152500][INFO/main.cpp:159] Yim's Menu Initializing
+[22:38:48.1155093][INFO/main.cpp:160] Git Info
+	Branch:	master
+	Hash:	d737c01b333f349ff9d4803784fee1051ee93cb9
+	Date:	Tue Feb 20 18:29:02 2024
+[22:38:48.1159146][INFO/main.cpp:172] Windows 10 Home Version 22H2 (OS Build 19045.4170)
+[22:38:48.1206293][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[22:38:48.1212384][INFO/main.cpp:180] Thread pool initialized.
+[22:38:48.1370691][INFO/main.cpp:183] Settings Loaded.
+[22:38:48.1370721][DEBUG/thread_pool.cpp:96] Thread 1944 executing settings.cpp:12
+[22:38:48.1466177][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[22:38:48.1466467][INFO/pointers.cpp:1812] Loading pointers instance from cache
+[22:38:48.1466530][INFO/pointers.cpp:1821] Pointers cache: Loading 215 fields from the cache
+[22:38:48.1466766][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[22:38:48.1588917][INFO/batch.hpp:106] Found 'PD' GTA5.exe+0x147C9A
+[22:38:48.1606234][INFO/batch.hpp:106] Found 'SGPA' GTA5.exe+0x1D3BF8
+[22:38:48.1609400][INFO/batch.hpp:106] Found 'RAP' GTA5.exe+0x1EAB1C
+[22:38:48.1609789][INFO/pointers.hpp:79] Pointers cache: saved 5 fields to the cache
+[22:38:48.1618156][INFO/main.cpp:186] Pointers initialized.
+[22:38:48.1618371][INFO/main.cpp:193] Disabled anticheat gameskeleton.
+[22:38:48.1621876][INFO/main.cpp:196] Byte Patch Manager initialized.
+[22:38:48.8169964][INFO/main.cpp:199] Renderer initialized.
+[22:38:49.0842390][INFO/main.cpp:203] Fiber pool initialized.
+[22:38:49.0923858][INFO/main.cpp:206] HTTP Client initialized.
+[22:38:49.4188798][INFO/main.cpp:209] Translation Service initialized.
+[22:38:49.4560826][INFO/main.cpp:212] Hooking initialized.
+[22:38:49.4902175][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[22:38:49.4902335][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[22:38:49.4907168][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[22:38:49.4910706][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[22:38:49.4910788][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[22:38:49.4910973][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[22:38:49.5089518][DEBUG/thread_pool.cpp:96] Thread 13396 executing player_database_service.cpp:285
+[22:38:49.5095505][INFO/main.cpp:233] Registered service instances...
+[22:38:49.5098082][INFO/main.cpp:254] Scripts registered.
+[22:38:49.5753396][INFO/main.cpp:257] Hooking enabled.
+[22:38:49.5783101][INFO/main.cpp:260] Dynamic native hooker initialized.
+[22:38:49.5793551][INFO/main.cpp:264] Lua manager initialized.
+[22:38:49.6915408][INFO/backend.cpp:53] Starting script: Self
+[22:38:49.6917993][INFO/backend.cpp:78] Starting script: Weapons
+[22:38:49.6918323][INFO/backend.cpp:101] Starting script: Vehicles
+[22:38:49.6918437][INFO/backend.cpp:117] Starting script: Miscellaneous
+[22:38:49.6918811][INFO/backend.cpp:138] Starting script: Remote
+[22:38:49.6919032][INFO/backend.cpp:153] Starting script: Ls customs
+[22:38:49.6919150][INFO/backend.cpp:165] Starting script: Rainbow paint
+[22:38:49.6919190][INFO/backend.cpp:177] Starting script: Disable Control Action
+[22:38:49.6919320][INFO/backend.cpp:190] Starting script: World
+[22:38:49.7185624][INFO/tunables_service.cpp:36] Loading tunables from cache
+[22:39:45.2433355][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[22:39:45.8704339][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[22:39:45.8704856][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[22:39:45.8712658][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[22:39:45.8712803][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[22:39:45.8715303][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[22:39:45.8715440][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[22:39:45.8762288][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[22:39:45.8762806][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[22:39:45.8763271][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[22:39:45.8821664][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[22:39:45.8823571][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[22:39:45.8823655][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[22:43:54.8281684][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[22:43:54.8287209][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[22:46:13.0185591][FATAL/exception_handler.cpp:42] EXCEPTION_ACCESS_VIOLATION
+Dumping modules:
+GTA5.exe Base Address: 0x7FF64BC00000 Size: 67215872
+ntdll.dll Base Address: 0x7FFE68B50000 Size: 1153536
+KERNEL32.DLL Base Address: 0x7FFE68920000 Size: 513536
+KERNELBASE.dll Base Address: 0x7FFE66680000 Size: 1255936
+USER32.dll Base Address: 0x7FFE68770000 Size: 584704
+win32u.dll Base Address: 0x7FFE66B50000 Size: 42496
+GDI32.dll Base Address: 0x7FFE67890000 Size: 57856
+gdi32full.dll Base Address: 0x7FFE66370000 Size: 672768
+msvcp_win.dll Base Address: 0x7FFE664E0000 Size: 344064
+ucrtbase.dll Base Address: 0x7FFE66580000 Size: 735744
+PSAPI.DLL Base Address: 0x7FFE68910000 Size: 2048
+WS2_32.dll Base Address: 0x7FFE67820000 Size: 275456
+RPCRT4.dll Base Address: 0x7FFE689E0000 Size: 922624
+CRYPT32.dll Base Address: 0x7FFE66980000 Size: 1094656
+WINTRUST.dll Base Address: 0x7FFE66AE0000 Size: 293888
+msvcrt.dll Base Address: 0x7FFE67700000 Size: 477184
+IMM32.dll Base Address: 0x7FFE672F0000 Size: 125440
+bcrypt.dll Base Address: 0x7FFE662B0000 Size: 102912
+SHLWAPI.dll Base Address: 0x7FFE67560000 Size: 182784
+VERSION.dll Base Address: 0x7FFE5E3D0000 Size: 10752
+ADVAPI32.dll Base Address: 0x7FFE67650000 Size: 434176
+DSOUND.dll Base Address: 0x7FFE4E530000 Size: 380928
+sechost.dll Base Address: 0x7FFE673B0000 Size: 422400
+SHELL32.dll Base Address: 0x7FFE66B80000 Size: 5921280
+combase.dll Base Address: 0x7FFE67970000 Size: 2324480
+ole32.dll Base Address: 0x7FFE681D0000 Size: 833024
+OLEAUT32.dll Base Address: 0x7FFE67CD0000 Size: 608768
+WININET.dll Base Address: 0x7FFE3C350000 Size: 2019840
+WINMM.dll Base Address: 0x7FFE5CD30000 Size: 81408
+MF.dll Base Address: 0x7FFE2D6F0000 Size: 340992
+msdmo.dll Base Address: 0x7FFE63920000 Size: 13312
+MFPlat.DLL Base Address: 0x7FFE2D530000 Size: 1409024
+cfgmgr32.dll Base Address: 0x7FFE66490000 Size: 219136
+shcore.dll Base Address: 0x7FFE67450000 Size: 476672
+MFReadWrite.dll Base Address: 0x7FFE497D0000 Size: 918016
+PROPSYS.dll Base Address: 0x7FFE61D50000 Size: 631296
+WTSAPI32.dll Base Address: 0x7FFE61800000 Size: 37888
+d3d9.dll Base Address: 0x7FFE38C20000 Size: 1371648
+D3DCOMPILER_43.dll Base Address: 0x7FFE3D160000 Size: 2423296
+DINPUT8.dll Base Address: 0x7FFE52F40000 Size: 169472
+XINPUT1_3.dll Base Address: 0x400000 Size: 85504
+SETUPAPI.dll Base Address: 0x7FFE68300000 Size: 887808
+IPHLPAPI.DLL Base Address: 0x7FFE655D0000 Size: 166400
+powrprof.dll Base Address: 0x7FFE65760000 Size: 70656
+winmmbase.dll Base Address: 0x7FFE29BE0000 Size: 95232
+kernel.appcore.dll Base Address: 0x7FFE64090000 Size: 16384
+dwmapi.dll Base Address: 0x7FFE63EB0000 Size: 98816
+windows.storage.dll Base Address: 0x7FFE64290000 Size: 5853184
+Wldp.dll Base Address: 0x7FFE65B50000 Size: 96768
+GFSDK_TXAA_AlphaResolve.win64.dll Base Address: 0x7FFE5A460000 Size: 48128
+OPENGL32.dll Base Address: 0x7FFE12E30000 Size: 909312
+GLU32.dll Base Address: 0x7FFE0A620000 Size: 122880
+GFSDK_ShadowLib.win64.dll Base Address: 0x7FFE232E0000 Size: 96256
+d3dx9_43.dll Base Address: 0x7FFE21220000 Size: 2280960
+bink2w64.dll Base Address: 0x7FFE4DDD0000 Size: 307712
+MFCORE.DLL Base Address: 0x7FFE08C90000 Size: 3960320
+ksuser.dll Base Address: 0x7FFE5ABB0000 Size: 6144
+CRYPTBASE.DLL Base Address: 0x7FFE65AC0000 Size: 10752
+UMPDC.dll Base Address: 0x7FFE65610000 Size: 34816
+bcryptPrimitives.dll Base Address: 0x7FFE662E0000 Size: 408576
+RTWorkQ.DLL Base Address: 0x7FFE2D4F0000 Size: 105472
+MSASN1.dll Base Address: 0x7FFE65F30000 Size: 34816
+inputhost.dll Base Address: 0x7FFE53830000 Size: 976384
+CoreMessaging.dll Base Address: 0x7FFE636C0000 Size: 607744
+wintypes.dll Base Address: 0x7FFE62000000 Size: 487424
+CoreUIComponents.dll Base Address: 0x7FFE63360000 Size: 1795072
+ntmarta.dll Base Address: 0x7FFE652D0000 Size: 140288
+dbghelp.dll Base Address: 0x7FFE60A50000 Size: 1400320
+dbgcore.DLL Base Address: 0x7FFE5A820000 Size: 136704
+CRYPTSP.dll Base Address: 0x7FFE65EE0000 Size: 46080
+rsaenh.dll Base Address: 0x7FFE651B0000 Size: 142336
+uxtheme.dll Base Address: 0x7FFE63BC0000 Size: 382976
+clbcatq.dll Base Address: 0x7FFE678C0000 Size: 437760
+amsi.dll Base Address: 0x7FFE4C4C0000 Size: 62464
+USERENV.dll Base Address: 0x7FFE660B0000 Size: 108032
+profapi.dll Base Address: 0x7FFE66130000 Size: 88064
+mbamsi64.dll Base Address: 0x7FFE4A200000 Size: 2192384
+MPR.dll Base Address: 0x7FFE56F10000 Size: 71168
+NETAPI32.dll Base Address: 0x7FFE566D0000 Size: 47616
+AUTHZ.dll Base Address: 0x7FFE64F40000 Size: 176640
+sfc.dll Base Address: 0x209788A0000 Size: 0
+NETUTILS.DLL Base Address: 0x7FFE65630000 Size: 19456
+sfc_os.DLL Base Address: 0x7FFE51C90000 Size: 28672
+gpapi.dll Base Address: 0x7FFE64A40000 Size: 69120
+imagehlp.dll Base Address: 0x7FFE68150000 Size: 45056
+MpOav.dll Base Address: 0x7FFE46600000 Size: 212992
+dxcore.dll Base Address: 0x7FFE5CF20000 Size: 150016
+apphelp.dll Base Address: 0x7FFE639E0000 Size: 319488
+wbemprox.dll Base Address: 0x7FFE52E60000 Size: 27648
+wbemcomn.dll Base Address: 0x7FFE564E0000 Size: 328704
+D3D11.DLL Base Address: 0x7FFE62B80000 Size: 1853440
+dxgi.dll Base Address: 0x7FFE64A70000 Size: 614912
+wbemsvc.dll Base Address: 0x7FFE51710000 Size: 7168
+fastprox.dll Base Address: 0x7FFE51B00000 Size: 708608
+DEVOBJ.dll Base Address: 0x7FFE65F90000 Size: 132608
+D3D10_1.DLL Base Address: 0x7FFE52E80000 Size: 130048
+d3d10_1core.dll Base Address: 0x7FFE61730000 Size: 7680
+MSCTF.dll Base Address: 0x7FFE67DA0000 Size: 864768
+textinputframework.dll Base Address: 0x7FFE53A70000 Size: 722944
+WINSTA.dll Base Address: 0x7FFE65440000 Size: 190976
+aticfx64.dll Base Address: 0x7FFE5CD60000 Size: 1123840
+atiuxp64.dll Base Address: 0x7FFE5CCF0000 Size: 190464
+atidxx64.dll Base Address: 0x7FFE5AD70000 Size: 11699712
+amdihk64.dll Base Address: 0x7FFE5AB30000 Size: 117248
+HID.DLL Base Address: 0x7FFE64A30000 Size: 20480
+MMDevApi.dll Base Address: 0x7FFE60380000 Size: 387072
+XAudio2_7.dll Base Address: 0x7FFE460F0000 Size: 485376
+AUDIOSES.DLL Base Address: 0x7FFE60670000 Size: 1037312
+resourcepolicyclient.dll Base Address: 0x7FFE63CA0000 Size: 31744
+Windows.UI.dll Base Address: 0x7FFE548F0000 Size: 731136
+WindowManagementAPI.dll Base Address: 0x7FFE5F7B0000 Size: 450048
+twinapi.appcore.dll Base Address: 0x7FFE5F260000 Size: 1457664
+avrt.dll Base Address: 0x7FFE5F8F0000 Size: 5632
+napinsp.dll Base Address: 0x7FFE44DB0000 Size: 50176
+pnrpnsp.dll Base Address: 0x7FFE44D90000 Size: 66048
+wshbth.dll Base Address: 0x7FFE44D70000 Size: 43008
+NLAapi.dll Base Address: 0x7FFE61940000 Size: 68608
+mswsock.dll Base Address: 0x7FFE65930000 Size: 331776
+DNSAPI.dll Base Address: 0x7FFE65640000 Size: 600576
+NSI.dll Base Address: 0x7FFE673A0000 Size: 7680
+winrnr.dll Base Address: 0x7FFE44D50000 Size: 32768
+fwpuclnt.dll Base Address: 0x7FFE5EA20000 Size: 283648
+rasadhlp.dll Base Address: 0x7FFE5E9A0000 Size: 7168
+cryptnet.dll Base Address: 0x7FFE59370000 Size: 135168
+WINNSI.DLL Base Address: 0x7FFE61920000 Size: 11776
+SspiCli.dll Base Address: 0x7FFE660E0000 Size: 123904
+socialclub.dll Base Address: 0x7FFE2E610000 Size: 2692608
+chrome_elf.dll Base Address: 0x7FFE4E680000 Size: 901120
+libcef.dll Base Address: 0x7FFDF0560000 Size: 151009280
+COMDLG32.dll Base Address: 0x7FFE67EC0000 Size: 684032
+COMCTL32.dll Base Address: 0x7FFE4E5D0000 Size: 560128
+OLEACC.dll Base Address: 0x7FFE38530000 Size: 260608
+UIAutomationCore.DLL Base Address: 0x7FFE36DD0000 Size: 2040832
+Secur32.dll Base Address: 0x7FFE43DF0000 Size: 11264
+DWrite.dll Base Address: 0x7FFE4DAE0000 Size: 1601024
+WINSPOOL.DRV Base Address: 0x7FFE40040000 Size: 389632
+WINHTTP.dll Base Address: 0x7FFE5F960000 Size: 845312
+ncrypt.dll Base Address: 0x7FFE65BC0000 Size: 102400
+USP10.dll Base Address: 0x7FFE0A600000 Size: 512
+urlmon.dll Base Address: 0x7FFE58640000 Size: 1281536
+dxva2.dll Base Address: 0x7FFE2D1D0000 Size: 96256
+wevtapi.dll Base Address: 0x7FFE61960000 Size: 296960
+credui.dll Base Address: 0x7FFE32870000 Size: 55808
+CRYPTUI.dll Base Address: 0x7FFE589F0000 Size: 246272
+dhcpcsvc.DLL Base Address: 0x7FFE60800000 Size: 61440
+ESENT.dll Base Address: 0x7FFE52120000 Size: 2585088
+srvcli.dll Base Address: 0x7FFE593F0000 Size: 54272
+iertutil.dll Base Address: 0x7FFE58380000 Size: 551424
+DSROLE.DLL Base Address: 0x7FFE61930000 Size: 7680
+WKSCLI.DLL Base Address: 0x7FFE65310000 Size: 45568
+SAMCLI.DLL Base Address: 0x7FFE54BB0000 Size: 61440
+NTASN1.dll Base Address: 0x7FFE65B80000 Size: 81408
+FirewallAPI.dll Base Address: 0x7FFE64DD0000 Size: 329728
+fwbase.dll Base Address: 0x7FFE64D60000 Size: 151552
+FWPolicyIOMgr.dll Base Address: 0x7FFE58C10000 Size: 205824
+wdmaud.drv Base Address: 0x7FFE26550000 Size: 193024
+msacm32.drv Base Address: 0x7FFE33540000 Size: 17920
+MSACM32.dll Base Address: 0x7FFE33520000 Size: 74240
+midimap.dll Base Address: 0x7FFE31810000 Size: 13312
+ondemandconnroutehelper.dll Base Address: 0x7FFE334C0000 Size: 42496
+dhcpcsvc6.DLL Base Address: 0x7FFE60820000 Size: 23552
+YimMenu (1).dll Base Address: 0x7FFDEFA10000 Size: 9238016
+MSVCP140.dll Base Address: 0x7FFE376A0000 Size: 340480
+MSVCP140_2.dll Base Address: 0x7FFE0A650000 Size: 196096
+D3DCOMPILER_47.dll Base Address: 0x7FFE62160000 Size: 3396608
+VCRUNTIME140.dll Base Address: 0x7FFE37730000 Size: 73728
+VCRUNTIME140_1.dll Base Address: 0x7FFE34070000 Size: 15360
+winbrand.dll Base Address: 0x7FFE3FE70000 Size: 161280
+xinput1_4.dll Base Address: 0x7FFE5A5D0000 Size: 30208
+schannel.DLL Base Address: 0x7FFE650C0000 Size: 486400
+mskeyprotect.dll Base Address: 0x7FFE594A0000 Size: 44544
+ncryptsslp.dll Base Address: 0x7FFE59550000 Size: 78848
+Dumping registers:
+RAX: 0x7FF64C151160
+RCX: 0x7FF64D69B9E0
+RDX: 0x209A1B15850
+RBX: 0x7FF64D69B9E0
+RSI: 0x12C
+RDI: 0x0
+RSP: 0x3116BFF2D0
+RBP: 0x3116BFF450
+R8:  0x169
+R9:  0x2090FA31330
+R10: 0x7FFE66643A80
+R11: 0x7FFE66643C80
+R12: 0x0
+R13: 0x0
+R14: 0x0
+R15: 0x0
+Dumping stacktrace:
+[0]	GTA5.exe+0x1151077 0x7FF64CD51077
+[1]	YimMenu (1).dll+0x6D39DF 0x7FFDF00E39DF
+[2]	YimMenu (1).dll+0xABE62 0x7FFDEFABBE62
+[3]	YimMenu (1).dll+0x5BF89 0x7FFDEFA6BF89
+[4]	YimMenu (1).dll+0x646DAE 0x7FFDF0056DAE
+[5]	YimMenu (1).dll+0x646D8C 0x7FFDF0056D8C
+[6]	YimMenu (1).dll+0x646AA1 0x7FFDF0056AA1
+[7]	KERNELBASE.dll PackageIdFromFullName
+[8]	ntdll.dll RtlUserFiberStart
+--------End of exception--------
+
+[22:47:25.4611379][WARN/reaction.cpp:60] Received Modder Detection from BenBoe01 (187740907)
+[22:48:40.7884713][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[799.63,-1438.78,26.64],"wantedlvl":2
+[22:48:40.7885416][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[843.76,-1704.57,28.76],"wantedlvl":0
+[22:49:00.6260231][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":25000,"char":{"slot":0,"cash":90529,"bank":131577559,"evc":131668088,"pvc":0,"pxr":0.00000,"nonce":638462261352522402},"c":[932.80713,-1803.22656,20.14076],"pt":3820029276,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"fm_con
+[22:49:00.6260653][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":25000,"char":{"slot":0,"cash":90529,"bank":131577559,"evc":131668088,"pvc":0,"pxr":0.00000,"nonce":638462261352522402},"c":[932.80713,-1803.22656,20.14076],"pt":3820029276,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"fm_con
+[22:49:30.1135888][WARN/reaction.cpp:60] Received Modder Detection from Kiliii8bag (217136788)
+[22:49:55.1013962][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[934.80,-1803.54,30.21],"wantedlvl":2
+[22:49:55.1014616][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":2000,"type":2658791846,"cat":2323682310,"pt":3820029276,"slot":0
+[22:49:55.1014839][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[935.78,-1802.94,30.79],"wantedlvl":0
+[22:51:48.6552053][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[971.40,-1718.23,30.49],"wantedlvl":2
+[22:51:48.6552487][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[962.93,-1723.30,30.81],"wantedlvl":0
+[22:53:13.7295717][WARN/reaction.cpp:60] Received Modder Detection from LeeSgadush (243444764)
+[22:54:36.2499337][WARN/reaction.cpp:60] Received Modder Detection from IM_A_MONKE1000 (236675895)
+[22:54:38.3636833][WARN/interloper_reaction.cpp:30] Received Spectate Others from Kiliii8bag (217136788), victim is BenBoe01
+[23:09:27.6446151][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is LinayYT
+[23:10:44.5562461][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is panagiotis498
+[23:10:48.6186404][WARN/interloper_reaction.cpp:30] Received Spectate Others from LinayYT (248066637), victim is BenBoe01
+[23:11:24.7800031][WARN/interloper_reaction.cpp:30] Received Spectate Others from LinayYT (248066637), victim is BenBoe01
+[23:11:31.7970976][WARN/interloper_reaction.cpp:30] Received Spectate Others from LinayYT (248066637), victim is Bremspedal
+[23:11:35.7208134][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is LinayYT
+[23:11:36.1769495][WARN/interloper_reaction.cpp:30] Received Spectate Others from LinayYT (248066637), victim is DerBerserker2325
+[23:11:37.4275556][WARN/interloper_reaction.cpp:30] Received Spectate Others from LinayYT (248066637), victim is Elecrio
+[23:12:43.1679039][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is panagiotis498
+[23:12:56.5945888][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is LinayYT
+[23:14:10.5182122][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is panagiotis498
+[23:14:11.5187869][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is LinayYT
+[23:14:32.6321039][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":35000,"char":{"slot":0,"cash":125529,"bank":130491884,"evc":130617413,"pvc":0,"pxr":0.00000,"nonce":638462276709256327},"c":[199.38190,-166.11800,56.31851],"pt":3821513075,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[23:14:32.6321638][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":35000,"char":{"slot":0,"cash":125529,"bank":130491884,"evc":130617413,"pvc":0,"pxr":0.00000,"nonce":638462276709256327},"c":[199.38190,-166.11800,56.31851],"pt":3821513075,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[23:14:39.3626897][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20300,"char":{"slot":0,"cash":145829,"bank":130491884,"evc":130637713,"pvc":0,"pxr":0.00000,"nonce":638462276739583703},"c":[199.38190,-166.11800,56.31851],"pt":3821513075,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":2
+[23:14:39.3627489][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20300,"char":{"slot":0,"cash":145829,"bank":130491884,"evc":130637713,"pvc":0,"pxr":0.00000,"nonce":638462276739583703},"c":[199.38190,-166.11800,56.31851],"pt":3821513075,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":2
+[23:14:45.0997776][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15550,"char":{"slot":0,"cash":175779,"bank":130491884,"evc":130667663,"pvc":0,"pxr":0.00000,"nonce":638462276797777432},"c":[199.38190,-166.11800,56.31851],"pt":3821523086,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[23:14:45.0998441][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":15550,"char":{"slot":0,"cash":175779,"bank":130491884,"evc":130667663,"pvc":0,"pxr":0.00000,"nonce":638462276797777432},"c":[199.38190,-166.11800,56.31851],"pt":3821523086,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[23:16:02.8250473][WARN/reaction.cpp:60] Received Modder Detection from LinayYT (248066637)
+[23:16:24.5406120][WARN/reaction.cpp:60] Received Modder Detection from wohooowegotsome (178777832)
+[23:17:26.9922325][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-746.34,-875.48,21.52],"wantedlvl":1
+[23:17:26.9922919][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-746.33,-875.53,21.53],"wantedlvl":2
+[23:17:26.9925420][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-623.25,-731.00,27.89],"wantedlvl":0
+[23:17:26.9925803][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14492411,"type":3136273443,"cat":654913086,"pt":3821680571,"slot":0
+[23:17:51.3773712][WARN/reaction.cpp:60] Received Modder Detection from wohooowegotsome (178777832)
+[23:18:22.6609807][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14492411,"type":3136273443,"cat":654913086,"pt":3821724320,"slot":0
+[23:19:33.2658328][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":1500,"char":{"slot":0,"cash":0,"bank":130668163,"evc":130668163,"pvc":0,"pxr":0.00000,"nonce":638462279678495790},"c":[-557.72339,-1187.04810,18.36537],"pt":3821784417,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"BOSS_GOON","ctx":{"uuid":0}
+[23:19:33.2658819][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":1500,"char":{"slot":0,"cash":0,"bank":130668163,"evc":130668163,"pvc":0,"pxr":0.00000,"nonce":638462279678495790},"c":[-557.72339,-1187.04810,18.36537],"pt":3821784417,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"BOSS_GOON","ctx":{"uuid":0}
+[23:20:50.4474914][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":300,"type":3419251281,"cat":1626430110,"pt":3821784417,"slot":0
+[23:20:58.5895340][WARN/interloper_reaction.cpp:30] Received Spectate Others from Kiliii8bag (217136788), victim is BenBoe01
+[23:21:10.5346076][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is wohooowegotsome
+[23:21:11.6837734][WARN/interloper_reaction.cpp:30] Received Spectate Others from Kiliii8bag (217136788), victim is BenBoe01
+[23:21:23.9928850][WARN/interloper_reaction.cpp:30] Received Spectate Others from wohooowegotsome (178777832), victim is Bremspedal
+[23:21:34.3852911][WARN/reaction.cpp:60] Received Modder Detection from Mocromaffia112 (218929748)
+[23:22:22.8680006][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: RDEV; DATA: "g":"SC 218929748"
+[23:22:22.8682016][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-687.76,-240.58,36.34],"wantedlvl":1
+[23:22:22.8683908][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-986.16,66.03,51.34],"wantedlvl":2
+[23:22:31.2014284][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is LeeSgadush
+[23:22:51.3644182][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: DIG; DATA: "gamer":"SC 137609880","action":"SCRIPT","data":{"a":1,"b":5},"id":-703822965259280984
+[23:22:54.7460133][WARN/interloper_reaction.cpp:30] Received Spectate Others from La_Biboque (26287876), victim is LeeSgadush
+[23:23:44.0911511][WARN/interloper_reaction.cpp:30] Received Spectate Others from Kiliii8bag (217136788), victim is BenBoe01
+[23:23:44.6146018][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-259.60,-112.65,45.78],"wantedlvl":0
+[23:23:44.6146343][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3822040076,"slot":0
+[23:25:56.5047116][WARN/reaction.cpp:60] Received Modder Detection from xRuiined (61921200)
+[23:26:48.6669055][WARN/reaction.cpp:60] Received Modder Detection from DoNaShiRo (211899774)
+[23:27:12.6918198][WARN/interloper_reaction.cpp:30] Received Spectate Others from BenBoe01 (187740907), victim is Kiliii8bag
+[23:27:56.9674806][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-226.74,142.61,69.28],"wantedlvl":2
+[23:27:56.9675654][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-350.56,-136.24,38.42],"wantedlvl":0
+[23:29:47.2212931][WARN/interloper_reaction.cpp:30] Received Spectate Others from Zeero_Skills (183856834), victim is DoNaShiRo
+[23:30:02.2431809][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":14900,"char":{"slot":0,"cash":14900,"bank":130668163,"evc":130683063,"pvc":0,"pxr":0.00000,"nonce":638462285968351888},"c":[1195.47974,-3103.94043,6.02803],"pt":3822411192,"vct":0,"vcp":0,"mid":0,"action":"IMP_EXP","cat":"JOBS","ctx":{
+[23:30:02.2432647][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":14900,"char":{"slot":0,"cash":14900,"bank":130668163,"evc":130683063,"pvc":0,"pxr":0.00000,"nonce":638462285968351888},"c":[1195.47974,-3103.94043,6.02803],"pt":3822411192,"vct":0,"vcp":0,"mid":0,"action":"IMP_EXP","cat":"JOBS","ctx":{
+[23:31:38.3885095][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":500,"type":2658791846,"cat":2364259886,"pt":3822409672,"slot":0
+[23:39:25.5970269][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":115000,"char":{"slot":0,"cash":129900,"bank":130663648,"evc":130793548,"pvc":0,"pxr":0.00000,"nonce":638462291600706486},"c":[-1615.81567,-3015.83472,-75.20506],"pt":3822959958,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[23:39:25.5970967][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":115000,"char":{"slot":0,"cash":129900,"bank":130663648,"evc":130793548,"pvc":0,"pxr":0.00000,"nonce":638462291600706486},"c":[-1615.81567,-3015.83472,-75.20506],"pt":3822959958,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[23:39:41.1801240][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1173.89,-1173.97,5.62],"wantedlvl":1
+[23:39:41.1802358][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1173.89,-1173.97,5.62],"wantedlvl":0
+[23:47:51.6951136][WARN/reaction.cpp:60] Received Modder Detection from HansEmil_ (145554743)
+[23:51:03.6851484][WARN/reaction.cpp:60] Received Modder Detection from Schwindikus (141019778)
+[23:52:46.6003626][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14493411,"type":3136273443,"cat":654913086,"pt":3823697962,"slot":0
+[23:54:04.5814016][WARN/reaction.cpp:60] Received Modder Detection from Zeero_Skills (183856834)
+[00:12:00.0855550][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[00:12:00.0857253][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14493411,"type":3136273443,"cat":654913086,"pt":3824814447,"slot":0
+[00:38:07.3914288][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":91200,"char":{"slot":0,"cash":91200,"bank":128546018,"evc":128637218,"pvc":0,"pxr":0.00000,"nonce":638462326820280020},"c":[1075.45776,-2284.00757,-46.59989],"pt":3826306240,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[00:38:07.3914919][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":91200,"char":{"slot":0,"cash":91200,"bank":128546018,"evc":128637218,"pvc":0,"pxr":0.00000,"nonce":638462326820280020},"c":[1075.45776,-2284.00757,-46.59989],"pt":3826306240,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[00:46:26.6763708][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":0,"bank":128657218,"evc":128657218,"pvc":0,"pxr":0.00000,"nonce":638462331813603111},"c":[1171.39197,-2970.19629,5.18874],"pt":3826793130,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[00:46:26.6764311][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":0,"bank":128657218,"evc":128657218,"pvc":0,"pxr":0.00000,"nonce":638462331813603111},"c":[1171.39197,-2970.19629,5.18874],"pt":3826793130,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[00:48:48.7398129][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2435321038,"cat":3285634639,"pt":3826793130,"slot":0
+[00:58:49.3604906][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2435321038,"cat":2131309714,"pt":3827506802,"slot":0
+[00:58:49.3605220][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2435321038,"cat":2131309714,"pt":3827516825,"slot":0
+[00:58:49.3606103][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2435321038,"cat":2131309714,"pt":3827526850,"slot":0
+[00:59:52.0620849][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":38400,"char":{"slot":0,"cash":38400,"bank":128656718,"evc":128695118,"pvc":0,"pxr":0.00000,"nonce":638462339867927267},"c":[2561.09619,373.55701,109.62100],"pt":3827576986,"vct":0,"vcp":0,"mid":0,"action":"CHICKEN","cat":"SETUP","ctx":{
+[00:59:52.0621278][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":38400,"char":{"slot":0,"cash":38400,"bank":128656718,"evc":128695118,"pvc":0,"pxr":0.00000,"nonce":638462339867927267},"c":[2561.09619,373.55701,109.62100],"pt":3827576986,"vct":0,"vcp":0,"mid":0,"action":"CHICKEN","cat":"SETUP","ctx":{
+[00:59:59.6634458][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2435321038,"cat":2131309714,"pt":3827526850,"slot":0
+[00:59:59.6634775][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2435321038,"cat":2131309714,"pt":3827526850,"slot":0
+[00:59:59.6634896][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2435321038,"cat":2131309714,"pt":3827536880,"slot":0
+[00:59:59.6634972][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":50,"type":2435321038,"cat":2131309714,"pt":3827546909,"slot":0
+[00:59:59.6635180][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":5428,"type":2658791846,"cat":2053762773,"pt":3827576986,"slot":0
+[00:59:59.6635267][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":400,"type":2658791846,"cat":2053762773,"pt":3827576986,"slot":0
+[01:00:25.4829462][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[01:03:47.4826251][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":81637,"char":{"slot":0,"cash":81637,"bank":128695031,"evc":128776668,"pvc":0,"pxr":0.00000,"nonce":638462342221781412},"c":[730.68909,-1087.82239,21.78633],"pt":3827811122,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[01:03:47.4827061][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":81637,"char":{"slot":0,"cash":81637,"bank":128695031,"evc":128776668,"pvc":0,"pxr":0.00000,"nonce":638462342221781412},"c":[730.68909,-1087.82239,21.78633],"pt":3827811122,"vct":0,"vcp":0,"mid":0,"action":"VEHICLE","cat":"SELLING_VEH","ctx":{
+[01:04:25.5186107][INFO/main.cpp:272] Scripts unregistered.
+[01:04:25.5186332][INFO/main.cpp:275] Lua manager uninitialized.
+[01:04:25.5678597][INFO/main.cpp:278] Hooking disabled.
+[01:04:25.5687009][INFO/main.cpp:281] Dynamic native hooker uninitialized.
+[01:04:25.5687269][DEBUG/thread_pool.cpp:109] Thread 13396 exiting...
+[01:04:25.5687628][DEBUG/thread_pool.cpp:109] Thread 13204 exiting...
+[01:04:25.5688222][DEBUG/thread_pool.cpp:109] Thread 1944 exiting...
+[01:04:25.5688330][DEBUG/thread_pool.cpp:109] Thread 5564 exiting...
+[01:04:25.5700364][INFO/main.cpp:286] Destroyed thread pool.
+[01:04:25.5700655][INFO/main.cpp:289] Script Connection Service reset.
+[01:04:25.5737336][INFO/main.cpp:291] Tunables Service reset.
+[01:04:25.5737482][INFO/main.cpp:293] Hotkey Service reset.
+[01:04:25.5737532][INFO/main.cpp:295] Matchmaking Service reset.
+[01:04:25.5750790][INFO/main.cpp:297] Player Database Service reset.
+[01:04:25.5750875][INFO/main.cpp:299] API Service reset.
+[01:04:25.5948270][INFO/main.cpp:301] Script Patcher Service reset.
+[01:04:25.5948586][INFO/main.cpp:303] Gui Service reset.
+[01:04:25.5967908][INFO/main.cpp:305] GTA Data Service reset.
+[01:04:25.5968052][INFO/main.cpp:307] Vehicle Service reset.
+[01:04:25.5968080][INFO/main.cpp:309] Model Preview Service reset.
+[01:04:25.5968116][INFO/main.cpp:311] Mobile Service reset.
+[01:04:25.5968152][INFO/main.cpp:313] Player Service reset.
+[01:04:25.5968167][INFO/main.cpp:315] Pickup Service reset.
+[01:04:25.5968200][INFO/main.cpp:317] Custom Text Service reset.
+[01:04:25.5970765][INFO/main.cpp:319] Context Service reset.
+[01:04:25.5970846][INFO/main.cpp:321] Xml Vehicles Service reset.
+[01:04:25.5970861][INFO/main.cpp:322] Services uninitialized.
+[01:04:25.5972454][INFO/main.cpp:325] Hooking uninitialized.
+[01:04:25.5972536][INFO/main.cpp:328] Fiber pool uninitialized.
+[01:04:25.6200297][INFO/main.cpp:331] Renderer uninitialized.
+[01:04:25.6203838][INFO/main.cpp:334] Byte Patch Manager uninitialized.
+[01:04:25.6203953][INFO/main.cpp:337] Pointers uninitialized.
+[01:04:25.6204011][INFO/main.cpp:340] Thread pool uninitialized.
+[01:04:25.6204040][INFO/main.cpp:342] Farewell!

@@ -1,0 +1,214 @@
+[17:41:30.7091985][INFO/main.cpp:104] Yim's Menu Initializing
+[17:41:30.7092717][INFO/main.cpp:105] Git Info
+	Branch:	master
+	Hash:	e005640c7515cf4c396fbaecc9fc9b0e3001c4f0
+	Date:	Wed Jan 17 11:08:35 2024
+[17:41:30.7092905][DEBUG/thread_pool.cpp:22] Resizing thread pool from 0 to 4
+[17:41:30.7095783][INFO/main.cpp:108] Thread pool initialized.
+[17:41:30.7227766][INFO/main.cpp:111] Settings Loaded.
+[17:41:30.7228006][DEBUG/thread_pool.cpp:96] Thread 15304 executing settings.cpp:12
+[17:41:30.7311542][INFO/pointers.hpp:94] GTA5 pointers cache is up to date, using it.
+[17:41:30.7312138][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[17:41:30.7312195][INFO/pointers.cpp:1813] Pointers cache: Loading 215 fields from the cache
+[17:41:30.7312453][DEBUG/module.cpp:50] Waiting for socialclub.dll...
+[17:41:30.7372680][INFO/pointers.hpp:94] Social Club pointers cache is up to date, using it.
+[17:41:30.7372830][INFO/pointers.cpp:1804] Loading pointers instance from cache
+[17:41:30.7372855][INFO/pointers.cpp:1813] Pointers cache: Loading 5 fields from the cache
+[17:41:30.7373259][INFO/main.cpp:114] Pointers initialized.
+[17:41:30.7373513][INFO/main.cpp:121] Disabled anticheat gameskeleton.
+[17:41:30.7376408][INFO/main.cpp:124] Byte Patch Manager initialized.
+[17:41:31.3258104][INFO/main.cpp:127] Renderer initialized.
+[17:41:31.5380482][INFO/main.cpp:131] Fiber pool initialized.
+[17:41:31.5453304][INFO/main.cpp:134] HTTP Client initialized.
+[17:41:31.7199194][INFO/main.cpp:137] Translation Service initialized.
+[17:41:31.7479888][INFO/main.cpp:140] Hooking initialized.
+[17:41:31.7780595][DEBUG/gta_data_service.cpp:160] Loading data from cache.
+[17:41:31.7780763][INFO/gta_data_service.cpp:172] Loading 1051 peds from cache.
+[17:41:31.7786773][INFO/gta_data_service.cpp:190] Loading 843 vehicles from cache.
+[17:41:31.7794278][INFO/gta_data_service.cpp:207] Loading 119 weapons from cache.
+[17:41:31.7794395][INFO/gta_data_service.cpp:208] Loading 380 weapon components from cache.
+[17:41:31.7794736][DEBUG/gta_data_service.cpp:166] Loaded all data from cache.
+[17:41:31.7914516][DEBUG/thread_pool.cpp:96] Thread 516 executing player_database_service.cpp:285
+[17:41:31.7924096][INFO/main.cpp:161] Registered service instances...
+[17:41:31.7926069][INFO/main.cpp:182] Scripts registered.
+[17:41:31.8624840][INFO/main.cpp:185] Hooking enabled.
+[17:41:31.8666589][INFO/main.cpp:188] Dynamic native hooker initialized.
+[17:41:31.8674213][INFO/main.cpp:192] Lua manager initialized.
+[17:41:37.2322199][INFO/backend.cpp:53] Starting script: Self
+[17:41:37.2322423][INFO/backend.cpp:78] Starting script: Weapons
+[17:41:37.2324990][INFO/backend.cpp:101] Starting script: Vehicles
+[17:41:37.2325242][INFO/backend.cpp:117] Starting script: Miscellaneous
+[17:41:37.2325663][INFO/backend.cpp:138] Starting script: Remote
+[17:41:37.2325741][INFO/backend.cpp:153] Starting script: Ls customs
+[17:41:37.2325867][INFO/backend.cpp:165] Starting script: Rainbow paint
+[17:41:37.2325918][INFO/backend.cpp:177] Starting script: Disable Control Action
+[17:41:37.2325948][INFO/backend.cpp:190] Starting script: World
+[17:41:37.2568292][INFO/tunables_service.cpp:36] Loading tunables from cache
+[17:41:41.4844106][INFO/queue_dependency.cpp:63] Blocking AC Verifier 318b98
+[17:41:42.1087201][INFO/queue_dependency.cpp:63] Blocking AC Verifier 9621f0
+[17:41:42.1090152][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f774
+[17:41:42.1090301][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f6fc
+[17:41:42.1147726][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335458
+[17:41:42.1148106][INFO/queue_dependency.cpp:63] Blocking AC Verifier 335430
+[17:41:42.1148539][INFO/queue_dependency.cpp:63] Blocking AC Verifier 4012b8
+[17:41:42.1202359][INFO/queue_dependency.cpp:63] Blocking AC Verifier 45acf4
+[17:41:42.1204007][INFO/queue_dependency.cpp:63] Blocking AC Verifier 459f38
+[17:41:42.1204125][INFO/queue_dependency.cpp:63] Blocking AC Verifier 5ca880
+[17:42:14.1076131][INFO/queue_dependency.cpp:63] Blocking AC Verifier a668ec
+[17:42:43.0979131][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f724
+[17:42:43.0979453][INFO/queue_dependency.cpp:63] Blocking AC Verifier 66f74c
+[17:43:20.3199574][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: MM; DATA: "mmList":"4B45524E454C33322E444C4C00|4B45524E454C424153452E646C6C00|5553455233322E646C6C00|47444933322E646C6C00|676469333266756C6C2E646C6C00|6D737663705F77696E2E646C6C00|75637274626173652E646C6C00|50534150492E444C4C00|5753325F33322E646C6C00|5250435254342E
+[17:43:20.3201877][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: MM; DATA: "mmList":"61746964787836342E646C6C00|616D6469686B36342E646C6C00|4849442E444C4C00|4D4D4465764170692E646C6C00|58417564696F325F372E646C6C00|415544494F5345532E444C4C00|7265736F75726365706F6C696379636C69656E742E646C6C00|57696E646F77732E55492E646C6C00|57696E646
+[17:43:59.2769260][WARN/reaction.cpp:60] Received Modder Detection from xJxLKx (212249070)
+[17:44:05.5323288][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[17:44:30.2630395][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14012728,"type":3136273443,"cat":654913086,"pt":3510905211,"slot":0
+[17:44:30.2632732][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: UVC; DATA: "vc":false
+[17:44:32.0192447][WARN/reaction.cpp:60] Received Modder Detection from Titch219 (133123992)
+[17:50:06.3016068][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2467613365,"cat":4079347841,"pt":3511249113,"slot":0
+[17:50:08.5488071][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":10000,"bank":120533861,"evc":120543861,"pvc":0,"pxr":0.00000,"nonce":638437026030905480},"c":[-1633.20850,-2997.49121,-78.14371],"pt":3511249113,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NO
+[17:50:08.5488664][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":10000,"bank":120533861,"evc":120543861,"pvc":0,"pxr":0.00000,"nonce":638437026030905480},"c":[-1633.20850,-2997.49121,-78.14371],"pt":3511249113,"vct":0,"vcp":0,"mid":0,"action":"CLUB_MANAGEMENT_PARTICIPATION","cat":"NO
+[17:55:06.2527840][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is Monkeyplaysz
+[17:55:26.5104224][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is Perezzz_12
+[17:56:40.4784965][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is Perezzz_12
+[17:56:46.5210092][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is Raf0Iiveira
+[18:01:48.5766191][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14013728,"type":3136273443,"cat":654913086,"pt":3511708445,"slot":0
+[18:02:10.8157302][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is xJxLKx
+[18:02:27.6626423][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14013728,"type":3136273443,"cat":654913086,"pt":3511735611,"slot":0
+[18:03:54.8234797][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":25000,"char":{"slot":0,"cash":9000,"bank":120558861,"evc":120567861,"pvc":0,"pxr":0.00000,"nonce":638437034291728542},"c":[-1677.96814,-706.05145,11.34130],"pt":3511820306,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"AM_CRI
+[18:03:54.8235231][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":25000,"char":{"slot":0,"cash":9000,"bank":120558861,"evc":120567861,"pvc":0,"pxr":0.00000,"nonce":638437034291728542},"c":[-1677.96814,-706.05145,11.34130],"pt":3511820306,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"AM_CRI
+[18:03:58.0061222][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is Monkeyplaysz
+[18:04:13.1776643][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":2200,"type":2658791846,"cat":1712590420,"pt":3511815856,"slot":0
+[18:05:19.8629779][WARN/reaction.cpp:60] Received Modder Detection from slovakiabryndza8 (194641844)
+[18:05:48.8983951][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is LeoXGameing
+[18:07:25.8693739][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-285.13,-1272.48,31.65],"wantedlvl":1
+[18:07:25.8695048][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-293.84,-1272.24,30.31],"wantedlvl":0
+[18:07:25.8695419][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14015928,"type":3136273443,"cat":654913086,"pt":3512022058,"slot":0
+[18:08:01.5306240][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-294.72,-1239.14,26.73],"wantedlvl":1
+[18:08:01.5306682][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-374.00,-1116.30,29.22],"wantedlvl":0
+[18:08:01.5307018][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14015928,"type":3136273443,"cat":654913086,"pt":3512045974,"slot":0
+[18:08:45.7742543][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":14015928,"type":3136273443,"cat":654913086,"pt":3512055990,"slot":0
+[18:09:28.0202655][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is Raf0Iiveira
+[18:09:38.0981839][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is norris_10
+[18:12:54.2812766][WARN/interloper_reaction.cpp:30] Received Spectate Others from ToxicTiger1121 (218323205), victim is LeoXGameing
+[18:18:48.5122846][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":45000,"char":{"slot":0,"cash":7500,"bank":120589123,"evc":120596623,"pvc":0,"pxr":0.00000,"nonce":638437043229844068},"c":[-555.42365,11.36858,44.01780],"pt":3512576990,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"PHONE_HIT","ctx":{"type":6
+[18:18:48.5123357][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":45000,"char":{"slot":0,"cash":7500,"bank":120589123,"evc":120596623,"pvc":0,"pxr":0.00000,"nonce":638437043229844068},"c":[-555.42365,11.36858,44.01780],"pt":3512576990,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"PHONE_HIT","ctx":{"type":6
+[18:21:21.0252390][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":3757759852,"pt":3512576990,"slot":0
+[18:23:25.3916717][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":29200,"char":{"slot":0,"cash":29200,"bank":120596623,"evc":120625823,"pvc":0,"pxr":0.00000,"nonce":638437046040077523},"c":[819.68549,-2986.95972,6.02094],"pt":3512857488,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":4
+[18:23:25.3917463][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":29200,"char":{"slot":0,"cash":29200,"bank":120596623,"evc":120625823,"pvc":0,"pxr":0.00000,"nonce":638437046040077523},"c":[819.68549,-2986.95972,6.02094],"pt":3512857488,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":4
+[18:23:33.0171305][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":18300,"char":{"slot":0,"cash":47500,"bank":120596623,"evc":120644123,"pvc":0,"pxr":0.00000,"nonce":638437046075387305},"c":[819.68549,-2986.95972,6.02094],"pt":3512857488,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[18:23:33.0171754][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":18300,"char":{"slot":0,"cash":47500,"bank":120596623,"evc":120644123,"pvc":0,"pxr":0.00000,"nonce":638437046075387305},"c":[819.68549,-2986.95972,6.02094],"pt":3512857488,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":3
+[18:23:38.5967757][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":14450,"char":{"slot":0,"cash":82550,"bank":120596623,"evc":120679173,"pvc":0,"pxr":0.00000,"nonce":638437046131120502},"c":[819.68549,-2986.95972,6.02094],"pt":3512867499,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[18:23:38.5968209][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":14450,"char":{"slot":0,"cash":82550,"bank":120596623,"evc":120679173,"pvc":0,"pxr":0.00000,"nonce":638437046131120502},"c":[819.68549,-2986.95972,6.02094],"pt":3512867499,"vct":0,"vcp":0,"mid":0,"action":"STREET_DEALER","cat":"NONE","ctx":{"type":7
+[18:24:28.2742300][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":0,"bank":120699173,"evc":120699173,"pvc":0,"pxr":0.00000,"nonce":638437046628309316},"c":[1171.10632,-2973.91577,5.63939],"pt":3512919581,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[18:24:28.2742822][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20000,"char":{"slot":0,"cash":0,"bank":120699173,"evc":120699173,"pvc":0,"pxr":0.00000,"nonce":638437046628309316},"c":[1171.10632,-2973.91577,5.63939],"pt":3512919581,"vct":0,"vcp":0,"mid":0,"action":"DAILY_VEH","cat":"AUTOSHOP","ctx":{
+[18:25:21.1022255][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2435321038,"cat":3285634639,"pt":3512919581,"slot":0
+[18:54:21.9291539][WARN/reaction.cpp:60] Received Modder Detection from LeoXGameing (122410283)
+[19:15:22.2191474][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: DUPE_DETECT; DATA: "a":1,"b":3,"c":3050505892,"d":0,"e":0,"f":261,"g":110,"h":0,"i":0,"j":true,"k":0,"l":0
+[19:23:11.5670525][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":80000,"char":{"slot":0,"cash":80000,"bank":120663478,"evc":120743478,"pvc":0,"pxr":0.00000,"nonce":638437081860611088},"c":[-578.09454,-715.19373,116.80526],"pt":3514881521,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"INCOME","ctx":{}
+[19:23:11.5671562][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":80000,"char":{"slot":0,"cash":80000,"bank":120663478,"evc":120743478,"pvc":0,"pxr":0.00000,"nonce":638437081860611088},"c":[-578.09454,-715.19373,116.80526],"pt":3514881521,"vct":0,"vcp":0,"mid":0,"action":"AGENCY","cat":"INCOME","ctx":{}
+[19:26:51.2571769][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":1500,"char":{"slot":0,"cash":1500,"bank":120743478,"evc":120744978,"pvc":0,"pxr":0.00000,"nonce":638437084058733133},"c":[1075.45776,-2284.00757,-46.59989],"pt":3515076435,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[19:26:51.2572780][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":1500,"char":{"slot":0,"cash":1500,"bank":120743478,"evc":120744978,"pvc":0,"pxr":0.00000,"nonce":638437084058733133},"c":[1075.45776,-2284.00757,-46.59989],"pt":3515076435,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[19:38:22.8196143][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-2127.96,3368.81,32.82],"wantedlvl":2
+[19:48:23.0916179][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-2846.99,401.05,91.84],"wantedlvl":0
+[19:48:23.0916810][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3516273721,"slot":0
+[19:51:23.1377627][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3516460311,"slot":0
+[20:01:14.7003224][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[1205.52,-691.95,59.91],"wantedlvl":2
+[20:02:57.5596148][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":300,"char":{"slot":0,"cash":1800,"bank":120720197,"evc":120721997,"pvc":0,"pxr":0.00000,"nonce":638437105721630869},"c":[1075.45776,-2284.00757,-46.59989],"pt":3517195388,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[20:02:57.5597830][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":300,"char":{"slot":0,"cash":1800,"bank":120720197,"evc":120721997,"pvc":0,"pxr":0.00000,"nonce":638437105721630869},"c":[1075.45776,-2284.00757,-46.59989],"pt":3517195388,"vct":0,"vcp":0,"mid":0,"action":"SALVAGE","cat":"INCOME","ctx":{}
+[20:05:23.4579727][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-714.99,-1182.70,10.15],"wantedlvl":0
+[20:05:23.4580204][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3517112636,"slot":0
+[20:05:23.4580827][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3517173810,"slot":0
+[20:15:23.6473686][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3517738491,"slot":0
+[20:24:23.8667489][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3518254432,"slot":0
+[20:24:23.8669359][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: IDLEKICK; DATA: "idle":120000
+[20:25:12.8406606][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":30,"char":{"slot":0,"cash":1830,"bank":120711182,"evc":120713012,"pvc":0,"pxr":0.00000,"nonce":638437119073267160},"c":[195.72528,-1655.64392,29.80321],"pt":3518487155,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[20:25:12.8407046][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":30,"char":{"slot":0,"cash":1830,"bank":120711182,"evc":120713012,"pvc":0,"pxr":0.00000,"nonce":638437119073267160},"c":[195.72528,-1655.64392,29.80321],"pt":3518487155,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[20:25:25.2696018][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":27,"char":{"slot":0,"cash":1857,"bank":120711182,"evc":120713039,"pvc":0,"pxr":0.00000,"nonce":638437119198559122},"c":[202.63634,-1655.08301,29.80318],"pt":3518507187,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[20:25:25.2696462][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":27,"char":{"slot":0,"cash":1857,"bank":120711182,"evc":120713039,"pvc":0,"pxr":0.00000,"nonce":638437119198559122},"c":[202.63634,-1655.08301,29.80318],"pt":3518507187,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[20:25:55.3772919][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20,"char":{"slot":0,"cash":1877,"bank":120711182,"evc":120713059,"pvc":0,"pxr":0.00000,"nonce":638437119498979923},"c":[202.29456,-1658.65234,29.80321],"pt":3518537275,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[20:25:55.3773347][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20,"char":{"slot":0,"cash":1877,"bank":120711182,"evc":120713059,"pvc":0,"pxr":0.00000,"nonce":638437119498979923},"c":[202.29456,-1658.65234,29.80321],"pt":3518537275,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{}
+[20:28:24.0096872][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[200.51,-1654.27,29.80],"wantedlvl":2
+[20:28:24.0098108][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[389.82,-1133.35,28.93],"wantedlvl":0
+[20:28:24.0098190][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":200,"type":2892279813,"cat":3893038019,"pt":3518627482,"slot":0
+[20:28:24.0098744][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3518663270,"slot":0
+[20:57:24.7527927][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3520268453,"slot":0
+[21:01:24.8780184][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3520483000,"slot":0
+[21:12:30.8243652][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":3877,"bank":120702167,"evc":120706044,"pvc":0,"pxr":0.00000,"nonce":638437147453639422},"c":[824.31036,-2246.73267,-48.99993],"pt":3521203968,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[21:12:30.8244264][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":2000,"char":{"slot":0,"cash":3877,"bank":120702167,"evc":120706044,"pvc":0,"pxr":0.00000,"nonce":638437147453639422},"c":[824.31036,-2246.73267,-48.99993],"pt":3521203968,"vct":0,"vcp":0,"mid":0,"action":"BADSPORT","cat":"GOOD_SPORT","ctx":{}
+[21:15:25.3968729][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[884.43,-2272.97,-49.63],"wantedlvl":4
+[21:19:38.1181527][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[863.05,23.44,78.24],"name":353883353,"cd":[863,23],"wlvl":4
+[21:19:38.1181935][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[860.52,21.80,78.38],"name":353883353,"cd":[860,21],"wlvl":4
+[21:19:38.1182229][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-108.99,54.34,70.84],"name":353883353,"cd":[-108,54],"wlvl":4
+[21:19:38.1182729][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-209.44,-498.88,34.05],"name":353883353,"cd":[-209,-498],"wlvl":4
+[21:19:38.1183486][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-243.02,-734.37,15.70],"name":353883353,"cd":[-243,-734],"wlvl":4
+[21:19:38.1183616][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-243.02,-734.37,15.70],"name":353883353,"cd":[-243,-734],"wlvl":4
+[21:19:38.1184344][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-241.35,-734.72,15.09],"wantedlvl":0
+[21:19:38.1184456][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":400,"type":2892279813,"cat":3893038019,"pt":3521580778,"slot":0
+[21:19:45.0900331][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":3877,"bank":120712167,"evc":120716044,"pvc":0,"pxr":0.00000,"nonce":638437151795987347},"c":[-15.69278,-1308.36780,18.50145],"pt":3521639739,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"FINALE","ctx":{
+[21:19:45.0901324][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":10000,"char":{"slot":0,"cash":3877,"bank":120712167,"evc":120716044,"pvc":0,"pxr":0.00000,"nonce":638437151795987347},"c":[-15.69278,-1308.36780,18.50145],"pt":3521639739,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"FINALE","ctx":{
+[21:25:25.6481371][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3521639739,"slot":0
+[21:25:25.6483191][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":100,"type":2467613365,"cat":1230953670,"pt":3521681471,"slot":0
+[21:29:25.7573870][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":1000,"type":2658791846,"cat":404533672,"pt":3522083564,"slot":0
+[21:31:24.2051382][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60500,"char":{"slot":0,"cash":64377,"bank":120704667,"evc":120769044,"pvc":0,"pxr":0.00000,"nonce":638437158787025003},"c":[-1615.82300,-3015.84131,-75.20506],"pt":3522300082,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[21:31:24.2051831][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":60500,"char":{"slot":0,"cash":64377,"bank":120704667,"evc":120769044,"pvc":0,"pxr":0.00000,"nonce":638437158787025003},"c":[-1615.82300,-3015.84131,-75.20506],"pt":3522300082,"vct":0,"vcp":0,"mid":0,"action":"NIGHTCLUB","cat":"INCOME","ctx":{}
+[21:49:26.3616219][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1294.96,-894.00,10.73],"wantedlvl":2
+[21:52:57.0070772][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-350.54,-136.13,38.35],"wantedlvl":0
+[21:53:07.3286044][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20140,"char":{"slot":0,"cash":20140,"bank":120760029,"evc":120780169,"pvc":0,"pxr":0.00000,"nonce":638437171818981402},"c":[1198.36987,-3104.49756,6.02803],"pt":3523598534,"vct":0,"vcp":0,"mid":0,"action":"IMP_EXP","cat":"JOBS","ctx":{
+[21:53:07.3288551][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":20140,"char":{"slot":0,"cash":20140,"bank":120760029,"evc":120780169,"pvc":0,"pxr":0.00000,"nonce":638437171818981402},"c":[1198.36987,-3104.49756,6.02803],"pt":3523598534,"vct":0,"vcp":0,"mid":0,"action":"IMP_EXP","cat":"JOBS","ctx":{
+[21:56:52.3121958][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: AWARD_XP; DATA: "amt":500,"type":2658791846,"cat":2364259886,"pt":3523596970,"slot":0
+[22:12:44.7465583][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":5664,"char":{"slot":0,"cash":0,"bank":120782552,"evc":120782552,"pvc":0,"pxr":0.00000,"nonce":638437183592270803},"c":[-3122.45044,201.14088,2.56288],"pt":3524755361,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"fm_content_m
+[22:12:44.7466170][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":5664,"char":{"slot":0,"cash":0,"bank":120782552,"evc":120782552,"pvc":0,"pxr":0.00000,"nonce":638437183592270803},"c":[-3122.45044,201.14088,2.56288],"pt":3524755361,"vct":0,"vcp":0,"mid":0,"action":"AMB_JOB","cat":"JOBS","ctx":{"desc":"fm_content_m
+[22:15:23.6750925][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":34000,"char":{"slot":0,"cash":0,"bank":120816552,"evc":120816552,"pvc":0,"pxr":0.00000,"nonce":638437185182289167},"c":[-3046.31519,208.49689,16.15006],"pt":3524917221,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"SALVAGE","ctx":{
+[22:15:23.6751524][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":34000,"char":{"slot":0,"cash":0,"bank":120816552,"evc":120816552,"pvc":0,"pxr":0.00000,"nonce":638437185182289167},"c":[-3046.31519,208.49689,16.15006],"pt":3524917221,"vct":0,"vcp":0,"mid":0,"action":"VEH_ROBBERY","cat":"SALVAGE","ctx":{
+[22:16:27.1031254][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-3005.80,347.31,14.38],"wantedlvl":1
+[22:16:27.1033060][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-3112.43,190.31,2.75],"wantedlvl":3
+[22:20:27.2241632][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-3046.74,264.54,19.01],"wantedlvl":4
+[22:24:27.3588957][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-3005.31,150.91,15.46],"wantedlvl":0
+[22:24:27.3589568][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-3016.23,175.20,15.99],"wantedlvl":4
+[22:24:27.3590557][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-3026.35,175.44,15.67],"name":353883353,"cd":[-3026,175],"wlvl":4
+[22:24:27.3590647][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-3026.35,175.44,15.67],"name":353883353,"cd":[-3026,175],"wlvl":4
+[22:24:27.3591230][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1810.95,-522.27,30.30],"name":353883353,"cd":[-1810,-522],"wlvl":4
+[22:24:27.3591438][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1489.60,-722.93,25.94],"wantedlvl":0
+[22:24:27.3593626][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1521.85,-710.18,27.91],"wantedlvl":4
+[22:29:27.4677983][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1530.40,-687.20,28.86],"name":353883353,"cd":[-1530,-687],"wlvl":4
+[22:29:27.4678344][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1531.53,-685.50,28.87],"name":353883353,"cd":[-1531,-685],"wlvl":4
+[22:29:27.4678431][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: ESVCS; DATA: "c":[-1507.45,-705.12,27.47],"name":353883353,"cd":[-1507,-705],"wlvl":4
+[22:29:27.4678639][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: W_L; DATA: "c":[-1507.45,-705.12,27.47],"wantedlvl":0
+[22:30:34.1502454][DEBUG/script_function.cpp:35] Found pattern ML in script carmod_shop
+[22:30:34.1557185][DEBUG/script_function.cpp:35] Found pattern SM in script carmod_shop
+[22:37:46.3956397][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":12,"char":{"slot":0,"cash":12,"bank":120807210,"evc":120807222,"pvc":0,"pxr":0.00000,"nonce":638437198609003473},"c":[-298.05484,-337.02295,29.63307],"pt":3526255674,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[22:37:46.3957085][WARN/prepare_metric_for_sending.cpp:93] BAD METRIC: EARN; DATA: "amt":12,"char":{"slot":0,"cash":12,"bank":120807210,"evc":120807222,"pvc":0,"pxr":0.00000,"nonce":638437198609003473},"c":[-298.05484,-337.02295,29.63307],"pt":3526255674,"vct":0,"vcp":0,"mid":0,"action":"PICKUP","cat":"PICKED_UP","ctx":{},"tobank":false
+[22:42:23.7206748][INFO/main.cpp:200] Scripts unregistered.
+[22:42:23.7206995][INFO/main.cpp:203] Lua manager uninitialized.
+[22:42:23.7862700][INFO/main.cpp:206] Hooking disabled.
+[22:42:23.7866976][INFO/main.cpp:209] Dynamic native hooker uninitialized.
+[22:42:23.7867252][DEBUG/thread_pool.cpp:109] Thread 15304 exiting...
+[22:42:23.7867278][DEBUG/thread_pool.cpp:109] Thread 516 exiting...
+[22:42:23.7868068][DEBUG/thread_pool.cpp:109] Thread 2956 exiting...
+[22:42:23.7868181][DEBUG/thread_pool.cpp:109] Thread 9724 exiting...
+[22:42:23.7907391][INFO/main.cpp:214] Destroyed thread pool.
+[22:42:23.7907519][INFO/main.cpp:217] Script Connection Service reset.
+[22:42:23.7973439][INFO/main.cpp:219] Tunables Service reset.
+[22:42:23.7973664][INFO/main.cpp:221] Hotkey Service reset.
+[22:42:23.7973720][INFO/main.cpp:223] Matchmaking Service reset.
+[22:42:23.7974366][INFO/main.cpp:225] Player Database Service reset.
+[22:42:23.7974400][INFO/main.cpp:227] API Service reset.
+[22:42:23.8199531][INFO/main.cpp:229] Script Patcher Service reset.
+[22:42:23.8200128][INFO/main.cpp:231] Gui Service reset.
+[22:42:23.8218132][INFO/main.cpp:233] GTA Data Service reset.
+[22:42:23.8218377][INFO/main.cpp:235] Vehicle Service reset.
+[22:42:23.8218475][INFO/main.cpp:237] Model Preview Service reset.
+[22:42:23.8230071][INFO/main.cpp:239] Mobile Service reset.
+[22:42:23.8230190][INFO/main.cpp:241] Player Service reset.
+[22:42:23.8230240][INFO/main.cpp:243] Pickup Service reset.
+[22:42:23.8230292][INFO/main.cpp:245] Custom Text Service reset.
+[22:42:23.8230964][INFO/main.cpp:247] Context Service reset.
+[22:42:23.8231041][INFO/main.cpp:249] Xml Vehicles Service reset.
+[22:42:23.8231064][INFO/main.cpp:250] Services uninitialized.
+[22:42:23.8231683][INFO/main.cpp:253] Hooking uninitialized.
+[22:42:23.8231801][INFO/main.cpp:256] Fiber pool uninitialized.
+[22:42:23.8540354][INFO/main.cpp:259] Renderer uninitialized.
+[22:42:23.8543953][INFO/main.cpp:262] Byte Patch Manager uninitialized.
+[22:42:23.8544054][INFO/main.cpp:265] Pointers uninitialized.
+[22:42:23.8544109][INFO/main.cpp:268] Thread pool uninitialized.
+[22:42:23.8544129][INFO/main.cpp:270] Farewell!
